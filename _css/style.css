@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+.tam-hamburguer {
+    width: 90px;
+    height: 80px;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    height: 70px;
+    width: 50px;
+}
+
+#navbarSupportedContent {
+    text-align: end;
+    padding: 0 0 0 1180px;
+}
+
+@media (max-width: 2560px) {
+    #navbarSupportedContent {
+        text-align: end;
+        padding: 0 0 0 2377px;
+    }
+}
+
+@media (max-width: 1440px) {
+    #navbarSupportedContent {
+        text-align: end;
+        padding: 0 0 0 1257px;
+    }
+}
+
+@media (max-width: 1024px) {
+    #navbarSupportedContent {
+        text-align: end;
+        padding: 0 0 0 840px;
+    }
+}
+
+@media (max-width: 768px) {
+    #navbarSupportedContent {
+        text-align: end;
+        padding: 0 0 0 580px;
+    }
+}
+
+@media (max-width: 425px) {
+    #navbarSupportedContent {
+        text-align: end;
+        padding: 0 0 0 240px;
+    }
+}
+
+#btn-grupo {
+    flex: 0 1 auto;
+    font-size: .875rem;
+    padding: .375rem .75rem;
+    width: 100%;
+}
+
+.navbar-nav .dropdown-menu {
+    position: absolute;
+}
+
+/* .dropdown-menu {
+    position: absolute;
+} */
+
+/*                  HEADER                  */
+
+header {
+    background-color: #081424;
+}
+
+.centraliza {
+    text-align: center;
+}
