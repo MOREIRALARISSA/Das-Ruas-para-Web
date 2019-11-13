@@ -4,6 +4,7 @@
 ?>
 
 </div>
+
 <footer class="footer bg-light">
     <div class="row">
         <div class="col-lg-4 centraliza">
@@ -45,7 +46,6 @@
 
 
     </div>
-
 
 </footer>
 

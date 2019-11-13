@@ -22,7 +22,7 @@
     <!-- <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
-    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/css/_style.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
@@ -34,19 +34,20 @@
     
     <header>
         
-            <nav class="navbar navbar-dark bg-dark justify-content-end">
-            
+        
+        <nav class="navbar navbar-dark bg-dark">
             <!-- img header --> 
-            <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logoresponsive.png" class="img-fluid" alt="Responsive image">
-
-            
+            <!-- <div class="col-lg-10 offset-lg-1" style="text-align: center"> -->
+                <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/992.png" class="img-fluid" alt="Responsive image" />
+            <!-- </div> -->
+        
+            <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->
                 <button class="navbar-toggler tam-hamburguer" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto menu-estilos">
@@ -125,13 +126,15 @@
                         </li>
 
                         <!--
-      <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
+    </li>
 -->
                     </ul>
-                </div>
-            </nav>
+                <!-- </div> -->
+            </div>
+        </nav>
+        
 
-        </header>
+    </header>
         <div class="container">
