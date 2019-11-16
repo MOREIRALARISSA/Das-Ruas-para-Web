@@ -10,13 +10,13 @@
     </div>
 
     <div class="row">
-        <div class="col-lg-4 col-md-4">
-            <figure>
+        <div class="col-lg-4 col-md-6 order-lg-first col-sm-10 offset-sm-3">
+
             <img src="./../../_images/anderson/gemeo_1.png" alt="" />
-            </figure>
+
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first">
             <p>
             Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
             madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
@@ -31,10 +31,10 @@
             </p>
         </div>
 
-        <div class="col-lg-4 col-md-4">
-            <figure>
+        <div class="col-lg-4 col-md-6 col-sm-10 offset-sm-3">
+
             <img src="./../../_images/anderson/gemeo_2.png" alt="" />
-            </figure>
+
         </div>
     </div>
 

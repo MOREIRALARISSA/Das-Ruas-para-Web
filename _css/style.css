@@ -25,7 +25,7 @@
 @media (max-width: 1440px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 1257px;
+        padding: 0 0 0 1220px;
     }
 }
 
@@ -67,10 +67,19 @@
 
 /*                  HEADER                  */
 
-header {
-    background-color: #081424;
-}
-
 .centraliza {
     text-align: center;
+}
+
+.bg-dark {
+    background-color: #081424 !important;
+}
+
+.bg-dark img {
+    margin: 0 auto;
+}
+
+.posicao_menu {
+    position: absolute;
+    right: 20px;
 }
