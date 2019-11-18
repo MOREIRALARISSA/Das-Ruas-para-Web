@@ -2,59 +2,57 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-    <main>
-        <div class="row justify-content-center">
-            <h1>Normas de Utilização</h1>
-        </div>
+<main class="mt-4 mb-4">
+    <div class="row justify-content-center">
+        <h1>Normas de Utilização</h1>
+    </div>
 
-        <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus pulvinar lobortis odio ac tristique. 
-        Suspendisse posuere vestibulum diam, at pellentesque diam sodales sed. Sed vulputate ante purus, nec 
-        lacinia erat eleifend non. Curabitur nibh eros, posuere eu faucibus et, sodales ut dui. Ut placerat 
-        venenatis purus, at elementum diam rhoncus eu. Cras posuere lorem maximus nisi mattis, nec aliquam erat 
-        ornare. Ut ut pharetra mi. Sed ut lectus ipsum. Nulla facilisi. In at fringilla felis. Integer finibus, 
-        odio vitae pulvinar faucibus, velit ipsum efficitur augue, in posuere leo augue ac dolor.
-        </p>
+    <p>
+        É proibido publicar, divulgar, propagar ou disseminar, em qualquer produto interativo do site Das Ruas para WEB, qualquer material protegido por direitos autorais, sem a devida autorização do autor ou de seu representante. É proibido, ainda, publicar imagens de pessoas sem prévia autorização.
+    </p>
+    <p>
+        O Das Ruas para WEB não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhum produto interativo. O conteúdo publicado por assinantes ou visitantes nos produtos interativos não é revisado ou fiscalizado pelo Das Ruas para WEB.
+        Porém, o Das Ruas para WEB poderá, a qualquer tempo e a seu critério, deixar qualquer conteúdo fora do âmbito do seu portal na Internet ou excluir, parcial ou integralmente, qualquer conteúdo disponibilizado pelos usuários ou visitantes de seus serviços, caso possa ser interpretado que o referido conteúdo é contrário às normas legais em vigor, às presentes regras ou em razão de denúncias, sem que isto gere qualquer responsabilidade ao UOL ou direito ao usuário.
+    </p>
 
-        <p>
-        Sed tempus ullamcorper nunc nec mollis. Aliquam vulputate velit et orci suscipit, eget hendrerit ante imperdiet. 
-        Morbi fringilla malesuada ante. Phasellus eu facilisis mi, tincidunt lobortis justo. Suspendisse sit amet magna 
-        bibendum, viverra felis id, posuere libero. Aenean maximus, turpis a porta ultricies, nunc tortor ultrices diam, 
-        ut ultricies nisl lacus ac erat. In nec vulputate dui. Nam magna risus, efficitur eu lacus vel, fringilla sollicitudin 
-        magna. Quisque neque turpis, efficitur quis posuere eu, sodales at nisl. Aliquam tincidunt ex et imperdiet egestas. 
-        In nec est at ex vestibulum tristique id ac nibh. Fusce interdum ipsum a ligula blandit ultrices. Vivamus porta iaculis 
-        ullamcorper. Aliquam in luctus sem. Donec et est at nibh fringilla vulputate. Nulla ut ultricies mi.
-        </p>
-        
-        <p>
-        Pellentesque luctus aliquet tristique. Donec viverra pretium nisi sit amet pellentesque. Curabitur ut pharetra tortor, 
-        et blandit lacus. Donec sollicitudin tortor sit amet dapibus eleifend. Ut elementum, quam eu maximus semper, turpis 
-        urna mattis tortor, in faucibus magna magna in sapien. Vestibulum ut vestibulum massa, ultrices convallis mauris. 
-        Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean purus magna, 
-        ullamcorper nec finibus quis, maximus vitae augue. In quis enim tellus. Nullam egestas interdum neque, vitae pellentesque 
-        dui dapibus sit amet.
-        </p>
-        
-        <p>
-        Phasellus ligula ipsum, condimentum in porttitor at, pretium eget ligula. Suspendisse blandit, sapien eget elementum 
-        facilisis, diam ipsum iaculis libero, non lobortis erat dui eget sapien. Quisque porttitor vestibulum eleifend. Maecenas 
-        dictum purus ut tempor tristique. Nam porttitor sapien vitae ornare pellentesque. Vivamus vel hendrerit augue. Cras 
-        dignissim eu lorem venenatis vestibulum. Duis porttitor dictum lectus, eu egestas lectus feugiat sit amet. Proin faucibus 
-        libero risus, in interdum odio sagittis quis. Praesent neque leo, tristique eget elementum et, semper non tortor. Sed 
-        tempus massa velit, eget porttitor eros lacinia non. Aliquam erat volutpat. Quisque eu hendrerit eros. Aenean ac sodales 
-        turpis. Cras posuere non mauris eu pulvinar.
-        </p>
-        
-        <p>
-        Pellentesque at purus nisl. Praesent vel fermentum ipsum. Aenean blandit vehicula elit ac faucibus. Curabitur tellus mauris, 
-        blandit pulvinar mattis ut, sollicitudin ac magna. Quisque nunc nulla, varius ut dolor nec, consequat eleifend sapien. 
-        Curabitur in pellentesque eros. Vivamus viverra in leo ut euismod. Aenean aliquet, lectus a scelerisque tempor, eros libero 
-        laoreet diam, ut sollicitudin leo nulla a augue. Morbi sit amet interdum nisl, tempus efficitur quam. Nam maximus cursus 
-        augue id condimentum. Praesent tristique cursus erat nec mollis. Quisque sapien metus, dapibus ut lectus ac, tincidunt 
-        consectetur nisi. Donec vitae vulputate urna.
-        </p>
-        
-    </main>
+    <p>
+        Se por mais de uma vez forem descumpridas quaisquer das regras expostas ou for verificado o exercício de ilegalidades, o produto interativo será excluído da Internet.
+    </p>
+    <p>
+        O Das Ruas para WEB também se reserva o direito de reproduzir e publicar fotos ou trechos das páginas criadas em seus produtos interativos em qualquer meio, a qualquer momento.
+    </p>
+    <p>
+        O Das Ruas para WEB não se responsabiliza por qualquer dano supostamente decorrente do uso dos produtos interativos. O Das Ruas para WEB se reserva o direito de modificar as regras de uso a qualquer momento, sob seu exclusivo critério.
+    </p>
+    <p>O conteúdo publicado nos produtos interativos do Das Ruas para WEB não deve conter os seguintes itens:</p>
+    <ul>
+        <li>
+            Material pornográfico ou atividades ilegais incluindo menores de 18 anos (segundo o artigo 241 do Estatuto da Criança e do Adolescente);
+        </li>
+        <li>Material e/ou linguagem grosseira ou ofensiva;</li>
+        <li>Prática, indução ou incitação de preconceito quanto à origem, raça, etnia, sexo, orientação sexual, cor, idade, crença religiosa ou qualquer outra forma de discriminação;</li>
+        <li>Material calunioso, abusivo ou que invada a privacidade de alguém;</li>
+        <li>Imagens e/ou linguagem obscena ou pornográfica;</li>
+        <li>Afirmações injuriosas ou difamatórias;</li>
+        <li>Informação sobre atividades ilegais e incitação ao crime;</li>
+        <li>Material protegido por direitos autorais, nem publicar fotos ou textos sem autorização do autor ou de seu representante legal, publicar fotos sem autorização dos fotografados e distribuir arquivos de som sem autorização de pessoas ou empresas responsáveis;</li>
+        <li>Informação relativa à pirataria de material protegido pelas leis de direitos autorais e propriedade;</li>
+        <li>Divulgar como próprio ou sem a devida autorização nomes, contatos e demais informações de terceiros;</li>
+        <li>Propaganda eleitoral;</li>
+        <li>Banners publicitários;</li>
+        <li>Vendas online, mesmo de produtos de criação do autor da página;</li>
+        <li>Páginas e arquivos criptografados ou protegidos por senhas;</li>
+        <li>Programas e arquivos que contenham vírus ou qualquer outro código malicioso;</li>
+        <li>Arquivos que sejam exclusivamente acessados por Websites hospedados fora do Das Ruas para WEB;</li>
+        <li>Defesa ou estímulo às práticas de bulimia e/ou anorexia;</li>
+        <li>Material que viole qualquer lei municipal, estadual ou federal do Brasil;</li>
+        <li>Material que configure crime virtual;</li>
+        <li>Prática de "flood": envio da mesma mensagem repetidas vezes em um curto espaço de tempo.</li>
+    </ul>
+
+    <p> Aplicam-se ainda aos usuários dos serviços Das Ruas para WEB as Normas de Segurança e Privacidade do Das Ruas para WEB.</p>
+
+</main>
 
 <?php
     include ('_templates/footer.php');

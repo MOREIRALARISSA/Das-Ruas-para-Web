@@ -2,43 +2,36 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-    <main>
-    
+<main class="mt-4 mb-4">
+
     <div class="row justify-content-center">
-        <h1>Título</h1>
+        <h1>GRAFITE</h1>
     </div>
 
     <div>
         <p>
-            Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-            madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-            primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-            invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-            fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat 
-            erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice 
-            timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura 
-            ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant 
-            cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus 
-            viseret subdita frigida quem praeter longo locis arce spectent.
+            <strong>Grafite</strong>, grafito ou grafíti (do italiano graffiti, plural de graffito) é o nome dado às inscrições feitas em paredes. </p>
+
+        <p>
+            Definido por Norman Mailler como” uma rebelião tribal contra a opressora civilização industrial” e, por outros, como “violação, anarquia social, destruição moral, vandalismo puro e simples”, o Grafite saiu do seu gueto – o metrô – e das ruas das galerias e museus de arte, instalando-se em coleções privadas e cobrindo com seus rabiscos e signos os mais variados objetos de consumo.
+        </p>
+        <p>
+            Normalmente distingue-se o grafite, de elaboração mais complexa, da simples pichação, quase sempre considerada como contravenção. No entanto, muitos grafiteiros respeitáveis, como Os gemeos, autores de importantes trabalhos em várias paredes do mundo, aí incluída a grande fachada da Tate Modern de Londres admitem ter um passado de pichadores. Na língua inglesa, contudo, usa-se o termo graffiti para ambas as expressões.
         </p>
     </div>
 
     <div class="row">
         <div class="offset-lg-1 col-lg-6">
             <p>
-                Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-                madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-                primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-                invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-                fratrum invasit satus quinta erat.
+                A partir do movimento contracultural de maio de 1968, quando os muros de Paris foram suporte para inscrições de caráter poético-político, a prática do grafite generalizou-se pelo mundo, em diferentes contextos, tipos e estilos, que vão do simples rabisco ou de tags repetidas ad nauseam, como uma espécie de demarcação de território, até grandes murais executados em espaços especialmente designados para tal, ganhando status de verdadeiras obras de arte. Os grafites podem também estar associados a diferentes movimentos e tribos urbanas, como o hip-hop, e a variados graus de transgressão.
             </p>
         </div>
 
         <div class="col-lg-4">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img src="./_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
                 <figcaption>
-                    Austro securae derecti quicquam toto.
+                    Plataforma 180TH Street, Bronx/ Nova York - 1980.
                 </figcaption>
             </figure>
         </div>
@@ -47,20 +40,20 @@
     <div class="row">
         <div class="col-lg-4 offset-lg-1">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img src="./_images/HistoriaDoGrafite/basquiat1981.jpg" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
                 <figcaption>
-                    Austro securae derecti quicquam toto.
+                    Pescaria - 1981 | Jean-Michel Basquiat
                 </figcaption>
             </figure>
         </div>
 
         <div class="col-lg-6">
             <p>
-                Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-                madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-                primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-                invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-                fratrum invasit satus quinta erat.
+                Dentre os grafiteiros, talvez o mais célebre seja Jean-Michel Basquiat, que, no final dos anos 1970, despertou a atenção da imprensa novaiorquina, sobretudo pelas mensagens poéticas que deixava nas paredes dos prédios abandonados de Manhattan. Posteriormente Basquiat ganhou o rótulo de neo-expressionista e foi reconhecido como um dos mais significativos artistas do final do século XX. Atualmente no século XXI, muitas pessoas usam o grafite como arte em museus de arte.
+            </p>
+
+            <p>
+                A primeira grande exposição de Grafite foi realizada em 1975 no “Artist’s Space”, de Nova York, com apresentação de Peter Schjeldahl, mas a consagração veio com a mostra “New York/New Wave” organizada por Diego Cortez, em 1981, no PS 1, um dos principais espaços de vanguarda de Nova York.
             </p>
         </div>
     </div>
@@ -68,25 +61,33 @@
     <div class="row">
         <div class="col-lg-6 offset-lg-1">
             <p>
-                Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-                madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-                primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-                invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-                fratrum invasit satus quinta erat.
+                Principais termos e gírias utilizadas nessa arte:
+            </p>
+            <p>
+                • Grafiteiro/writter: o artista que pinta;
+            </p>
+            <p>
+                • Bite: imitar o estilo de outro grafiteiro;
+            </p>
+            <p>
+                • Tag: é a assinatura de grafiteiro;
+            </p>
+            <p>
+                • Toy: é o grafiteiro iniciante.
             </p>
         </div>
 
         <div class="col-lg-4">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img src="./_images/HistoriaDoGrafite/grafite1982.jpg" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
                 <figcaption>
-                    Austro securae derecti quicquam toto.
+                    Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982.
                 </figcaption>
             </figure>
         </div>
     </div>
 
-    </main>
+</main>
 
 <?php
     include ('_templates/footer.php');
