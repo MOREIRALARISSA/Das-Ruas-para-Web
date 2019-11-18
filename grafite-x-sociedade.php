@@ -2,75 +2,64 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-    <main>
+<main class="mt-4 mb-4">
     <div class="row justify-content-center">
-        <h1>Título</h1>
+        <h1>Grafite x Sociedade</h1>
     </div>
 
-    <h2>Sub Título</h2>
     <p>
-        Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-        madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-        primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-        invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-        fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat 
-        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice 
-        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura 
-        ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant 
-        cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus 
-        viseret subdita frigida quem praeter longo locis arce spectent.
+        Quem vive nos grandes centros urbanos pode encontrar os grafites com certa frequência. Tomando proporções cada vez maiores, o grafite se impõe nos muros das cidades, dispensando a necessidade de se expor em galerias.
+    </p>
+    <p>
+        O fato é que, ainda que já conte com certo tempo de história — a Humanidade explora a pintura artística em paredes desde a arte rupestre. Contudo, as opiniões divergem, pois há quem acredita que o grafite seja vandalismo e outros o classificam como arte, revelando a necessidade de debatermos esse tema sobre o que é grafite.
     </p>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img src="./_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
         <figcaption>
-            Austro securae derecti quicquam toto.
+            Mural no Hell's Kitchen Playground nos anos 1970.
         </figcaption>
     </figure>
 
-    <h2>Sub Título</h2>
+    <h2>O que é o Grafite ?</h2>
     <p>
-        Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-        madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-        primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-        invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-        fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat 
-        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice 
-        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura 
-        ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant 
-        cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus 
-        viseret subdita frigida quem praeter longo locis arce spectent.
+        O grafite é uma forma de expressão artística que utiliza locais públicos — muros, paredes de grandes edifícios e até o chão — como tela.
+    </p>
+    <p>
+        Tal como o conhecemos, a história do grafite remonta ao final dos anos 1960 e início dos anos 1970 em cidades como Paris e Nova York, locais que começaram a mostrar em suas paredes as primeiras obras de artistas anônimos que buscavam se expressar.
     </p>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img src="./_images/GrafitexSociedade/1sTrainGrafite.jpg" class="img-fluid" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
         <figcaption>
-            Austro securae derecti quicquam toto.
+            O primeiro trem a ser coberto por grafite | New York anos 1970.
         </figcaption>
     </figure>
-    
-    <h2>Sub Título</h2>
+
+    <h2>Grafite no Brasil</h2>
     <p>
-        Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-        madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-        primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-        invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-        fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat 
-        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice 
-        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura 
-        ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant 
-        cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus 
-        viseret subdita frigida quem praeter longo locis arce spectent.
+        No Brasil, a arte de rua surge na década de 70, mais precisamente com as obras de grafite nas paredes da cidade de São Paulo. Curiosamente surgiu numa época conturbada da história do país, com o advento da Ditadura Militar.
+    </p>
+    <p>
+        A central proposição da arte urbana é justamente sair dos lugares ditos “consagrados”, ou seja, destinados à exposição e apresentações artísticas (equipamentos culturais: teatro, cinemas, bibliotecas, museus), para dar visibilidade a arte cotidiana, espalhada pelas ruas.
+    </p>
+    <p>
+
+        Os temas utilizados pelos artistas de rua são bem diversos, no entanto, muitos trabalhos estão pautados em críticas sociais, políticas e econômicas.
+
+        Importante analisar o crescimento da arte urbana nos últimos tempos, de forma que passa a ser vista como um “valor cultural” muito importante das minorias que vivem nos centros urbanos, e anseiam em mostrar sua arte.
+
+        Assim, essas manifestações populares permitem o encontro com a arte independente, apesar de muitos artistas de ruas, terem se consagrado mundialmente, reconhecidos pela mídia, indústria e diversos meios de comunicação em massa era uma arte marginalizada.
     </p>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img src="./_images/GrafitexSociedade/KelburnCastle.jpg" class="img-fluid" alt="Kelburn Castle, 2007" />
         <figcaption>
-            Austro securae derecti quicquam toto.
+            Kelburn Castle, Escócia - 2007 | Nina Pandolfo, os Gêmeos e Nunca, ambos brasileiros.
         </figcaption>
     </figure>
 
-    </main>
+</main>
 
 <?php
     include ('_templates/footer.php');
