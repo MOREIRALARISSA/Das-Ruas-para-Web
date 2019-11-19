@@ -5,14 +5,14 @@
 ?>
     <main>
     
-    <div class="row justify-content-center">
+    <div class="row justify-content-center pt-4 pb-5">
         <h1>SOBRE</h1>
     </div>
 
-    <div class="row">
-        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-6 offset-md-0 col-sm-10 offset-sm-3">
+    <div class="row pb-5">
+        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-6 offset-md-0 col-sm-10 offset-sm-3 align-self-center image1">
 
-            <img src="./../../_images/anderson/gemeo_1.png" alt="" />
+            <img class="img-fluid" src="./../../_images/anderson/half-1.jpg" alt="" />
 
         </div>
 
@@ -35,9 +35,9 @@
             </p>
         </div>
 
-        <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-sm-10 offset-sm-3">
+        <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-sm-10 offset-sm-3 align-self-center image2">
 
-            <img src="./../../_images/anderson/gemeo_2.png" alt="" />
+            <img class="img-fluid" src="./../../_images/anderson/half-2.jpg" alt="" />
 
         </div>
     </div>
