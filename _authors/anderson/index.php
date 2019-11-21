@@ -13,7 +13,7 @@
             <figure>
                 <img src="./../../_images/anderson/primeira-300.jpg" alt="" />
             <figcaption>
-                Lorem ipsum Lorem ipsum  Lorem ipsum
+                Lorem ipsum Lorem 
             </figcaption>
             </figure>
         </div>
