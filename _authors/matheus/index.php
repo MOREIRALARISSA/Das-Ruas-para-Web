@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-lg-4 col-md-4">
             <figure>
-                <img src="./../../_images/anderson/primeira-300.jpg" alt="" />
+                <a href="sobre.php"><img src="./../../_images/anderson/primeira-300.jpg" alt="" /></a>
             <figcaption>
                 Lorem ipsum Lorem ipsum  Lorem ipsum
             </figcaption>
@@ -20,7 +20,7 @@
 
         <div class="col-lg-4 col-md-4">
             <figure>
-                <img src="./../../_images/anderson/segunda-300.jpg" alt="" />
+                <a href="artistas.php"><img src="./../../_images/anderson/segunda-300.jpg" alt="" /></a>
             <figcaption>
                 Lorem ipsum Lorem ipsum  Lorem ipsum
             </figcaption>
@@ -29,14 +29,15 @@
 
         <div class="col-lg-4 col-md-4">
             <figure>
-                <img src="./../../_images/anderson/terceira-300.jpg" alt="" />
+                <a href="galeria.php"><img src="./../../_images/anderson/terceira-300.jpg" alt="" /></a>
             <figcaption>
                 Lorem ipsum Lorem ipsum  Lorem ipsum
             </figcaption>
             </figure>
+        </div>
         </div>
         </main>
-    </div>
+   
 
 <?php
     include ('../../_templates/footer.php');
