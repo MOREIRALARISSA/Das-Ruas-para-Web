@@ -18,14 +18,14 @@
         </div>
     </div>
 
-    <h2>Sub Título</h2>
+    <h2>Museu de Rua </h2>
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
         <figcaption>
-            Austro securae derecti quicquam toto plagae mare praecipites feras.
+            <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203">Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra</a>
+
         </figcaption>
     </figure>
-
     <h2>Sub Título</h2>
     <figure>
         <img src="./_images/oitava-300.jpg" alt="" />

@@ -1,71 +1,9 @@
 @charset "UTF-8";
 
-/* Artistas */
 figure {
     text-align: center;
 }
 
 .redes-artistas {
     max-width: fit-content !important;
-}
-
-.fab {
-    font-size: 50px;
-    color: #342863;
-}
-
-/* Galeria */
-
-/* .gallery_img_wrapper1 {
-    border: none;
-    border-bottom: 2px solid #342863;
-}
-
-.gallery_img_wrapper2 {
-    border: none;
-    border-bottom: 2px solid #342863;
-} */
-
-.image_box {
-    height: 376px;
-}
-
-.gallery_img_wrapper{
-    border-bottom: 2px solid #342863;
-}
-
-.gallery_img_wrapper:first-child {
-    padding-bottom: 15px;
-}
-
-.gallery_img_wrapper:hover,
-.gallery_img_wrapper1:hover,
-.gallery_img_wrapper2:hover {
-    border-bottom: 2px solid #0000ff;
-}
-
-div:has(div.gallery_img_wrapper) {
-    height: 408px;
-}
-
-/* Sobre */
-
-@media (min-width: 768px) {
-    .image1 {
-        padding-right: 0;
-    }
-
-    .image2 {
-        padding-left: 0;
-    }
-}
-
-@media (min-width: 992px) {
-    .image1 {
-        padding-right: 15px;
-    }
-
-    .image2 {
-        padding-left: 15px;
-    }
 }

@@ -4,11 +4,11 @@
     //Incluindo o menu de navegação
 ?>
     <main>
-    <div class="row justify-content-center pt-4 pb-4">
+    <div class="row justify-content-center">
         <h1>THROWUP</h1>
     </div>
 
-    <div class="row pt-4 pb-5">
+    <div class="row">
         <div class="col-lg-4 col-md-6">
             <figure>
                 <img src="./../../_images/anderson/primeira-300.jpg" alt="" />

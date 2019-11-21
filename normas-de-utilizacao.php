@@ -3,7 +3,7 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
-    <div class="row justify-content-center">
+    <div class="row justify-content-center text-center">
         <h1>Normas de Utilização</h1>
     </div>
 

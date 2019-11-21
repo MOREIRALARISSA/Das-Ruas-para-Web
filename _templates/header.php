@@ -15,9 +15,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-
-    <script src="https://kit.fontawesome.com/37836dea84.js" crossorigin="anonymous"></script>
-    
     <link rel="icon" type="image/png" href="<?php echo !$resultado ? "" : "../../" ;?>img/favicon.png">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -38,11 +35,12 @@
     <header>
         
         
-        <nav class="navbar navbar-dark bg-dark">
-            <!-- img header --> 
-            <div class="col-lg-10 offset-lg-1 text-center">
-                <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/992.png" class="img-fluid" alt="Responsive image" />
-            </div>
+        <nav class="navbar navbar-dark colorh">
+
+<        <!-- img header --> 
+            <!-- <div class="col-lg-10 offset-lg-1" style="text-align: center"> -->
+                <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
+            <!-- </div> -->
         
             <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->
