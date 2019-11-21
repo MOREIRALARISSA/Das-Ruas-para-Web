@@ -3,3 +3,7 @@
 figure {
     text-align: center;
 }
+
+.redes-artistas {
+    max-width: fit-content !important;
+}

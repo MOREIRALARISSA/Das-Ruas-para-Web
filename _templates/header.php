@@ -34,19 +34,21 @@
     
     <header>
         
-            <nav class="navbar navbar-dark bg-dark justify-content-end">
-            
-            <!-- img header --> 
-            <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logoresponsive.png" class="img-fluid" alt="Responsive image">
+        
+        <nav class="navbar navbar-dark colorh">
 
-            
+<        <!-- img header --> 
+            <!-- <div class="col-lg-10 offset-lg-1" style="text-align: center"> -->
+                <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
+            <!-- </div> -->
+        
+            <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->
                 <button class="navbar-toggler tam-hamburguer" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto menu-estilos">
@@ -125,13 +127,15 @@
                         </li>
 
                         <!--
-      <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
+    </li>
 -->
                     </ul>
-                </div>
-            </nav>
+                <!-- </div> -->
+            </div>
+        </nav>
+        
 
-        </header>
+    </header>
         <div class="container">

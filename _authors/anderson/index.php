@@ -9,16 +9,16 @@
     </div>
 
     <div class="row">
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-6">
             <figure>
                 <img src="./../../_images/anderson/primeira-300.jpg" alt="" />
             <figcaption>
-                Lorem ipsum Lorem ipsum  Lorem ipsum
+                Lorem ipsum Lorem 
             </figcaption>
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-6">
             <figure>
                 <img src="./../../_images/anderson/segunda-300.jpg" alt="" />
             <figcaption>
@@ -27,7 +27,7 @@
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-12">
             <figure>
                 <img src="./../../_images/anderson/terceira-300.jpg" alt="" />
             <figcaption>

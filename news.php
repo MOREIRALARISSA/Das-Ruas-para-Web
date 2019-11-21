@@ -2,7 +2,7 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-    <main>
+<main class="mt-4 mb-4">
     <div class="row justify-content-center">
         <h1>Título</h1>
     </div>
@@ -18,46 +18,46 @@
         </div>
     </div>
 
+    <h2>Museu de Rua </h2>
+    <figure>
+        <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
+        <figcaption>
+            <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203">Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra</a>
+
+        </figcaption>
+    </figure>
     <h2>Sub Título</h2>
     <figure>
-    <img src="./_images/oitava-300.jpg" alt="" />
-    <figcaption>
-        Austro securae derecti quicquam toto plagae mare praecipites feras.
-    </figcaption>
+        <img src="./_images/oitava-300.jpg" alt="" />
+        <figcaption>
+            Austro securae derecti quicquam toto plagae mare praecipites feras.
+        </figcaption>
     </figure>
 
     <h2>Sub Título</h2>
     <figure>
-    <img src="./_images/oitava-300.jpg" alt="" />
-    <figcaption>
-        Austro securae derecti quicquam toto plagae mare praecipites feras.
-    </figcaption>
+        <img src="./_images/oitava-300.jpg" alt="" />
+        <figcaption>
+            Austro securae derecti quicquam toto plagae mare praecipites feras.
+        </figcaption>
     </figure>
 
     <h2>Sub Título</h2>
     <figure>
-    <img src="./_images/oitava-300.jpg" alt="" />
-    <figcaption>
-        Austro securae derecti quicquam toto plagae mare praecipites feras.
-    </figcaption>
+        <img src="./_images/oitava-300.jpg" alt="" />
+        <figcaption>
+            Austro securae derecti quicquam toto plagae mare praecipites feras.
+        </figcaption>
     </figure>
 
     <h2>Sub Título</h2>
     <figure>
-    <img src="./_images/oitava-300.jpg" alt="" />
-    <figcaption>
-        Austro securae derecti quicquam toto plagae mare praecipites feras.
-    </figcaption>
+        <img src="./_images/oitava-300.jpg" alt="" />
+        <figcaption>
+            Austro securae derecti quicquam toto plagae mare praecipites feras.
+        </figcaption>
     </figure>
-    
-    <h2>Sub Título</h2>
-    <figure>
-    <img src="./_images/oitava-300.jpg" alt="" />
-    <figcaption>
-        Austro securae derecti quicquam toto plagae mare praecipites feras.
-    </figcaption>
-    </figure>
-    </main>
+</main>
 
 <?php
     include ('_templates/footer.php');

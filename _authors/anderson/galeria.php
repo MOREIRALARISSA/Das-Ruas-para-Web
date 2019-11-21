@@ -10,55 +10,58 @@
     </div>
     
     <div class="row">
-        <div class="col-lg-4 col-md-4">
-            <img src="./../../_images/anderson/primeira-300.jpg" alt="" />
-            <figcaption>
-            Lorem ipsum Lorem ipsum  Lorem ipsum
-            </figcaption>
-            </figure>
-        </div>
-
-        <div class="col-lg-4 col-md-4">
-            <img src="./../../_images/anderson/segunda-300.jpg" alt="" />
-            <figcaption>
-            Lorem ipsum Lorem ipsum  Lorem ipsum
-            </figcaption>
-            </figure>
-        </div>
-
-        <div class="col-lg-4 col-md-4">
-            <img src="./../../_images/anderson/terceira-300.jpg" alt="" />
-            <figcaption>
-            Lorem ipsum Lorem ipsum  Lorem ipsum
-            </figcaption>
-            </figure>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
             <figure>
-                <img src="./../../_images/anderson/quarta-300.jpg" alt="" />
+                <img class="img-" src="./../../_images/anderson/img-1.jpg" alt="" />
                 <figcaption>
-                    Lorem ipsum Lorem ipsum  Lorem ipsum
+                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
                 </figcaption>
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
             <figure>
-                <img src="./../../_images/anderson/quinta-300.jpg" alt="" />
+                <img class="img-" src="./../../_images/anderson/img-2.jpg" alt="" />
                 <figcaption>
-                    Lorem ipsum Lorem ipsum  Lorem ipsum
+                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
                 </figcaption>
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
             <figure>
-                <img src="./../../_images/anderson/sexta-300.jpg" alt="" />
+                <img class="img-" src="./../../_images/anderson/img-3.jpg" alt="" />
                 <figcaption>
-                    Lorem ipsum Lorem ipsum  Lorem ipsum
+                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="w-100 d-none d-lg-block"></div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+            <figure>
+                <img class="img-" src="./../../_images/anderson/img-4.jpg" alt="" />
+                <figcaption>
+                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+            <figure>
+                <img class="img-" src="./../../_images/anderson/img-5.jpg" alt="" />
+                <figcaption>
+                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
+                </figcaption>
+            </figure>
+        </div>
+
+        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+            <figure>
+                <img class="img-" src="./../../_images/anderson/img-6.jpg" alt="" />
+                <figcaption>
+                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
                 </figcaption>
             </figure>
         </div>

@@ -25,7 +25,7 @@
 @media (max-width: 1440px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 1257px;
+        padding: 0 0 0 1220px;
     }
 }
 
@@ -65,12 +65,36 @@
     position: absolute;
 } */
 
-/*                  HEADER                  */
-
-header {
-    background-color: #081424;
-}
+/*                HEADER  - FOOTER              */
 
 .centraliza {
     text-align: center;
+}
+
+.colorh {
+    background-color: #301F56 !important;
+}
+
+.colorh img {
+    margin: 0 auto;
+}
+
+.posicao_menu {
+    position: absolute;
+    right: 20px;
+}
+
+.colorf {
+    background-color: #301F56 !important;
+}
+
+.colorf a {
+    color: #1c61a7 !important;
+}
+
+
+/* **************** MAIN ************* */
+
+main {
+    color: #081424 !important;
 }
