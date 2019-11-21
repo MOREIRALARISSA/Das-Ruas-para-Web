@@ -22,7 +22,7 @@
     <!-- <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
-    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/css/_style.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">

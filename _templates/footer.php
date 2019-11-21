@@ -4,9 +4,9 @@
 ?>
 
 </div>
-<footer class="footer bg-light">
+<footer class="footer bg-dark">
     <div class="row">
-        <div class="col-lg-4 centraliza">
+        <div class="col-lg-4 centraliza footer">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>historia-do-grafite.php">História do Grafite</a></div>
@@ -18,7 +18,7 @@
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>grafite-x-sociedade.php">Grafite x Sociedade</a></div>
         </div>
 
-        <div class="col-lg-4 centraliza">
+        <div class="col-lg-4 centraliza footer">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php">Estilos</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/index.php">Freestyle</a></div>
@@ -33,7 +33,7 @@
         </div>
 
 
-        <div class="col-lg-4 centraliza">
+        <div class="col-lg-4  centraliza footer">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>news.php">News</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>contato.php">Contato</a></div>
@@ -43,9 +43,7 @@
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>normas-de-utilizacao.php">Normas de utilização</a></div>
         </div>
 
-
     </div>
-
 
 </footer>
 
@@ -55,6 +53,7 @@
 </script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
 </script>
+
 </body>
 
 </html>
