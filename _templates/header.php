@@ -40,9 +40,9 @@
         
         <nav class="navbar navbar-dark bg-dark">
             <!-- img header --> 
-            <!-- <div class="col-lg-10 offset-lg-1" style="text-align: center"> -->
+            <div class="col-lg-10 offset-lg-1 text-center">
                 <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/992.png" class="img-fluid" alt="Responsive image" />
-            <!-- </div> -->
+            </div>
         
             <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->

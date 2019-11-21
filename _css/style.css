@@ -5,7 +5,7 @@
     height: 80px;
 }
 
-.navbar-dark .navbar-toggler-icon {
+.navbar-light .navbar-toggler-icon {
     height: 70px;
     width: 50px;
 }
@@ -25,7 +25,7 @@
 @media (max-width: 1440px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 1220px;
+        padding: 0 0 0 1166px;
     }
 }
 
@@ -82,4 +82,13 @@
 .posicao_menu {
     position: absolute;
     right: 20px;
+}
+
+.dropdown-menu {
+    left: 40px;
+    min-width: fit-content;
+}
+
+.navbar-toggler {
+    font-size: 2.25rem;
 }
