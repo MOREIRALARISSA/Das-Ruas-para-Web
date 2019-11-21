@@ -6,7 +6,7 @@
 </div>
 
 <footer class="footer bg-light">
-    <div class="row">
+    <div class="row mr-0">
         <div class="col-lg-4 centraliza">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
