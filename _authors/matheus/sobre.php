@@ -17,18 +17,18 @@
         </div>
 
         <div class="col-lg-4 col-md-4">
+            
+            <article>
             <p>
-            Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales 
-            madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal 
-            primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque 
-            invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere 
-            fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat 
-            erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice 
-            timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura 
-            ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant 
-            cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus 
-            viseret subdita frigida quem praeter longo locis arce spectent.
+                Um estêncil (do inglês Stencil) é uma técnica de pintura utilizada para aplicar um desenho sobre qualquer      superfície, com o uso de tinta, sendo aerossol ou não, o stencil é feito com papel, plástico, metal ou acetato, onde tem uma boa durabilidade e seja fácil de cortar, para fazer a forma do desenho.
+                O inicio do stencil segundo alguns autores foi nos países orientais na China e no Japão nos anos 500 a.c. onde era      utilizado com elementos naturais, como folhas e rochas, para fazer as máscaras das partes que não podia cobrir com a tinta.
+                Durante a segunda guerra mundial teve um grande uso dessa técnica de stencil para fazer intervenções urbanas, sendo    utilizada para fazer propagandas da guerra e como forma de impressão nos uniformes e matérias da guerra.
+                O stencil serve de matriz para impressão por mimeógrafo e a base da pintura serigráfica.
+                Hoje em dia o Stencil Art se tornou um novo movimento artístico, urbano, feito na rua e para a rua, com desenhos cada vez mais elaborados, com cortes eletrônicos, onde possibilita muito mais a criatividade do artista, hoje as pinturas com stencil tem varias camadas e cores, fazendo pinturas realistas de alta qualidade.
+                Onde fica até difícil saber se a pintura foi feita com stencil ou a mão livre.
             </p>
+            </article>
+            
         </div>
 
         <div class="col-lg-4 col-md-4">
