@@ -59,11 +59,10 @@
 
 .navbar-nav .dropdown-menu {
     position: absolute;
+    min-width: fit-content;
+    left: 45px;
+    text-align: right;
 }
-
-/* .dropdown-menu {
-    position: absolute;
-} */
 
 /*                HEADER  - FOOTER              */
 
