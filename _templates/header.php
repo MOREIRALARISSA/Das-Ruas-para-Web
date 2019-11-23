@@ -19,6 +19,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/all.css">
     <!-- <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
@@ -38,9 +39,9 @@
         <nav class="navbar navbar-dark colorh">
 
 <        <!-- img header --> 
-            <!-- <div class="col-lg-10 offset-lg-1" style="text-align: center"> -->
+            <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center">
                 <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
-            <!-- </div> -->
+            </div>
         
             <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->

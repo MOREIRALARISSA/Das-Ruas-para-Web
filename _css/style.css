@@ -18,35 +18,35 @@
 @media (max-width: 2560px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 2377px;
+        padding: 0 0 0 89%;
     }
 }
 
 @media (max-width: 1440px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 1220px;
+        padding: 0 0 0 84%;
     }
 }
 
 @media (max-width: 1024px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 840px;
+        padding: 0 0 0 84%;
     }
 }
 
 @media (max-width: 768px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 580px;
+        padding: 0 0 0 61%;
     }
 }
 
 @media (max-width: 425px) {
     #navbarSupportedContent {
         text-align: end;
-        padding: 0 0 0 240px;
+        padding: 0 0 0 47%;
     }
 }
 
