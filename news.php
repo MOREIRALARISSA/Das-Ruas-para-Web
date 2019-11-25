@@ -4,41 +4,56 @@
 ?>
 <main class="mt-4 mb-4">
 
-<h1> Notícias</h1>
+    <h1> Notícias</h1>
 
-<article>
+    <article>
 
-<aside>
-<div>
-<a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
-</div>
-
-<div>
-<a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
-</div>
-</aside>
-   <div class="modal1"> 
-    
-    <div class="card-body">
-     <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
-    <p>
-    Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra
-    </p>
-    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
-                       
-    </div>
-       <div class="modal fade" id="modalnews1" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h4 class="modal-title">News</h4>
-                <button type="button" class="close" data-dismiss="modal">
-                    <span>&times;</span>
-                </button>
+        <aside class="mt-5 mb-5 text-center">
+            <div class="mb-4">
+                <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
+            <p>
+            Série da TV TEM mostra ação desses grupos que desafiam a lei.
+Antigos pichadores contam como viraram grafiteiros profissionais.
+            </p>
             </div>
-            
-            <div class="modal-body text-center">
-            <h1>Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
+
+            <div class="mb-4">
+                <a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
+             <p>
+             O grafite é uma forma de arte contemporânea de características essencialmente urbanas.
+             </p>
+            </div>
+
+            <div class="mb-4">
+                <a href="https://novaescola.org.br/conteudo/8759/pixacao-e-vandalismo"><strong> Pixação é vandalismo? </strong></a>
+                <p> Discutir sem preconceito é o ponto de partida para entender, junto com os adolescentes, essa forma gráfica de contestação
+                </p>
+            </div>
+
+        </aside>
+
+        <div class="modal1">
+
+            <div class="card-body">
+                <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
+                <p>
+                    Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra
+                </p>
+                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
+
+            </div>
+            <div class="modal fade" id="modalnews1" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">News</h4>
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body text-center">
+                            <h1>Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
                             <figure>
                                 <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
                                 <figcaption>
@@ -69,38 +84,38 @@
                                     Fonte <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203"> Jornal Hoje em Dia | 06/04/2018 - 06h00 - Atualizado 12h43 </a>
                                 </p>
                             </div>
-            </div>
-            <div class="modal-footer">
-            <button type="button"class="btn btn-danger" data-dismiss="modal">Fechar</button>
-            </div>
-            
-        </div>
-        </div>
-    </div>
-</div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                        </div>
 
-<div class="modal2">
-<div class="card-body">
-     <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
-    <p>
-    Grafite e plantio de árvores marcam ação integrada no São Camilo 
-    </p>
-    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
-                       
-    </div>
-       <div class="modal fade" id="modalnews2" tabindex="-1" role="dialog">
-        <div class="modal-dialog" role="document">
-        <div class="modal-content">
-            
-            <div class="modal-header">
-                <h4 class="modal-title">News</h4>
-                <button type="button" class="close" data-dismiss="modal">
-                    <span>&times;</span>
-                </button>
+                    </div>
+                </div>
             </div>
-            
-            <div class="modal-body text-center-justify">
-                        <h1>Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
+        </div>
+
+        <div class="modal2">
+            <div class="card-body">
+                <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
+                <p>
+                    Grafite e plantio de árvores marcam ação integrada no São Camilo
+                </p>
+                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
+
+            </div>
+            <div class="modal fade" id="modalnews2" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+
+                        <div class="modal-header">
+                            <h4 class="modal-title">News</h4>
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body text-center-justify">
+                            <h1>Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
                             <figure>
                                 <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
                                 <figcaption>
@@ -140,16 +155,25 @@
                                         Fonte <a href="https://tvtecjundiai.com.br/news/2019/11/22/grafite-e-plantio-de-arvores-marcam-acao-integrada-no-sao-camilo/"> TVTEC NEWS | Publicada em 22/11/2019 às 09:55</a>
                                     </p>
                             </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                        </div>
+
+                    </div>
+                </div>
             </div>
-            <div class="modal-footer">
-            <button type="button"class="btn btn-danger" data-dismiss="modal">Fechar</button>
-            </div>
-            
         </div>
-        </div>
-    </div>
-</div>
-</article>
+
+
+
+
+
+
+
+
+        
+    </article>
 </main>
 
 <?php
