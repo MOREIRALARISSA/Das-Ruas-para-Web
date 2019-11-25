@@ -60,7 +60,7 @@
 .navbar-nav .dropdown-menu {
     position: absolute;
     min-width: fit-content;
-    left: 45px;
+    left: 100px;
     text-align: right;
 }
 
