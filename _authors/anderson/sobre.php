@@ -3,16 +3,16 @@
     // include ('./../../header-estilos.php');
     //Incluindo o menu de navegação
 ?>
-    <main>
+    <main class="mb-4">
     
-    <div class="row justify-content-center">
+    <div class="row justify-content-center mt-4 mb-5">
         <h1>SOBRE</h1>
     </div>
 
-    <div class="row">
+    <div class="row align-items-center">
         <div class="col-lg-4 offset-lg-0 order-lg-first col-md-6 offset-md-0 col-sm-10 offset-sm-3">
 
-            <img src="./../../_images/anderson/gemeo_1.png" alt="" />
+            <img src="./../../_images/anderson/sobre-1.jpg" alt="" />
 
         </div>
 
@@ -37,7 +37,7 @@
 
         <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-sm-10 offset-sm-3">
 
-            <img src="./../../_images/anderson/gemeo_2.png" alt="" />
+            <img src="./../../_images/anderson/sobre-2.jpg" alt="" />
 
         </div>
     </div>

@@ -6,7 +6,7 @@
 </div>
 
 <footer class="footer colorf">
-    <div class="row text-center">
+    <div class="row text-center mr-0">
         <div class="col-lg-4 mt-4 mb-4 centraliza footer">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
