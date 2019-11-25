@@ -13,7 +13,7 @@
             <div class="col-lg-4">
                 
             <div class="card mt-2 mb-3">
-                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Grafite Bolinho"></div>
+                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                     <div class="avatar mx-auto">
                         <img src="_images/quem-somos/adelina.jpg" alt="Adelina">
                     </div>
@@ -38,13 +38,13 @@
                 
             <div class="card mt-2 mb-3">
                     
-                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Grafite Bolinho"></div>
+                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                     <div class="avatar mx-auto">
                         <img src="_images/quem-somos/anderson.jpg" alt="Anderson">
                     </div>
                 <div class="card-body">
                     <h4 class="card-title font-weight-bold">Anderson Antunes</h4>
-                    <small>Coder | Manager</small>
+                    <small>Coder</small>
                     <p>RA: <strong>2650831913016</strong></p>
                     <hr>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
@@ -65,7 +65,7 @@
                 
             <div class="card mt-2 mb-3">
                 
-                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Grafite Bolinho"></div>
+                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                     <div class="avatar mx-auto">
                         <img src="_images/quem-somos/igor.jpg" alt="Igor">
                     </div>
@@ -92,13 +92,14 @@
                 
             <div class="card mt-2 mb-3">
                 
-                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Grafite Bolinho"></div>
+                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                     <div class="avatar mx-auto">
                         <img src="_images/quem-somos/larissa.jpg" alt="Larissa">
                     </div>
                 <div class="card-body">
                     <h4 class="card-title font-weight-bold">Larissa Moreira</h4>
-                    <small>Coder | Designer</small>
+                    <small>Coder</small>
+                    <small>Designer</small>
                     <p>RA: <strong>2650831913016</strong></p>
                     <hr>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
@@ -111,13 +112,14 @@
                 
             </div>
             
-                        
+            
+            
                 
             <div class="col-lg-4">
                 
                 <div class="card mt-2 mb-3">
                     
-                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Grafite Bolinho"></div>
+                    <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                     <div class="avatar mx-auto">
                         <img src="_images/quem-somos/matheus.jpg" alt="Matheus">
                     </div>
@@ -130,8 +132,14 @@
                     <h4>Áreas</h4>
                 <div><a href="_authors/matheus/index.php">Stencil</a></div>
                 <div><a href="#">Pages centers</a></div>
-</div>
-</div>
+                    
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         </section>
+
 </main>
 
 <?php
