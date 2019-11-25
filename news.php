@@ -3,6 +3,20 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
+
+<h1> Notícias</h1>
+
+<article>
+
+<aside>
+<div>
+<a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
+</div>
+
+<div>
+<a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
+</div>
+</aside>
    <div class="modal1"> 
     
     <div class="card-body">
@@ -134,10 +148,8 @@
         </div>
         </div>
     </div>
-
-
-
 </div>
+</article>
 </main>
 
 <?php
