@@ -34,8 +34,7 @@
 <body>
     
     <header>
-        
-        
+                
         <nav class="navbar navbar-dark colorh">
 
 <        <!-- img header --> 
