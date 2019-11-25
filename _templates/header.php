@@ -37,9 +37,12 @@
                 
         <nav class="navbar navbar-dark colorh">
 
-<        <!-- img header --> 
-            <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center">
+        <!-- img header --> 
+            <div class="col-xl-10 offset-xl-1 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-sm-none d-md-block">
                 <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
+            </div>
+            <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-md-none d-lg-none d-sm-block">
+                <img src="_images/mobile.png" />
             </div>
         
             <!-- <div class="col-lg-1"> -->

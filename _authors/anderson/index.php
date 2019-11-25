@@ -3,8 +3,8 @@
     // include ('./../../header-estilos.php');
     //Incluindo o menu de navegação
 ?>
-    <main>
-    <div class="row justify-content-center">
+    <main class="mb-4">
+    <div class="row justify-content-center mt-4 mb-5">
         <h1>THROWUP</h1>
     </div>
 
