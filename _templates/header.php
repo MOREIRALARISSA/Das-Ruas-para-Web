@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
-    <title> Title </title>
+    <title> Das Ruas para Web </title>
 
 </head>
 
