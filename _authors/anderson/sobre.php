@@ -10,13 +10,13 @@
     </div>
 
     <div class="row align-items-center">
-        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-6 offset-md-0 col-sm-10 offset-sm-3">
+        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-5 offset-sm-0">
 
             <img src="./../../_images/anderson/sobre-1.jpg" alt="" />
 
         </div>
 
-        <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first">
+        <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first">
             <p>
             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em> 
             ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
@@ -35,7 +35,7 @@
             </p>
         </div>
 
-        <div class="col-lg-4 offset-lg-0 col-md-6 offset-md-0 col-sm-10 offset-sm-3">
+        <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-5 offset-sm-0">
 
             <img src="./../../_images/anderson/sobre-2.jpg" alt="" />
 
