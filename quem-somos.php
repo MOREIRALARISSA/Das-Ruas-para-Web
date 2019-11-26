@@ -3,6 +3,8 @@
     //Incluido o menu de navegação
 ?>
      <main class="my-2">
+         
+         <div class="container">
         
         <section>
             
@@ -139,6 +141,8 @@
         </div>
         
          </section>
+             
+         </div>
 
 </main>
 

@@ -3,6 +3,9 @@
     //Incluido o menu de navegação
 ?>
     <main>
+        
+        <div class="container">
+        
         <div class="container">
             <div class="row justify-content-center">
                 <form class="col-md-8 m-3" method="POST">
@@ -25,6 +28,9 @@
                 </form>
             </div>
         </div>
+            
+        </div>
+            
     </main>
 
 <?php

@@ -3,6 +3,8 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
+    
+    <div class="container">
 
     <h1> Notícias</h1>
 
@@ -411,6 +413,8 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
 
 
     </article>
+    </div>
+        
 </main>
 
 <?php
