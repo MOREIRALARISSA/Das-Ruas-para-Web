@@ -30,6 +30,33 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
                 </p>
             </div>
 
+            <div class="mb-4">
+                <a href=""><strong>  </strong></a>
+            <p>
+           
+            </p>
+            </div>
+
+            <div class="mb-4">
+                <a href=""><strong>  </strong></a>
+            <p>
+           
+            </p>
+            </div>
+
+            <div class="mb-4">
+                <a href=""><strong>  </strong></a>
+            <p>
+           
+            </p>
+            </div>
+            <div class="mb-4">
+                <a href=""><strong>  </strong></a>
+            <p>
+           
+            </p>
+            </div>
+
         </aside>
 
         <div class="modal1">
@@ -165,14 +192,224 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
             </div>
         </div>
 
+ <div class="modal3">
+
+            <div class="card-body">
+                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                <p>
+                Niggaz: o grafiteiro que virou praça na praça que foi escola
+                </p>
+                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
+
+            </div>
+            <div class="modal fade" id="modalnews3" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">News</h4>
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body text-center">
+                            <h1> </h1>
+                            <figure>
+                                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                                <figcaption>
+                                    Foto  .
+                                </figcaption>
+                            </figure>
+                            <div class=" mt-4 mb-4">
+
+                                <p>
 
 
 
 
+                                </p>
 
 
 
-        
+                                <p>
+                                    Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+ <div class="modal4">
+
+            <div class="card-body">
+                <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
+                <p>
+                Os Gêmeos em exposição na Pinacoteca
+                </p>
+                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
+
+            </div>
+            <div class="modal fade" id="modalnews4" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">News</h4>
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body text-center">
+                            <h1>Os Gêmeos em exposição na Pinacoteca</h1>
+                            <figure>
+                                <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
+                                <figcaption>
+                                    Foto Divulgação.
+                                </figcaption>
+                            </figure>
+                            <div class=" mt-4 mb-4">
+
+                                <p>
+                                Os Gêmeos, grafiteiros brasileiros que conquistaram todo o mundo com sua street art conquistaram um espaço para terem suas obras expostas na galeria da Pinacoteca. A  exposição que estará disponível em março de 2020 contará com a trajetória artística dos irmãos, contando com artes inéditas para a composição do acervo.
+                                </p>
+                                <p>
+                                A  exposição ocupará sete galerias do primeiro andar e o octógono do local, assim como já feitas com outros artistas. Além disso, a Pinacoteca pretende colocar programações complementares com diversas atividades relacionadas ao mundo do grafite e a obra dos artistas.
+                                </p>
+                                <p>
+                                Os irmãos já realizaram inúmeras exposições, sendo individuais e coletivas, em museus e galerias de diversos países, como Cuba, Chile, Estados Unidos, Itália, Espanha, Inglaterra, Alemanha, Lituânia e Japão.
+                                </p>
+                                <p>
+                                Para quem não conhece, o projeto OSGEMEOS consiste no duo dos irmãos Gustavo e Otávio Pandolfo. Desde criança cultivavam o contato com o mundo da arte e já mostrava que seria esse o caminho do futuro, ainda mais quando tiveram apoio de sua família. Suas obras carregam bastante a cultura do Hip Hop no Brasil dos anos 80. Com isso, suas obras começaram a ter esse viés, trazendo bastante referência em roupas, cores e estilo.  Exploravam com dedicação e cuidado as diversas técnicas de pintura, desenho e escultura, e tinham as ruas como seu lugar de estudo.
+                                </p>
+
+                                <p>
+                                    Fonte <a href="http://pigmento.art.br/noticias/os-gemeos-em-exposicao-na-pinacoteca/"> Pigmento.ART.BR | 09 de outubro de 2019</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+<div class="modal5">
+
+<div class="card-body">
+    <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+    <p>
+    Niggaz: o grafiteiro que virou praça na praça que foi escola
+    </p>
+    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
+
+</div>
+<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">News</h4>
+                <button type="button" class="close" data-dismiss="modal">
+                    <span>&times;</span>
+                </button>
+            </div>
+
+            <div class="modal-body text-center">
+                <h1> </h1>
+                <figure>
+                    <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                    <figcaption>
+                        Foto  .
+                    </figcaption>
+                </figure>
+                <div class=" mt-4 mb-4">
+
+                    <p>
+
+
+
+
+                    </p>
+
+
+
+                    <p>
+                        Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                    </p>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+            </div>
+
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="modal6">
+
+            <div class="card-body">
+                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                <p>
+                Niggaz: o grafiteiro que virou praça na praça que foi escola
+                </p>
+                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
+
+            </div>
+            <div class="modal fade" id="modalnews6" tabindex="-1" role="dialog">
+                <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4 class="modal-title">News</h4>
+                            <button type="button" class="close" data-dismiss="modal">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+
+                        <div class="modal-body text-center">
+                            <h1> </h1>
+                            <figure>
+                                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                                <figcaption>
+                                    Foto  .
+                                </figcaption>
+                            </figure>
+                            <div class=" mt-4 mb-4">
+
+                                <p>
+
+
+
+
+                                </p>
+
+
+
+                                <p>
+                                    Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
     </article>
 </main>
 
