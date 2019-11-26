@@ -32,19 +32,19 @@
 
 
 
-    <div class="row justify-content-center">
+    <div class="row justify-content-center align-items-center mt-5 mb-4">
         <div class="col-lg-4 col-md-4">
             <figure>
-                <img class="img-fluid" src="./_images/MitosxVerdades/grafites-centro-bh.jpg" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
+                <img class="img-fluid" class="img-fluid" src="./_images/MitosxVerdades/grafites-centro-bh.jpg" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
                 <figcaption>
                     Grafites em prédios na cidade de Belo Horizonte.
                 </figcaption>
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 offset-lg-1 col-md-4 offset-md-1">
             <figure>
-                <img class="img-fluid" src="./_images/MitosxVerdades/pichacao-centro-bh.jpg" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
+                <img class="img-fluid" class="img-fluid" src="./_images/MitosxVerdades/pichacao-centro-bh.jpg" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
                 <figcaption>
                     Pichações em prédio na cidade de Belo Horizonte.
                 </figcaption>
@@ -90,19 +90,19 @@
         Constatamos que há mais elementos que enfeiam a cidade do que lembrávamos: as paredes vazias, os muros de fábricas abandonadas, os muros de condomínios, as empenas, o concreto ao longo das avenidas, as muretas.
     </p>
 
-    <div class=" row justify-content-center">
+    <div class=" row justify-content-center align-items-center mt-5 mb-4">
         <div class="col-lg-4 col-md-4">
             <figure>
-                <img class="img-fluid" src="./_images/MitosxVerdades/museuderua.jpg" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
+                <img class="img-fluid" class="img-fluid" src="./_images/MitosxVerdades/museuderua.jpg" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
                 <figcaption>
                     Museu de Rua reúne 30 artistas para revitalizar muro de escola.
                 </figcaption>
             </figure>
         </div>
 
-        <div class="col-lg-4 col-md-4">
+        <div class="col-lg-4 offset-lg-1 col-md-4 offset-md-1">
             <figure>
-                <img class="img-fluid" src="./_images/MitosxVerdades/beco-do-batman.jpg" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
+                <img class="img-fluid" class="img-fluid" src="./_images/MitosxVerdades/beco-do-batman.jpg" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
                 <figcaption>
                     Grafites localizados no Beco do Batman na Vila Madalena, São Paulo.
                 </figcaption>
