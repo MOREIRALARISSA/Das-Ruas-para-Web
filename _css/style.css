@@ -74,6 +74,10 @@
     background-color: #301F56 !important;
 }
 
+.colorh a {
+    color: #fff;
+}
+
 .colorh img {
     margin: 0 auto;
 }
@@ -88,9 +92,13 @@
 }
 
 .colorf a {
-    color: #1c61a7 !important;
+/*    color: #1c61a7 !important;*/
+    color: #fff; !important;
 }
 
+.colorf a:hover {
+    color: rgb(87, 86, 86);
+}
 
 /* **************** MAIN ************* */
 

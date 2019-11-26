@@ -4,6 +4,9 @@
 ?>
 
 <main class="mt-4 mb-4">
+    
+    <div class="container">
+    
     <div class="row justify-content-center">
         <h1>Estilos</h1>
     </div>
@@ -45,6 +48,8 @@
                 </figcaption>
             </figure>
         </div>
+    </div>
+        
     </div>
 
 </main>
