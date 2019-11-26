@@ -11,7 +11,7 @@
     <div class="row">
         <div class="col-lg-4 offset-lg-1 col-md-4 justify-content-center">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
                 <figcaption>
                     ventos aethera ardentior
                 </figcaption>
@@ -20,7 +20,7 @@
 
         <div class="col-lg-4 offset-lg-2 col-md-4 justify-content-center">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
                 <figcaption>
                     ventos aethera ardentior
                 </figcaption>
@@ -31,7 +31,7 @@
     <div class="row">
         <div class="col-lg-4 offset-lg-1 col-md-4 justify-content-center">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
                 <figcaption>
                     ventos aethera ardentior
                 </figcaption>
@@ -39,7 +39,7 @@
         </div>
         <div class="col-lg-4 offset-lg-2 col-md-4 justify-content-center">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
                 <figcaption>
                     ventos aethera ardentior
                 </figcaption>

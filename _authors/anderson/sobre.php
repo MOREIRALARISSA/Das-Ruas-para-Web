@@ -10,9 +10,9 @@
     </div>
 
     <div class="row align-items-center">
-        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-5 offset-sm-0">
+        <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0">
 
-            <img src="./../../_images/anderson/sobre-1.jpg" alt="" />
+            <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="" />
 
         </div>
 
@@ -38,9 +38,9 @@
             </article>
         </div>
 
-        <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-5 offset-sm-0">
+        <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0">
 
-            <img src="./../../_images/anderson/sobre-2.jpg" alt="" />
+            <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="" />
 
         </div>
     </div>

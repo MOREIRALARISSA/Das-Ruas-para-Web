@@ -30,7 +30,7 @@
     <div class="row justify-content-center">
         <div class="col-lg-12">
             <figure>
-                <img src="./_images/oitava-300.jpg" alt="" />
+                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
                 <h3>Sub Título 2</h3>
                 <figcaption class="text-justify">
                     ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
@@ -44,7 +44,7 @@
     <h2>Sub Título</h2>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
         <h3>Sub Título 2</h3>
         <figcaption class="text-justify">
             ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
@@ -56,7 +56,7 @@
     <h2>Sub Título</h2>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
         <h3>Sub Título 2</h3>
         <figcaption class="text-justify">
             ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
@@ -68,7 +68,7 @@
     <h2>Sub Título</h2>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
         <h3>Sub Título 2</h3>
         <figcaption class="text-justify">
             ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
@@ -80,7 +80,7 @@
     <h2>Sub Título</h2>
 
     <figure>
-        <img src="./_images/oitava-300.jpg" alt="" />
+        <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
         <h3>Sub Título 2</h3>
         <figcaption class="text-justify">
             ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
