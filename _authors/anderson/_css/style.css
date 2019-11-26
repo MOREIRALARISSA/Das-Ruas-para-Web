@@ -3,3 +3,17 @@
 figure {
     text-align: center;
 }
+
+.redes-artistas {
+    max-width: fit-content !important;
+}
+
+/* Galeria */
+.gallery_border {
+    border-bottom: 2px solid red;
+    height: 420px;
+}
+
+.gallery_border:hover {
+    border-bottom: 2px solid blue;
+}

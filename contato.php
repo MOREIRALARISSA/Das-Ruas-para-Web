@@ -3,28 +3,28 @@
     //Incluido o menu de navegação
 ?>
     <main>
-
-    <div class="row justify-content-center">
-        <h1>Contato</h1>
-    </div>
-
-    <div class="row justify-content-center">
-        <div class="col-lg-6 col-md-6">
-            <form method="GET" action="get">
-                <fieldset>
-                    <label> Nome </label>
-                    <input type="text" maxlength="30" name="nome" placeholder="Digite aqui..." required /><br>
-
-                    <label> E-mail </label>
-                    <input type="email" maxlength="50" name="email" placeholder="Digite aqui..." required /><br>    
-
-                    <label> Mensagem </label>
-                    <textarea style="resize: vertical" placeholder="Digite sua mensagem..." required></textarea>
-                </fieldset>
-            </form>
+        <div class="container">
+            <div class="row justify-content-center">
+                <form class="col-md-8 m-3" method="POST">
+                    <section>
+                        <h2 class="text-center">Contato</h2>
+                        <div class="form-group">
+                            <label for="nome">Nome</label>
+                            <input type="text" class="form-control" id="nome" name="nome" placeholder="Digite seu nome...">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" class="form-control" id="email" name="email" placeholder="Digite seu email...">
+                        </div>
+                        <div class="form-group">
+                            <label class="form-check-label" for="textarea">Mensagem</label>
+                            <textarea class="form-control" id="textarea" name="text"></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary" name="enviado">Enviar</button>
+                    </section>
+                </form>
+            </div>
         </div>
-    </div>
-
     </main>
 
 <?php

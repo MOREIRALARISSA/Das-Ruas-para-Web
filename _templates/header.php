@@ -19,34 +19,39 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/all.css">
     <!-- <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.min.css"> -->
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
-    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/css/_style.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
-    <title> Title </title>
+    <title> Das Ruas para Web </title>
 
 </head>
 
 <body>
     
     <header>
-        
-            <nav class="navbar navbar-dark bg-dark justify-content-end">
-            
-            <!-- img header --> 
-            <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logoresponsive.png" class="img-fluid" alt="Responsive image">
+                
+        <nav class="navbar navbar-dark colorh">
 
-            
+        <!-- img header --> 
+            <div class="col-xl-10 offset-xl-1 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-sm-none d-md-block d-none">
+                <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
+            </div>
+            <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-md-none d-lg-none d-sm-block">
+                <img src="_images/mobile.png" />
+            </div>
+        
+            <!-- <div class="col-lg-1"> -->
                 <!--  <a class="navbar-brand" href="#">Navbar</a>-->
                 <button class="navbar-toggler tam-hamburguer" type="button" data-toggle="collapse"
                     data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true"
                     aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
                                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto menu-estilos">
@@ -125,13 +130,15 @@
                         </li>
 
                         <!--
-      <li class="nav-item">
+    <li class="nav-item">
         <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
-      </li>
+    </li>
 -->
                     </ul>
-                </div>
-            </nav>
+                <!-- </div> -->
+            </div>
+        </nav>
+        
 
-        </header>
+    </header>
         <div class="container">
