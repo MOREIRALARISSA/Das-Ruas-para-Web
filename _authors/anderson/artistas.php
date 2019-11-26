@@ -9,8 +9,8 @@
         <h1>Artistas</h1>
     </div>
 
-    <div class="row justify-content-lg-center">
-        <div class="col-lg-4 col-md-6">
+    <div class="row justify-content-lg-center mb-5">
+        <div class="col-lg-4 col-md-6 gallery_border">
             <div>
                 <figure>
                     <img src="./../../_images/anderson/artista-1.jpg" alt="" width="300" />
@@ -35,7 +35,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 offset-lg-1 col-md-6">
+        <div class="col-lg-4 offset-lg-1 col-md-6 mb-5 gallery_border">
             <div>
                 <figure>
                     <img src="./../../_images/anderson/artista-2.jpg" alt="" width="300" />
@@ -62,7 +62,7 @@
      </div>
 
     <div class="row justify-content-lg-center">
-        <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6 gallery_border">
             <div>
                 <figure>
                     <img src="./../../_images/anderson/artista-3" alt="" width="300" />
@@ -87,7 +87,7 @@
             </div>
         </div>
 
-        <div class="col-lg-4 offset-lg-1 col-md-6">
+        <div class="col-lg-4 offset-lg-1 col-md-6 gallery_border">
             <div>
                 <figure>
                     <img src="./../../_images/anderson/artista-4.png" alt="" width="300" />
