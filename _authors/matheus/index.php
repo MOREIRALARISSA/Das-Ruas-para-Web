@@ -81,7 +81,7 @@
 
                                 <h1 class="text-center">Artistas</h1>
 
-                                <div class="row justify-content-lg-center mb-5">
+                                <div class="row justify-content-lg-center my-5">
 
                                     <div class="col-lg-4">
 

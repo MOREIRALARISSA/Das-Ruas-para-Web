@@ -3,6 +3,9 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
+    
+    <div class="container">
+    
     <div class="row justify-content-center">
         <h1>Grafite x Sociedade</h1>
     </div>
@@ -58,6 +61,8 @@
             Kelburn Castle, Escócia - 2007 | Nina Pandolfo, os Gêmeos e Nunca, ambos brasileiros.
         </figcaption>
     </figure>
+        
+    </div>
 
 </main>
 

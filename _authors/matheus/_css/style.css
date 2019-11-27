@@ -29,11 +29,18 @@ a {
 }
 
 
-.footer a {
+.footer {
     color: #fff;
 }
 
 a:hover {
     color: rgb(87, 86, 86);
     text-decoration: none;
+}
+
+.scrollspySite {
+    position: relative;
+    overflow: auto;
+    height: 480px; 
+    
 }

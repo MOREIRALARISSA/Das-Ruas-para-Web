@@ -3,14 +3,10 @@
     //Incluido o menu de navegação
 ?>
 
-
-
-
-
-
-
 <main class="mt-4 mb-4">
 
+    <div class="container">
+    
     <div class="row justify-content-center">
         <h1>Grafite no mundo</h1>
     </div>
@@ -95,6 +91,8 @@
             timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
         </figcaption>
     </figure>
+        
+    </div>
 
 </main>
 
