@@ -6,7 +6,7 @@
 
 <footer class="colorf">
     <div class="row text-center mr-0">
-        <div class="col-lg-4 mt-4 mb-4 centraliza">
+        <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>historia-do-grafite.php">História do Grafite</a></div>
@@ -35,7 +35,7 @@
         </div>
 
 
-        <div class="col-lg-4 mt-4 mb-4 centraliza">
+        <div class="col-lg-4 mt-4 mb-4 centraliza d-none d-lg-block">
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>news.php">News</a></div>
 

@@ -44,3 +44,13 @@ a:hover {
     height: 280px; 
     
 }
+
+.btn-primary {
+    background-color: #301F56;
+    border-color: #301F56!important;
+}
+
+nav-pills {
+    background-color: #301F56;
+    border-color: #301F56!important;
+}
