@@ -122,3 +122,7 @@ main {
 .menu-estilos {
     max-width: fit-content;
 }
+
+.nav-pills .nav-link.active {
+    background-color: #301F56;
+}
