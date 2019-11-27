@@ -54,7 +54,7 @@
                                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mx-auto menu-estilos">
-                        <li class="nav-item active">
+                        <li class="nav-item">
                             <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home<span
                                     class="sr-only">(current)</span></a>
                         </li>
