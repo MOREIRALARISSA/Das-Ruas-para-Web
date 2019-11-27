@@ -28,7 +28,6 @@
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
     <title> Das Ruas para Web </title>
-
 </head>
 
 <body>
@@ -54,8 +53,8 @@
                 </button>
                                 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mr-auto menu-estilos">
-                        <li class="nav-item active">
+                    <ul class="navbar-nav mx-auto menu-estilos">
+                        <li class="nav-item">
                             <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home<span
                                     class="sr-only">(current)</span></a>
                         </li>
@@ -95,7 +94,7 @@
                             </div>
                         </div> -->
 
-                        <div class="btn-group justify-content-end">
+                        <div class="btn-group justify-content-center">
                             <button class="btn btn-secondary btn-sm botao-drop" type="button">
                             <a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php" class="btn btn-secondary btn-sm">Estilos</a>
                             </button>
