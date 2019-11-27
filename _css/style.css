@@ -90,11 +90,11 @@
 
 .colorf a {
 /*    color: #1c61a7 !important;*/
-    color: #fff; !important;
+    color: rgba(255, 255, 255, .5);
 }
 
 .colorf a:hover {
-    color: rgb(87, 86, 86);
+    color: rgba(255, 255, 255, 0.75);
 }
 
 /* **************** MAIN ************* */
