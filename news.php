@@ -66,7 +66,7 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
             <div class="card-body">
                 <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
                 <p>
-                    Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra
+                <strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong>
                 </p>
                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
 
@@ -127,7 +127,7 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
             <div class="card-body">
                 <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
                 <p>
-                    Grafite e plantio de árvores marcam ação integrada no São Camilo
+                <strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong>
                 </p>
                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
 
@@ -197,9 +197,9 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
  <div class="modal3">
 
             <div class="card-body">
-                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                <img class="img-fluid" src="./_images/news/MaeDagua.jpg" alt="" />
                 <p>
-                Niggaz: o grafiteiro que virou praça na praça que foi escola
+                <strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong>
                 </p>
                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
 
@@ -215,26 +215,59 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
                         </div>
 
                         <div class="modal-body text-center">
-                            <h1> </h1>
+                            <h1> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
                             <figure>
-                                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/news/MaeDagua.jpg" alt="" />
                                 <figcaption>
-                                    Foto  .
+                                Foto: Adan Garantizado/Águas de Manaus.
                                 </figcaption>
                             </figure>
                             <div class=" mt-4 mb-4">
 
                                 <p>
-
-
-
-
+                                A cultura amazônica em uma arte nas alturas. Com esse enfoque, a concessionária Águas de Manaus resolveu dar uma nova cara ao reservatório localizado na avenida Coronel Teixeira, na Ponta Negra, zona Oeste. O local agora conta com um grafite de autoria do renomado artista Raiz Campos, intitulado como “Mães das Águas”. Desde que começou a ser desenhada, a arte vem chamando a atenção de quem passa pelo local e está virando um “point” para fotos nas redes sociais.
                                 </p>
+                                <p>
+                                Raiz Campos destacou que o grafite é o maior da região norte e representa um sonho realizado. “Este é o maior grafite da Região Norte, nunca pintei um reservatório como esse. Cheguei a pintar viadutos, mas esse é ainda maior. Esse é um treino para pintar reservatórios mais altos. Estou realizando um sonho. É um grande desafio”, afirmou.
+                                </p>
+                                <p>
+                                A iniciativa de grafitar o reservatório faz parte da campanha “#Manaus no Coração”, programa da concessionária que promove uma série de ações voltadas para cultura, capacitação, empreendedorismo, esporte e bem-estar social. Além da produção do grafite, o reservatório da Ponta Negra também contará com um mural colaborativo, transformando o espaço em um local de uso coletivo para moradores da cidade e turistas.
+                                </p>
+                                <p>
+                                “O reservatório possui aproximadamente 27 metros. Fiquei bem livre para desenvolver arte e poder trabalhar um conceito mais voltado para a água. O desenho escolhido é de uma índia, inspirada em uma amiga moradora do município de São Gabriel da Cachoeira. Ela simboliza as populações que cuidam da floresta, da água, do planeta. Ela é como se fosse a mãe da água”, descreveu Raiz Campos, sobre o conceito da arte desenvolvida para o reservatório.
+                                </p>
+                                <p>
+                                O mural colaborativo deve ser iniciado ainda em novembro. Alguns jovens da cidade vão receber uma oficina de Raiz Campos e produzirão a arte do mural sob a supervisão do artista.
+                                </p>
+                                <h2>Mãe das águas</h2>
 
+                                <p>
+                                O desenho “Mães das Águas” é inspirado em uma indígena moradora da cidade de São Gabriel da Cachoeira, da etnia Piratapuia. Segundo o artista Raiz Campos, a indígena conhecida como “Margot” teve a aldeia invadida na fronteira do Brasil com a Colômbia por integrantes das Farcs. Durante a invasão, a índia consegui fugir nadando pelo rio Solimões.
+                                </p>
+                                <p>
+                                “Esses são os povos que cuidam da natureza. O grafite representa meu respeito pela cultura e por esse povo que são os verdadeiros protetores da natureza. São eles que preservam a floresta de verdade. Ao final da produção do grafite, cada um que passar por aqui de carro ou a pé vai ter sua visão e leitura sobre o desenho. Essa arte é mais democrática que existe, pois pode ser vista por todos”, destacou.
+                                </p>
+                                <h2>Novas intervenções</h2>
+                                <p>
+                                Segundo o gerente de responsabilidade social da Águas de Manaus, Semy Ferraz, o “#Manaus no Coração” seguirá com mais ações nos próximos meses. Alguns reservatórios em outras zonas da cidade devem receber intervenções artísticas e também serem transformados em espaços coletivos ao longo do ano que vem.
+                                </p>
+                                <p>
+                                “Estamos com projetos para colocar hortas comunitárias, coworkings, parquinhos para crianças e outros tipos de espaço para uso da comunidade nos próximos reservatórios que receberem os grafites. A Águas de Manaus quer transformar a cidade e ficar cada vez mais próxima da sociedade manauara”, destacou.
+                                </p>
+                                <p>
+                                Para o diretor-presidente da Águas de Manaus, Renato Medicis, as ações reforçam o compromisso da empresa em ampliar seus laços com a cidade.
+                                </p>
+                                <p>
+                                “Um de nossos pilares é o bom relacionamento com a população. Isso tem ajudado a melhorar o nosso serviço diariamente, seja através dos nossos programas como o Vem com a Gente e o Afluentes. Nós estamos ampliando essa parceria com a cidade, promovendo ações e projetos educacionais, culturais e capacitações profissionais”, descreveu o diretor-presidente.
+                                </p>
+                                <p>
+                                A programação e todas as ações do #Manausnocoração são publicadas nas redes sociais da concessionária: facebook.com/aguasdemanaus e @aguasdemanaus no Instagram.
+                                </p>
+                                
 
 
                                 <p>
-                                    Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                                    Fonte <a href="https://www.acritica.com/channels/manaus/news/grafite-em-reservatorio-na-ponta-negra-destaca-cores-e-cultura-da-amazonia"> PORTAL A CRÍTICA | 17 de novembro de 2019 ÀS 15:02</a>
                                 </p>
                             </div>
                         </div>
@@ -252,7 +285,7 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
             <div class="card-body">
                 <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
                 <p>
-                Os Gêmeos em exposição na Pinacoteca
+                <strong>Os Gêmeos em exposição na Pinacoteca</strong>
                 </p>
                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
 
@@ -307,9 +340,9 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
 <div class="modal5">
 
 <div class="card-body">
-    <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+    <img class="img-fluid" src="./_images/news/itapecerica.jpg" alt="" />
     <p>
-    Niggaz: o grafiteiro que virou praça na praça que foi escola
+    <strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong>
     </p>
     <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
 
@@ -325,26 +358,37 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
             </div>
 
             <div class="modal-body text-center">
-                <h1> </h1>
+                <h1> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto</h1>
+                <h5>1º festival de Grafite Branca Cor leva grafites a casas, comércios e espaços públicos do Jd. Branca Flor, em Itapecerica da Serra </h5>
+
                 <figure>
-                    <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/itapecerica.jpg" alt="" />
                     <figcaption>
-                        Foto  .
+                       1º festival de Grafite Branca Cor pintou casas e comércios no Jd. Branca Flor.
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
 
                     <p>
-
-
-
-
+                    Quem anda pelas ruas do Jd. Branca Flor, em Itapecerica da Serra, se depara com um colorido, que transformou o bairro em uma galeria de arte a céu aberto. No feriado prolongado da Proclamação da República e nesta quarta-feira, dia 20, aconteceu o 1º festival de Grafite Branca Cor, a iniciativa foi da Associação de Mães Tereza do Jd. Branca Flor.
                     </p>
-
-
-
                     <p>
-                        Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                    Grafiteiros e voluntários usam os muros das casas e dos comércios como uma tela para exporem a arte do grafite. Tudo é feito com autorização dos proprietários. A seleção dos artistas foi o curador Paulo Zits, grafiteiro, artista plástico e professor de artes na cidade. Neste ano a obra de Zits foi cenário do programa Encontro, da Fátima Bernardes, na TV Globo.
+                    </p>
+                    <p>
+                    A advogada Aline Gomes, é uma das organizadoras do festival. Ela é neta da fundadora da Associação de Mães Tereza do Jd. Branca Flor, dona Tereza Lourenço da Silva. Ela explica que o projeto surgiu com a ideia de “dar acesso à arte aos moradores que nunca tinham presenciado algo assim ou tido a oportunidade de ter acesso a este tipo de evento e movimento artístico”.
+                    </p>
+                    <p>
+                    Aline conta, à reportagem do Portal O Taboanense, que os moradores foram procurados para conhecer o projeto em maio deste ano. Alguns aderiram de imediato, outros não autorizaram a cadastrar a casa para receber a pintura, o que foi respeitado. “Começamos a conversar com os moradores em maio deste ano e conseguimos a adesão de uma parte e outros que não sabiam o que é o grafite acabaram não querendo cadastrar sua casa para pintura. Quando iniciamos os desenhos nas ruas tivemos um feedback positivo, porque eles passaram a entender o que é o grafite. O bairro já está transformado”, comenta.
+                    </p>
+                    <p>
+                    Uma parte do bairro tem os muros pintados em todas as ruas, “a parte de cima onde tem o conjunto habitacional Jd. Primavera tem dois painéis grandes de grafite, duas casas grafitadas, uma praça desenhada e uma tabacaria grafitada. O bairro virou uma galeria a céu aberto”, disse Aline.
+                    </p>
+                    <p>
+                    O 1º festival de Grafite Branca Cor foi organizado por Aline Gomes, Márcia Gomes, Sueli Santana, Denise Tavares, Alan Araújo, Marcos Paulino, Mario Paulino, Camila Bueno, Maria de Fátima, Igor Queiroz e Denilson Gabriel. Com a curadoria do artista plástico Paulo Zits, com a participação de grafiteiros importantes como Heridian,Luan Riberivóvisk, Alex Sena, Pas, Cadumen, Agnaldo Mirage, Ozi, Lumumba, entre outros.
+                    </p>
+                    <p>
+                        Fonte <a href="https://www.otaboanense.com.br/itapecerica-grafite-transforma-jd-branca-flor-em-galeria-de-arte-a-ceu-aberto/">O Taboanense | 21 de novembro de 2019 </a>
                     </p>
                 </div>
             </div>
@@ -360,9 +404,9 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
 <div class="modal6">
 
             <div class="card-body">
-                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                <img class="img-fluid" src="./_images/news/santos.jpg" alt="" />
                 <p>
-                Niggaz: o grafiteiro que virou praça na praça que foi escola
+                <strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong>
                 </p>
                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
 
@@ -378,26 +422,35 @@ Antigos pichadores contam como viraram grafiteiros profissionais.
                         </div>
 
                         <div class="modal-body text-center">
-                            <h1> </h1>
+                            <h1>Oficinas gratuitas de grafite têm inscrições abertas em Santos </h1>
+                            <h5> Aulas serão ministradas na Vila Criativa da Vila Nova no próximo sábado (23). </h5>
+
                             <figure>
-                                <img class="img-fluid" src="./_images/news/niggaz.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/news/santos.jpg" alt="" />
                                 <figcaption>
-                                    Foto  .
+                                Foto: Divulgação/Prefeitura de Santos
                                 </figcaption>
                             </figure>
                             <div class=" mt-4 mb-4">
 
                                 <p>
-
-
-
-
+                                A Prefeitura de Santos abriu as inscrições para as oficinas de grafite gratuitas e sessão de cinema. As atividades acontecem ao longo do dia 23. As inscrições são limitadas e devem ser feitas na secretaria da Vila Criativa da Vila Nova, onde acontecerá o evento.
                                 </p>
-
-
-
                                 <p>
-                                    Fonte <a href="">  | 19 de janeiro de 2017  </a>
+                                A programação começa com a oficina de tag e stickers, arte urbana que usa etiquetas adesivas, das 9h às 10h30. Das 11h às 21h30, a oficina será de colagem e estêncil, que usa a ténica para aplicar um desenho ou ilustração.
+                                </p>
+                                <p>
+                                Durante a tarde, terá a sessão gratuita do filme Por Trás da Lata, a apartir das 13h30. O documentário revela a relação de personalidades da área do grafite da Baixada Santista com a arte urbana, o mercado, a sociedade e o poder público.
+                                </p>
+                                <p>
+                                As aulas das oficinas da tarde começam às 15h, com o tema sketch book, livro de desenhar esboços como parte do processo criativo e, simultaneamente, a aula de mural, com pintura em grafite.
+                                </p>
+                                <p>
+                                As inscrições devem ser feitas na secretaria da Vila Criativa da Vila Nova, na Praça Rui Ribeiro Couto s/n, das 8h às 12h e das 14h às 18h. O evento tem apoio das secretarias municipais de Cultura (Secult) e Governo (Segov).
+                                </p>
+                                
+                                <p>
+                                    Fonte <a href="https://g1.globo.com/sp/santos-regiao/noticia/2019/11/17/oficinas-gratuitas-de-grafite-tem-inscricoes-abertas-em-santos.ghtml"> G1 Santos | 17 de novembro de 2019 20h18  </a>
                                 </p>
                             </div>
                         </div>
