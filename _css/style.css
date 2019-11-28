@@ -89,8 +89,7 @@
 }
 
 .colorf a {
-/*    color: #1c61a7 !important;*/
-    color: rgba(255, 255, 255, .5);
+   color: #1c61a7 !important;
 }
 
 .colorf a:hover {
@@ -122,4 +121,8 @@ main {
 
 .menu-estilos {
     max-width: fit-content;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #301F56;
 }
