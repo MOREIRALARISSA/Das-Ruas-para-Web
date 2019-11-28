@@ -3,23 +3,44 @@
     //Incluido o menu de navegação
 ?>
     <main>
-     <!-- 
-    Seu Codigo HTML VAI AQUI
-    OBS não incluir as tags centrais do html, tais como, doctype, html, body, header, footer...
-    Pois elas estão sendo inseridas atraves do header e footer...
-    O bootstrap já está sendo carregado através de CDN...
-    Os conteúdos de cada um estão dispostos em sua própria pasta dentro da pasta _authors...
-    Cada um terá seu css.
-    Os aquivos css de todos já foram criados e estão sendo carregados !Estão vazios, assim como as páginas respectivas de cada um.
-    As páginas index nas pastas individuais refere-se a página sobre.
-    As páginas principais estão na raiz.
-    Está tudo linkado corretamente.
-    Coloquei os nomes de pastas em inglês e o motivo das "_" em cada nome de diretório é para organização delas por primeiro em algumas distribuições linux, simplismente estético.
-    -->
+    <nav class="navRodape">
+            <ul class="ulRodape">
+                <li class="liRodape"><a class="aRodape" href="index.php">3D</a></li>
+                <li class="liRodape"><a class="aRodape" href="artistas.php">Artistas</a></li>
+                <li class="liRodape"><a class="aRodape" href="galeria.php">Galeria</a></li>
+                <li class="liRodape"><a class="aRodape" href="sobre.php">Sobre</a></li>
+            </ul>
+        </nav>
+        <div class="AlinhamentoTitulo">
+            <h1>SOBRE</h1>
+            <div class="container">
+                <div class="row ">
+                    <div class="col-4 ">
+                        <figure>
+                            <img src="../../_images/imagensAdelina/KurtWenner.jpg" alt="" />
+                        </figure>
+
+                    </div>
+                    <div class="col-4">
+                        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
+                        </p>
+                        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
+                        </p>
+                        <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
+                        </p>
+
+                    </div>
+                    <div class="col-4 ">
+                        <figure>
+                            <img src="../../_images/imagensAdelina/KurtWenner6.jpg" alt="" />
+                        </figure>
+
+                    </div>
+                </div>
 
     </main>
-
-<?php
+<br><br><br>
+    <?php
     include ('../../_templates/footer.php');
     //Incluindo o rodapé
 ?>
