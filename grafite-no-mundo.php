@@ -146,7 +146,7 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
                     </p>
 -->
 
-                    <h3 id="item2">Os Gêmeos (BR) </h3>
+                    <h3 id="item2">INGLATERRA</h3>
 
                     <p>
                     Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham pelo mundo seus trabalhos bem inusitados e diferentes. Através de desenhos gigantes, eles misturam a arte com o folclore e histórias populares, o que resulta em grandes intervenções urbanas.
