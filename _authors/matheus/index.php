@@ -126,7 +126,7 @@
 
                                     <div class="col-lg-4">
 
-                                        <div class="card">
+                                        <div class="card mt-5">
 
                                             <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
@@ -210,7 +210,7 @@
 
                                     <div class="col-lg-4">
 
-                                        <div class="card">
+                                        <div class="card mt-5">
 
                                             <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>

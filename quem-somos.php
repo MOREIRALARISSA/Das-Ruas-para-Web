@@ -12,7 +12,7 @@
 
         <div class="row justify-content-lg-center mb-5" >
         
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 
             <div class="card mt-2 mb-3">
                     <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
@@ -36,7 +36,7 @@
            
             
         
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 
             <div class="card mt-2 mb-3">
                     
@@ -63,7 +63,7 @@
             
         
         
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 
             <div class="card mt-2 mb-3">
                 
@@ -90,7 +90,7 @@
             
             <div class="row justify-content-lg-center mb-5">
         
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 
             <div class="card mt-2 mb-3">
                 
@@ -117,7 +117,7 @@
             
             
                 
-            <div class="col-lg-4">
+            <div class="col-lg-4 col-md-6 col-sm-12">
                 
                 <div class="card mt-2 mb-3">
                     
