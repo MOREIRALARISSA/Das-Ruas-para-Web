@@ -3,22 +3,118 @@
     //Incluido o menu de navegação
 ?>
     <main>
-     <!-- 
-    Seu Codigo HTML VAI AQUI
-    OBS não incluir as tags centrais do html, tais como, doctype, html, body, header, footer...
-    Pois elas estão sendo inseridas atraves do header e footer...
-    O bootstrap já está sendo carregado através de CDN...
-    Os conteúdos de cada um estão dispostos em sua própria pasta dentro da pasta _authors...
-    Cada um terá seu css.
-    Os aquivos css de todos já foram criados e estão sendo carregados !Estão vazios, assim como as páginas respectivas de cada um.
-    As páginas index nas pastas individuais refere-se a página sobre.
-    As páginas principais estão na raiz.
-    Está tudo linkado corretamente.
-    Coloquei os nomes de pastas em inglês e o motivo das "_" em cada nome de diretório é para organização delas por primeiro em algumas distribuições linux, simplismente estético.
-    -->
+    <nav class="navRodape">
+            <ul class="ulRodape">
+                <li class="liRodape"><a class="aRodape" href="index.php">3D</a></li>
+                <li class="liRodape"><a class="aRodape" href="artistas.php">Artistas</a></li>
+                <li class="liRodape"><a class="aRodape" href="galeria.php">Galeria</a></li>
+                <li class="liRodape"><a class="aRodape" href="sobre.php">Sobre</a></li>
+            </ul>
+        </nav>
+        <div class="AlinhamentoTitulo">
+            <h1>ARTISTAS</h1><br><br>
+
+            <div class="container">
+                <div class="row ">
+
+
+                    <div class="col-6">
+                        <section class="formatasection">
+                            <figure>
+                                <img class="imgsection" src="../../_images/imagensAdelina/KurtWenner2.jpg" alt="" />
+                                <figcaption>
+                                    Kurt Wenner
+                                </figcaption>
+                            </figure>
+                            <div class="row ">
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/KurtWenner3.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/imagem5.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/KurtWenner4.jpg" alt="" />
+                                </figure>
+                            </div>
+                        </section>
+                    </div>
+
+
+                    <div class="col-6">
+                        <section class="formatasection">
+                            <figure>
+                                <img class="imgsection" src="../../_images/imagensAdelina/TracyLeeStum2.jpg" alt="" />
+                                <figcaption>
+                                Tracy Lee Stum
+                                </figcaption>
+                            </figure>
+                            <div class="row ">
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/TracyLeeStum3.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/TracyLeeStum4.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/TracyLeeStum5.jpg" alt="" />
+                                </figure>
+                            </div>
+                        </section>
+                    </div>
+
+
+                    <div class="col-6">
+                        <section class="formatasection">
+                            <figure>
+                                <img class="imgsection" src="../../_images/imagensAdelina/JulianBeever2.jpg" alt="" />
+                                <figcaption>
+                                Julian Beever
+                                </figcaption>
+                            </figure>
+                            <div class="row ">
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/JulianBeever3.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/JulianBeever4.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/JulianBeever5.jpg" alt="" />
+                                </figure>
+                            </div>
+                        </section>
+                    </div>
+
+
+                    <div class="col-6">
+                        <section class="formatasection">
+                            <figure>
+                                <img class="imgsection" src="../../_images/imagensAdelina/EricGrohe.jpg" alt="" />
+                                <figcaption>
+                                Eric Grohe
+                                </figcaption>
+                            </figure>
+                            <div class="row ">
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/EricGrohe1.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/EricGrohe2.jpg" alt="" />
+                                </figure>
+                                <figure class="col-sm">
+                                    <img src="../../_images/imagensAdelina/EricGrohe3.jpg" alt="" />
+                                </figure>
+                            </div>
+                        </section>
+                    </div>
+                    </section>
+                    <br><br><br>
+
+
     </main>
 
-<?php
+    <?php
     include ('../../_templates/footer.php');
     //Incluindo o rodapé
 ?>

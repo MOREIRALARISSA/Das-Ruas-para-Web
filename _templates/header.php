@@ -41,7 +41,7 @@
                 <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
             </div>
             <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-9 text-center d-md-none d-lg-none d-sm-block">
-                <img class="img-fluid" src="_images/logotipo_mobile.png" />
+                <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" />
             </div>
         
             <!-- <div class="col-lg-1"> -->
