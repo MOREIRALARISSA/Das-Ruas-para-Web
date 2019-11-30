@@ -4,55 +4,57 @@
 ?>
 
 <main class="mt-4 mb-4">
+
+<div class="container">
+
+    <div class="card-deck">
     
-    <div class="container">
-    
-    <div class="row justify-content-center">
-        <h1>Estilos</h1>
-    </div>
-
-    <div class="row">
-        <div class="col-lg-4 offset-lg-1 col-md-4 justify-content-center">
-            <figure>
-                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                <figcaption>
-                    ventos aethera ardentior
-                </figcaption>
-            </figure>
+        <div class="card">
+            <img src="_images/larissa/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <a href="_authors/igor/index.php"><h5 class="card-title">Freestyle</h5></a>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
         </div>
-
-        <div class="col-lg-4 offset-lg-2 col-md-4 justify-content-center">
-            <figure>
-                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                <figcaption>
-                    ventos aethera ardentior
-                </figcaption>
-            </figure>
-        </div>
-    </div>
-
-    <div class="row">
-        <div class="col-lg-4 offset-lg-1 col-md-4 justify-content-center">
-            <figure>
-                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                <figcaption>
-                    ventos aethera ardentior
-                </figcaption>
-            </figure>
-        </div>
-        <div class="col-lg-4 offset-lg-2 col-md-4 justify-content-center">
-            <figure>
-                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                <figcaption>
-                    ventos aethera ardentior
-                </figcaption>
-            </figure>
-        </div>
-    </div>
         
+        <div class="card">
+            <img src="_images/larissa/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <a href="_authors/anderson/index.php"><h5 class="card-title">Throwup</h5></a>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+        </div>
+            
+ 
+        <div class="card">
+            <img src="_images/larissa/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <a href="_authors/matheus/index.php"><h5 class="card-title">Stencil</h5></a>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="_images/larissa/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <a href="_authors/larissa/index.php"><h5 class="card-title">Mural</h5></a>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+        </div>
+  
+        <div class="card">
+            <img src="_images/larissa/1.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <a  href="_authors/adelina/index.php"><h5 class="card-title">3D</h5></a>
+                <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            </div>
+        </div>
     </div>
+
+</div>
 
 </main>
+
+
 
 <?php
     include ('_templates/footer.php');
