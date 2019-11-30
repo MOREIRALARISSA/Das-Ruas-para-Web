@@ -1,11 +1,8 @@
 <?php 
+
     $url = explode("/", $_SERVER['REQUEST_URI']);
        $resultado = in_array('_authors', $url);
-//    if (!$resultado) {
-//        $cssPath = "_css/";
-//    } else {
-//        $cssPath = "../../";
-//    }
+
 ?>
 
 <!DOCTYPE html>

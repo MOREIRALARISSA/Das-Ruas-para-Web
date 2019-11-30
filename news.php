@@ -3,168 +3,170 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
-    
+
     <article>
 
-    <div class="container">
+        <div class="container">
 
-        <h1> Notícias</h1>
+            <h1> Notícias</h1>
 
-        <div class="row mx-auto">
-        
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
-<!--                        <p class="card-text"><strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            <div class="mb-4">
+                <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
+                <p>
+                    Série da TV TEM mostra ação desses grupos que desafiam a lei.
+                    Antigos pichadores contam como viraram grafiteiros profissionais.
+                </p>
+            </div>
+
+            <div class="mb-4">
+                <a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
+                <p>
+                    O grafite é uma forma de arte contemporânea de características essencialmente urbanas.
+                </p>
+            </div>
+
+            <div class="mb-4">
+                <a href="https://novaescola.org.br/conteudo/8759/pixacao-e-vandalismo"><strong> Pixação é vandalismo? </strong></a>
+                <p> Discutir sem preconceito é o ponto de partida para entender, junto com os adolescentes, essa forma gráfica de contestação
+                </p>
+            </div>
+
+            <div class="row mx-auto">
+
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
+                                <!--                        <p class="card-text"><strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
 
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
-<!--                        <p class="card-text"><strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
+                                <!--                        <p class="card-text"><strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-            
-        </div>
-        
-        <div class="row mx-auto">
 
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/MaeDagua.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
-<!--                        <p class="card-text"><strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+
+            <div class="row mx-auto">
+
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/MaeDagua.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
+                                <!--                        <p class="card-text"><strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
 
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Os Gêmeos em exposição na Pinacoteca</h5>
-<!--                        <p class="card-text"><strong>Os Gêmeos em exposição na Pinacoteca</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">Os Gêmeos em exposição na Pinacoteca</h5>
+                                <!--                        <p class="card-text"><strong>Os Gêmeos em exposição na Pinacoteca</strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
-            
-        </div>
-        
-        <div class="row mx-auto">
 
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
-<!--                        <p class="card-text"><strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+
+            <div class="row mx-auto">
+
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
+                                <!--                        <p class="card-text"><strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </div>
-        </div>
 
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/santos.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
-<!--                        <p class="card-text"><strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                        <div class="col-md-4">
+                            <img class="card-img" src="./_images/news/santos.jpg" alt="" />
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
+                                <!--                        <p class="card-text"><strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong></p>-->
+                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
+                                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
+
             </div>
-        </div>
-            
-        </div>
 
-                <div class="mb-4">
-                    <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
-                    <p>
-                        Série da TV TEM mostra ação desses grupos que desafiam a lei.
-                        Antigos pichadores contam como viraram grafiteiros profissionais.
-                    </p>
-                </div>
 
-                <div class="mb-4">
-                    <a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
-                    <p>
-                        O grafite é uma forma de arte contemporânea de características essencialmente urbanas.
-                    </p>
-                </div>
 
-                <div class="mb-4">
-                    <a href="https://novaescola.org.br/conteudo/8759/pixacao-e-vandalismo"><strong> Pixação é vandalismo? </strong></a>
-                    <p> Discutir sem preconceito é o ponto de partida para entender, junto com os adolescentes, essa forma gráfica de contestação
-                    </p>
-                </div>
+            <div class="mb-4">
+                <a href=""><strong> </strong></a>
+                <p>
 
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
-                    <p>
+                </p>
+            </div>
 
-                    </p>
-                </div>
+            <div class="mb-4">
+                <a href=""><strong> </strong></a>
+                <p>
 
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
-                    <p>
+                </p>
+            </div>
 
-                    </p>
-                </div>
+            <div class="mb-4">
+                <a href=""><strong> </strong></a>
+                <p>
 
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
-                    <p>
+                </p>
+            </div>
+            <div class="mb-4">
+                <a href=""><strong> </strong></a>
+                <p>
 
-                    </p>
-                </div>
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
-                    <p>
-
-                    </p>
-                </div>
+                </p>
+            </div>
 
             <div class="modal1">
 
@@ -201,14 +203,14 @@
 
             </div>
 
-    </div>
-        
-        </article>
+        </div>
+
+    </article>
 
 </main>
 
-<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog" aria-labelledby="modalnews1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -258,8 +260,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog" aria-labelledby="modalnews2" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
             <div class="modal-header">
@@ -319,8 +321,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog" aria-labelledby="modalnews3" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -394,8 +396,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog" aria-labelledby="modalnews4" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -440,8 +442,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog" aria-labelledby="modalnews5" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -493,8 +495,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog" aria-labelledby="modalnews6" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
