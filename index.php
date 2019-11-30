@@ -18,7 +18,7 @@
         
             <div class="carousel-item active">
             
-                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                 
                     <h3></h3>
@@ -30,7 +30,7 @@
             
             <div class="carousel-item">
             
-                <img src="_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid d-block">
+                <img src="_images/HistoriaDoGrafite/NewYork1980.jpg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                 
                     <h3></h3>
@@ -42,7 +42,7 @@
             
             <div class="carousel-item">
             
-                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
                 
                     <h3></h3>
@@ -56,14 +56,14 @@
         
         <a class="carousel-control-prev" href="#carouselSite" role="button" data-slide="prev">
         
-            <span class="carousel-control-prev-icon"></span>
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Anterior</span>
         
         </a>
     
-        <a class="carousel-control-next" id="#carouselSite" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#carouselSite" role="button" data-slide="next">
         
-            <span class="carousel-control-next-icon"></span>
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Avançar</span>
             
         </a>

@@ -275,8 +275,8 @@
 
 </main>
 
-                        <div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog">
-                                <div class="modal-dialog" role="document">
+                        <div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" aria-labelledby="modalArtitas" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-scrollable" role="document">
                                     <div class="modal-content">
 
                                         <div class="modal-header">
@@ -296,8 +296,8 @@
                                 </div>
                             </div>
 
-                            <div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog">
-                                <div class="modal-dialog" role="document">
+                            <div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-scrollable" role="document">
                                     <div class="modal-content">
 
                                         <div class="modal-header">
@@ -322,8 +322,8 @@
                                 </div>
                             </div>
 
-                            <div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog">
-                                <div class="modal-dialog" role="document">
+                            <div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-scrollable" role="document">
                                     <div class="modal-content">
 
                                         <div class="modal-header">
@@ -343,8 +343,8 @@
                                 </div>
                             </div>
 
-                            <div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog">
-                                <div class="modal-dialog" role="document">
+                            <div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+                                <div class="modal-dialog modal-dialog-scrollable" role="document">
                                     <div class="modal-content">
 
                                         <div class="modal-header">

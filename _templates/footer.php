@@ -6,10 +6,6 @@
 
 <footer class="colorf">
     
-    <div class=" row  d-none d-sm-none d-md-none d-lg-block text-center">
-    <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
-    </div>
-    
     <div class="row text-center mr-0">
         <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
