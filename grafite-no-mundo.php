@@ -60,7 +60,8 @@
 
             
 
-                    <h3 id="item1">Kobra</h3>
+                    <h3 id="item1">BRASIL</h3>
+                    <h4 class="mt-3 mb-3">Kobra</h4>
 
                     <p>
                     Um dos artistas brasileiros mais conhecidos quando o assunto é arte de rua é o Eduardo Kobra. Espalhados por arranha-céus e pontos bem inusitados, os murais super coloridos do artista chamam a atenção de qualquer um. Talvez um dos trabalhos mais famosos do brasileiro seja "O Beijo", em Nova York, que retrata a famosa cena em que um marinheiro e uma enfermeira se beijam para celebrar o final da Segunda Guerra Mundial.
@@ -100,7 +101,7 @@ Para a edição 2013 do Art Basel, considerado um dos principais festivais de ar
                         </div>
                         <div>
 
-                        <h3 class="mt-3 mb-3">Os Gêmeos</h3>
+                        <h4 class="mt-3 mb-3">Os Gêmeos</h4>
 
 <p>
 Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham pelo mundo seus trabalhos bem inusitados e diferentes. Através de desenhos gigantes, eles misturam a arte com o folclore e histórias populares, o que resulta em grandes intervenções urbanas.
@@ -110,16 +111,17 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
 <div class="row justify-content-center mx-auto">
     <div class="col-lg-12">
         <figure>
-            <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
+            <img class="img-fluid" src="./_images/GrafitePeloMundo/osgemeos.jpg" alt="" />
             <figcaption class="text-justify">
-                ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
+          Foto Divulgação
             </figcaption>
         </figure>
         <p>
-        Um dos (vários) projetos de destaques da dupla está em Vancouver Biennale, onde a arte se manisfesta em 360º, através de seis gigantescos tonéis.
-</p>
+        Vancouver Biennale, Canadá (2014)
+        <p>
+        OSGEMEOS participam da Vancouver Biennale, que acontece entre 2014 e 2016, com um mural 360º, de 20 metros de altura e mais de 2.000 m². Criado em seis gigantescos tonéis, a obra está ao lado dos célebres Public Market, Emily Carr University e False Creek, pequena enseada que separa o centro do restante da cidade, em Granville Island. A proposta da Bienal tem uma forte conexão com esculturas, por isso os artistas optaram por um espaço no qual a pintura pudesse se transformar, criando um diálogo entre os mundos bidimensional e tridimensional, e levar os personagens a Vancouver, a fim de dividir perspectivas e culturas e estabelecer uma conexão com as pessoas que frequentam a região, integrando a obra ao cenário. Com o novo mural, OSGEMEOS integram o grupo de artistas internacionais que participam da Bienal de Vancouver, como Ai Weiwei, Andy Goldsworthy, Vik Muniz e Jonathan Borofsky.
+        </p>
+
     </div>
 </div>
 
@@ -147,25 +149,61 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
 -->
 
                     <h3 id="item2">INGLATERRA</h3>
+                    <h4 class="mt-3 mb-3">Banksy</h4>
 
                     <p>
-                    Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham pelo mundo seus trabalhos bem inusitados e diferentes. Através de desenhos gigantes, eles misturam a arte com o folclore e histórias populares, o que resulta em grandes intervenções urbanas.
-                </p>
-
+                    Ao contrário dos demais artistas, pouco se sabe sobre quem é Bansky. Sempre misterioso, o artista inglês deixa suas marcas espalhadas pelo mundo afora. Seus trabalhos possuem características marcantes como ironia, tom crítico e sarcasmo. 
+</p>
 
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
                             <figure>
-                                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
-                                    ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                                    erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                                    timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
+                                    Foto Divulgação
                                 </figcaption>
                             </figure>
                             <p>
-                            Um dos (vários) projetos de destaques da dupla está em Vancouver Biennale, onde a arte se manisfesta em 360º, através de seis gigantescos tonéis.
-                </p>
+                            Essa é uma pintura mural feita em 2005 em Londres. Na época, a cidade britânica passava por uma onda de protestos.
+</p>
+<p>
+Na obra, vemos um manifestante com o rosto coberto. Ele faz um movimento como se fosse atirar um coquetel explosivo, entretanto, o que ele carrega é um ramo de flores.
+</p>
+<p>
+A imagem exibe um paradoxo ao aliar um ato "violento" com a delicadeza das flores.
+</p>
+<p>
+A obra foi escolhida para ilustrar a capa do livro do artista Wall and Piece (2005), traduzida como "Guerra e Spray".
+</p>
+                        </div>
+                    </div>
+
+                
+                    <div class="row justify-content-center mx-auto">
+                        <div class="col-lg-12">
+                            <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
+                                <figcaption class="text-justify">
+                                    Foto Divulgação
+                                </figcaption>
+                            </figure>
+                            <p>
+                            Girl with ballon foi realizada em 2002 em Londres, na Inglaterra.
+                            </p>
+                            <p>
+                            Na obra, é exibida a figura de uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta.
+                            </p>
+<p>
+Há ainda a frase "There is always hope", que traduzida para o português significa "Há sempre esperança". Aqui, Banksy deixa uma mensagem de crença em dias melhores, mesmo com todo o desalento que há no sistema em que vivemos.
+</p>
+<p>
+Esse trabalho é, talvez, o mais famoso do artista. Ele foi reproduzido em uma tela e vendido em 2018 em um leilão em Londres por mais de 1 milhão de libras.
+</p>
+<p>
+No momento em que foi batido o martelo da venda, a obra se autodestruiu por meio de um dispositivo colocado na moldura, surpreendendo todos os presentes.
+</p>
+<p> Assita:</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cB3rPtDdM14" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
 
