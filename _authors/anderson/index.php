@@ -7,26 +7,15 @@
 <main>
 
     <div class="jumbotron junbotrom-fluid mt-4">
-
         <div class="container">
-
             <div class="row">
-
                 <div class="col-12 text-center">
-
                     <h1 class="display-4 font-weight-bold">Throwup</h1>
-                    <!--                        <p>Estilo de  grafite</p>-->
-
                 </div>
-
             </div>
-
             <div class="row">
-
                 <div class="col-12">
-
                     <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="tablist">
-
                         <li class="nav-item">
                             <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01">Sobre</a>
                         </li>
@@ -38,23 +27,16 @@
                         <li class="nav-item">
                             <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03">Galeria</a>
                         </li>
-
                     </ul>
-
                     <div class="tab-content" id="nav-pills-content">
-
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
-
-
-                            <h1> SOBRE </h1>
+                            <!-- Sobre -->
+                            <h1 class="mt-4 mb-4"> SOBRE </h1>
 
                             <div class="row align-items-center">
                                 <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0">
-
                                     <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="" />
-
                                 </div>
-
 
                                 <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first">
                                     <article>
@@ -78,20 +60,16 @@
                                 </div>
 
                                 <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0">
-
                                     <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="" />
-
                                 </div>
                             </div>
-
-
                         </div>
 
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
 
                             <section>
-
-                                <h1 class="text-center">Artistas</h1>
+                                <!-- Artistas -->
+                                <h1 class="mt-4 mb-4 text-center">Artistas</h1>
 
                                 <div class="row justify-content-lg-center mb-5">
                                     <div class="col-lg-4 col-md-6 gallery_border">
@@ -136,10 +114,6 @@
                                                 <div class="col-lg-2 col-md-3 redes-artistas">
                                                     <a href="https://www.facebook.com/Ten.spheres/"><i class="fab fa-facebook"></i></a>
                                                 </div>
-
-                                                <!-- <div class="col-lg-2 col-md-3 redes-artistas">
-                        <a><i class="fab fa-instagram"></i></a>
-                    </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -163,10 +137,6 @@
                                                 <div class="col-lg-2 col-md-3 redes-artistas">
                                                     <a href="https://www.facebook.com/ROTA.IP"><i class="fab fa-facebook"></i></a>
                                                 </div>
-
-                                                <!-- <div class="col-lg-2 col-md-3 redes-artistas">
-                        <a><i class="fab fa-instagram"></i></a>
-                    </div> -->
                                             </div>
                                         </div>
                                     </div>
@@ -184,101 +154,81 @@
                                                 <div class="col-lg-2 col-md-3 redes-artistas">
                                                     <a href="https://www.instagram.com/vx3graffiti/?igshid=1ntju4sun1d9c"><i class="fab fa-instagram"></i></a>
                                                 </div>
-
-                                                <!-- <div class="col-lg-2 col-md-3 redes-artistas">
-                        <a><i class="fab fa-instagram"></i></a>
-                    </div>
-
-                    <div class="col-lg-2 col-md-3 redes-artistas">
-                        <a><i class="fab fa-instagram"></i></a>
-                    </div> -->
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-
                             </section>
-
-
-
                         </div>
 
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
+                            <section>
+                                <!-- Galeria -->
+                                <h1 class="mt-4 mb-4 text-center">Galeria</h1>
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-1.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
 
-                            <div class="row">
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-1.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
-                                        </figcaption>
-                                    </figure>
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-2.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-3.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <div class="w-100 d-none d-lg-block"></div>
+
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-4.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-5.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
+
+                                    <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                        <figure>
+                                            <img class="img-fluid" src="./../../_images/anderson/img-6.jpg" alt="" />
+                                            <figcaption class="mt-2">
+                                                Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
+                                            </figcaption>
+                                        </figure>
+                                    </div>
                                 </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-2.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
-                                        </figcaption>
-                                    </figure>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-3.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
-                                        </figcaption>
-                                    </figure>
-                                </div>
-
-                                <div class="w-100 d-none d-lg-block"></div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-4.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
-                                        </figcaption>
-                                    </figure>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-5.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
-                                        </figcaption>
-                                    </figure>
-                                </div>
-
-                                <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
-                                    <figure>
-                                        <img class="img-fluid" src="./../../_images/anderson/img-6.jpg" alt="" />
-                                        <figcaption class="mt-2">
-                                            Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
-                                        </figcaption>
-                                    </figure>
-                                </div>
-                            </div>
-
-
-
-
+                            </section>
                         </div>
-
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
 </main>
 
 <div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog">

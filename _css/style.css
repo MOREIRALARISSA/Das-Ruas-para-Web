@@ -61,7 +61,8 @@
 .navbar-nav .dropdown-menu {
     position: absolute;
     min-width: fit-content;
-    left: 49px;
+    min-width: -moz-fit-content;
+    left: unset;
     text-align: center;
 }
 
@@ -123,6 +124,7 @@ main {
 
 .menu-estilos {
     max-width: fit-content;
+    max-width: -moz-fit-content;
 }
 
 .nav-pills .nav-link.active {
