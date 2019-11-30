@@ -8,7 +8,7 @@
 
         <div class="container">
 
-            <h1> Notícias</h1>
+            <h1 class="mt-4 mb-4"> Notícias</h1>
 
             <div class="mb-4">
                 <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html" target="_blank"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
@@ -139,34 +139,6 @@
 
             </div>
 
-
-
-            <div class="mb-4">
-                <a href=""><strong> </strong></a>
-                <p>
-
-                </p>
-            </div>
-
-            <div class="mb-4">
-                <a href=""><strong> </strong></a>
-                <p>
-
-                </p>
-            </div>
-
-            <div class="mb-4">
-                <a href=""><strong> </strong></a>
-                <p>
-
-                </p>
-            </div>
-            <div class="mb-4">
-                <a href=""><strong> </strong></a>
-                <p>
-
-                </p>
-            </div>
 
             <div class="modal1">
 
