@@ -31,6 +31,27 @@
                 </p>
             </div>
 
+            <div class="mb-4">
+                <a href="https://gq.globo.com/Cultura/noticia/2019/11/primeiro-museu-do-mundo-dedicado-ao-graffiti-abre-em-miami.html" target="_blank"><strong>Primeiro museu do mundo dedicado ao graffiti abre em Miami</strong></a>
+                <p> 
+                Local inaugura em 5 de dezembro e apresenta história do movimento global da arte de rua
+                </p>
+            </div>
+
+            <div class="mb-4">
+                <a href="https://g1.globo.com/mg/triangulo-mineiro/noticia/2019/11/30/projeto-mostra-o-grafite-como-proposta-cultural-para-adolescentes-em-frutal.ghtml" target="_blank"><strong>Projeto mostra o grafite como proposta cultural para adolescentes em Frutal</strong></a>
+                <p> 
+                'FormArte' conta com diversos tipos de oficinas e visa mostrar o lado cultural do movimento de rua
+                </p>
+            </div>
+
+            <div class="mb-5">
+                <a href="https://www.correio24horas.com.br/noticia/nid/comercio-recebera-shows-de-rap-e-apresentacoes-de-grafite-neste-domingo/" target="_blank"><strong>Comércio receberá shows de rap e apresentações de grafite neste domingo</strong></a>
+                <p> 
+                A 3ª edição do Salvador Hip Hop acontecerá neste domingo no Comércio e terá shows de rap, discotecagem com dj's, grafite e dança de rua
+                </p>
+            </div>
+
             <div class="row mx-auto">
 
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
