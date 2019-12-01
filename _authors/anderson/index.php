@@ -66,9 +66,9 @@
 
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
                             <section>
-                                <h1 class="text-center">Artistas</h1>
+                                <h1 class="text-center mb-4">Artistas</h1>
                                 <div class="row justify-content-lg-center mb-5">
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12 mb-5">
                                         <div class="card">
                                             <!-- <img class="card-img-top" src="" alt=""/> -->
                                             <div class="card-fundo"></div>
@@ -111,7 +111,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                         <div class="card">
                                             <!-- <img class="card-img-top" src="" alt=""/> -->
                                             <div class="card-fundo"></div>
@@ -152,7 +152,7 @@
                                 </div>
 
                                 <div class="row justify-content-lg-center mb-5">
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12 mb-5">
                                         <div class="card">
                                             <!-- <img class="card-img-top" src="" alt=""/> -->
                                             <div class="card-fundo"></div>
@@ -191,7 +191,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4">
+                                    <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                         <div class="card">
                                             <!-- <img class="card-img-top" src="" alt=""/> -->
                                             <div class="card-fundo"></div>
