@@ -54,7 +54,7 @@
 
             <div class="row mx-auto">
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/museuderua.png" alt="" />
@@ -70,7 +70,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/plantio.png" alt="" />
@@ -90,7 +90,7 @@
 
             <div class="row mx-auto">
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/Maedagua.png" alt="" />
@@ -106,7 +106,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/osgemeos.png" alt="" />
@@ -126,7 +126,7 @@
 
             <div class="row mx-auto">
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/itapecerica.png" alt="" />
@@ -142,7 +142,7 @@
                     </div>
                 </div>
 
-                <div class="card mb-3 mx-auto" style="max-width: 540px;">
+                <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                             <img class="card-img" src="./_images/news/santos.png" alt="" />
