@@ -2,18 +2,13 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
+
 <main class="my-2">
-
     <div class="container">
-
         <section>
-
             <h1 class="text-center">Quem Somos</h1>
-
             <div class="row justify-content-lg-center mb-5">
-
                 <div class="col-lg-4 col-md-6 col-sm-12">
-
                     <div class="card mt-2 mb-3 cardb">
                         <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
@@ -30,16 +25,10 @@
                             <!--                <div><a href="#">Pages centers</a></div>-->
                         </div>
                     </div>
-
                 </div>
 
-
-
-
                 <div class="col-lg-4 col-md-6 col-sm-12">
-
                     <div class="card mt-2 mb-3 cardb">
-
                         <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/anderson.jpg" alt="Anderson">
@@ -54,19 +43,11 @@
                             <div><a href="_authors/anderson/index.php">Throwup</a></div>
                             <div><a href="#">Pages centers</a></div>
                         </div>
-
                     </div>
-
                 </div>
 
-
-
-
-
                 <div class="col-lg-4 col-md-6 col-sm-12">
-
                     <div class="card mt-2 mb-3 cardb">
-
                         <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/igor.jpg" alt="Igor">
@@ -81,19 +62,13 @@
                             <div><a href="_authors/igor/index.php">Freestyle</a></div>
                             <!--                <div><a href="#">Pages centers</a></div>-->
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
 
             <div class="row justify-content-lg-center mb-5">
-
                 <div class="col-lg-4 col-md-6 col-sm-12">
-
                     <div class="card mt-2 mb-3 cardb">
-
                         <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/larissa.jpg" alt="Larissa">
@@ -109,18 +84,11 @@
                             <div><a href="_authors/larissa/index.php">Mural</a></div>
                             <div><a href="#">Pages centers</a></div>
                         </div>
-
                     </div>
-
                 </div>
 
-
-
-
                 <div class="col-lg-4 col-md-6 col-sm-12">
-
                     <div class="card mt-2 mb-3 cardb">
-
                         <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/matheus.jpg" alt="Matheus">
@@ -134,16 +102,12 @@
                             <h4>Áreas</h4>
                             <div><a href="_authors/matheus/index.php">Stencil</a></div>
                             <div><a href="#">Pages centers</a></div>
-
                         </div>
                     </div>
                 </div>
             </div>
-
         </section>
-
     </div>
-
 </main>
 
 <?php
