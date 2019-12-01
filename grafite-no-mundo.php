@@ -44,7 +44,7 @@
 -->
                         <a class="nav-link" href="#item2"> INGLATERRA</a>
                         <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
-                        <a class="nav-link" href="#item4">olar</a>
+                        <a class="nav-link" href="#item4">ÁFRICA DO SUL</a>
                         <a class="nav-link" href="#item5">Brasil</a>
                         <a class="nav-link" href="#item6">Brasil</a>
 
@@ -273,28 +273,22 @@ No momento em que foi batido o martelo da venda, a obra se autodestruiu por meio
 
 
 
+                    <h3 id="item4" class="text-center mt-5 mb-3">ÁFRICA DO SUL </h3>
+                    <h4 class="mt-3 mb-3">Jack Fox</h4>
 
-
-                    <h3 id="item4" class="text-center mt-5 mb-3">olar</h3>
-
+                    
                     <p>
-                        Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                        madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal
-                        primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque
-                        invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere
-                        fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura
-                        ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant
-                        cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus
-                        viseret subdita frigida quem praeter longo locis arce spectent.
+                    JackFox nasceu em 1998, o artista de rua baseado na Cidade do Cabo, África do Sul. Ele já produziu murais e participou de projetos de galerias em Paris, Berlim, Madagascar, Nova York, Suíça e Cidade do Cabo.
+                    </p>
+                    <p>
+                    Além da arte de rua, ele também está envolvido na arte dos quadrinhos e na produção musical. Seus murais podem ser vistos nos subúrbios de Woodstock e Salt River, na Cidade do Cabo.
                     </p>
 
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
                             <figure>
-                                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                                <h3>Sub Título 2</h3>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpeg" alt="" />
+                        
                                 <figcaption class="text-justify">
                                     ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
                                     erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
@@ -333,7 +327,7 @@ No momento em que foi batido o martelo da venda, a obra se autodestruiu por meio
                         </div>
                     </div>
 
-                    <h3 id="item6">Brasil</h3>
+                    <h3 id="item6">áFrica d</h3>
 
                     <p>
                         Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
