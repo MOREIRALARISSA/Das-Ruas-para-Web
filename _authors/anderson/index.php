@@ -32,7 +32,6 @@
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
                             <!-- Sobre -->
                             <h1 class="mt-4 mb-4"> SOBRE </h1>
-
                             <div class="row align-items-center">
                                 <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0">
                                     <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="" />
@@ -66,94 +65,163 @@
                         </div>
 
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
-
                             <section>
-                                <!-- Artistas -->
-                                <h1 class="mt-4 mb-4 text-center">Artistas</h1>
-
+                                <h1 class="text-center">Artistas</h1>
                                 <div class="row justify-content-lg-center mb-5">
-                                    <div class="col-lg-4 col-md-6">
-                                        <div>
-                                            <figure>
-                                                <img src="./../../_images/anderson/artista-1.jpg" alt="" width="300" />
-                                                <figcaption class="mt-2">
-                                                    <strong>Real Grapixo</strong>
-                                                </figcaption>
-                                            </figure>
+                                    <div class="col-lg-4">
+                                        <div class="card">
+                                            <!-- <img class="card-img-top" src="" alt=""/> -->
+                                            <div class="card-fundo"></div>
+                                            <div class="avatar mx-auto">
+                                                <img src="../../_images/anderson/artista-1.png" alt="Real Grapixo">
+                                            </div>
+                                            <div class="card-body">
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
+                                                <h2 class="card-title" font-weight-bold>Real Grapixo</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Desconhecido
+                                                    <!--ou Robin Gunningham[2]-->
+                                                </h3>
+                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                            </div>
+                                            <ul class="list-group list-group-flush">
+                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                <!-- <li class="list-group-item">Período: Arte urbana</li> -->
+                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                            </ul>
+                                            <div class="card-body">
+                                                <div class="row justify-content-center">
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.instagram.com/realgrapixo/"><i class="fab fa-instagram"></i></a>
+                                                    </div>
 
-                                            <div class="row justify-content-center">
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.instagram.com/realgrapixo/"><i class="fab fa-instagram"></i></a>
-                                                </div>
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.facebook.com/realgrapixo"><i class="fab fa-facebook"></i></a>
+                                                    </div>
 
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.facebook.com/realgrapixo"><i class="fab fa-facebook"></i></a>
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://youtube.com.br/channel/UCfUya8k_iUBiV1W-LKaJwMg"><i class="fab fa-youtube"></i></a>
+                                                    </div>
                                                 </div>
-
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://youtube.com.br/channel/UCfUya8k_iUBiV1W-LKaJwMg"><i class="fab fa-youtube"></i></a>
-                                                </div>
+                                                <!-- <a href="#" class="card-link">link</a> -->
+                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4 offset-lg-1 col-md-6 mb-5">
-                                        <div>
-                                            <figure>
-                                                <img src="./../../_images/anderson/artista-2.jpg" alt="" width="300" />
-                                                <figcaption class="mt-2">
-                                                    <strong>ten.spheres</strong>
-                                                </figcaption>
-                                            </figure>
+                                    <div class="col-lg-4">
+                                        <div class="card">
+                                            <!-- <img class="card-img-top" src="" alt=""/> -->
+                                            <div class="card-fundo"></div>
+                                            <div class="avatar mx-auto">
+                                                <img src="../../_images/anderson/artista-2.png" alt="ten.spheres">
+                                            </div>
+                                            <div class="card-body">
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
+                                                <h2 class="card-title" font-weight-bold>ten.spheres</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Desconhecido
+                                                    <!--ou Robin Gunningham[2]-->
+                                                </h3>
+                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                            </div>
+                                            <ul class="list-group list-group-flush">
+                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                <!-- <li class="list-group-item">Período: Arte urbana</li> -->
+                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                            </ul>
+                                            <div class="card-body">
+                                                <div class="row justify-content-lg-center justify-content-md-center">
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://instagram.com/ten.spheres?igshid=loasb94kvtug"><i class="fab fa-instagram"></i></a>
+                                                    </div>
 
-                                            <div class="row justify-content-lg-center justify-content-md-center">
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://instagram.com/ten.spheres?igshid=loasb94kvtug"><i class="fab fa-instagram"></i></a>
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.facebook.com/Ten.spheres/"><i class="fab fa-facebook"></i></a>
+                                                    </div>
                                                 </div>
-
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.facebook.com/Ten.spheres/"><i class="fab fa-facebook"></i></a>
-                                                </div>
+                                                <!-- <a href="#" class="card-link">link</a> -->
+                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="row justify-content-lg-center">
-                                    <div class="col-lg-4 col-md-6">
-                                        <div>
-                                            <figure>
-                                                <img src="./../../_images/anderson/artista-3" alt="" width="300" />
-                                                <figcaption class="mt-2">
-                                                    <strong>ROTA IP</strong>
-                                                </figcaption>
-                                            </figure>
+                                <div class="row justify-content-lg-center mb-5">
+                                    <div class="col-lg-4">
+                                        <div class="card">
+                                            <!-- <img class="card-img-top" src="" alt=""/> -->
+                                            <div class="card-fundo"></div>
+                                            <div class="avatar mx-auto">
+                                                <img src="../../_images/anderson/artista-3.png" alt="ROTA IP">
+                                            </div>
+                                            <div class="card-body">
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
+                                                <h2 class="card-title" font-weight-bold>ROTA IP</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Desconhecido
+                                                    <!--ou Robin Gunningham[2]-->
+                                                </h3>
+                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                            </div>
+                                            <ul class="list-group list-group-flush">
+                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                <!-- <li class="list-group-item">Período: Arte urbana</li> -->
+                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                            </ul>
+                                            <div class="card-body">
+                                                <div class="row justify-content-lg-center justify-content-md-center">
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.instagram.com/rotaip/?igshid=2ql04bp1vqyg"><i class="fab fa-instagram"></i></a>
+                                                    </div>
 
-                                            <div class="row justify-content-lg-center justify-content-md-center">
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.instagram.com/rotaip/?igshid=2ql04bp1vqyg"><i class="fab fa-instagram"></i></a>
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.facebook.com/ROTA.IP"><i class="fab fa-facebook"></i></a>
+                                                    </div>
                                                 </div>
-
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.facebook.com/ROTA.IP"><i class="fab fa-facebook"></i></a>
-                                                </div>
+                                                <!-- <a href="#" class="card-link">link</a> -->
+                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
                                             </div>
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4 offset-lg-1 col-md-6">
-                                        <div>
-                                            <figure>
-                                                <img src="./../../_images/anderson/artista-4.png" alt="" width="300" />
-                                                <figcaption class="mt-2">
-                                                    <strong>Veni Vidi Vici</strong>
-                                                </figcaption>
-                                            </figure>
-
-                                            <div class="row justify-content-lg-center justify-content-md-center">
-                                                <div class="col-lg-2 col-md-3 redes-artistas">
-                                                    <a href="https://www.instagram.com/vx3graffiti/?igshid=1ntju4sun1d9c"><i class="fab fa-instagram"></i></a>
+                                    <div class="col-lg-4">
+                                        <div class="card">
+                                            <!-- <img class="card-img-top" src="" alt=""/> -->
+                                            <div class="card-fundo"></div>
+                                            <div class="avatar mx-auto">
+                                                <img src="../../_images/anderson/artista-4.png" alt="Veni Vidi Vici">
+                                            </div>
+                                            <div class="card-body">
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
+                                                <h2 class="card-title" font-weight-bold>Veni Vidi Vici</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Desconhecido
+                                                    <!--ou Robin Gunningham[2]-->
+                                                </h3>
+                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                            </div>
+                                            <ul class="list-group list-group-flush">
+                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                <!-- <li class="list-group-item">Período: Arte urbana</li> -->
+                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                            </ul>
+                                            <div class="card-body">
+                                                <div class="row justify-content-lg-center justify-content-md-center">
+                                                    <div class="col-lg-2 col-md-3 redes-artistas">
+                                                        <a href="https://www.instagram.com/vx3graffiti/?igshid=1ntju4sun1d9c"><i class="fab fa-instagram"></i></a>
+                                                    </div>
                                                 </div>
+                                                <!-- <a href="#" class="card-link">link</a> -->
+                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
                                             </div>
                                         </div>
                                     </div>
