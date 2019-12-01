@@ -100,6 +100,11 @@
     color: rgba(255, 255, 255, 0.75);
 }
 
+.copy {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+
 @media (max-width: 991px) {
     .menu_fixed {
         position: -webkit-sticky;
