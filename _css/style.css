@@ -100,7 +100,7 @@
     color: rgba(255, 255, 255, 0.75);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 991px) {
     .menu_fixed {
         position: -webkit-sticky;
         position: sticky;
