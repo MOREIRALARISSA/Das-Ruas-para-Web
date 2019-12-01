@@ -6,8 +6,12 @@
 <main class="mt-4 mb-4">
 
 <div class="container">
+<h1 class="text-center mt-4 mb-4"> Estilos de Grafite </h1>
+    
+    <p> lorem ipsum </p>
 
     <div class="card-deck">
+
     
         <div class="card">
             <img src="_images/estilos/freestyle.png" class="card-img-top" alt="...">
