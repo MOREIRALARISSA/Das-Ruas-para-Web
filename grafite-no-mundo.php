@@ -43,7 +43,7 @@
                         </nav>
 -->
                         <a class="nav-link" href="#item2"> INGLATERRA</a>
-                        <a class="nav-link" href="#item3">Brasil</a>
+                        <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
                         <a class="nav-link" href="#item4">olar</a>
                         <a class="nav-link" href="#item5">Brasil</a>
                         <a class="nav-link" href="#item6">Brasil</a>
@@ -60,15 +60,16 @@
 
             
 
-                    <h3 id="item1">BRASIL</h3>
+                    <h3 id="item1" class="text-center mt-5 mb-3">BRASIL</h3>
                     <h4 class="mt-3 mb-3">Kobra</h4>
 
                     <p>
-                    Um dos artistas brasileiros mais conhecidos quando o assunto é arte de rua é o Eduardo Kobra. Espalhados por arranha-céus e pontos bem inusitados, os murais super coloridos do artista chamam a atenção de qualquer um. Talvez um dos trabalhos mais famosos do brasileiro seja "O Beijo", em Nova York, que retrata a famosa cena em que um marinheiro e uma enfermeira se beijam para celebrar o final da Segunda Guerra Mundial.
+                    Um dos artistas brasileiros mais conhecidos quando o assunto é arte de rua é o Eduardo Kobra. Espalhados por arranha-céus e pontos bem inusitados, os murais super coloridos do artista chamam a atenção de qualquer um. 
                     </p>
                     
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
+                        <h5>O Beijo</h5>
                             <figure>
                                 <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.jpg" alt="" />
                                                                <figcaption class="text-justify">
@@ -86,6 +87,7 @@ a capital do mundo ganhou uma nova atração turística: visitantes passaram a s
                 </p>
                         </div>
                         <div class="col-lg-12">
+                        <h5>Tupac E Notorius B.I.G.</h5>
                             <figure>
                                 <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.jpg" alt="" />
                                                                <figcaption class="text-justify">
@@ -110,14 +112,14 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
 
 <div class="row justify-content-center mx-auto">
     <div class="col-lg-12">
+    <h5> Vancouver Biennale</h5>
         <figure>
             <img class="img-fluid" src="./_images/GrafitePeloMundo/osgemeos.jpg" alt="" />
             <figcaption class="text-justify">
           Foto Divulgação
             </figcaption>
         </figure>
-        <p>
-        Vancouver Biennale, Canadá (2014)
+        
         <p>
         OSGEMEOS participam da Vancouver Biennale, que acontece entre 2014 e 2016, com um mural 360º, de 20 metros de altura e mais de 2.000 m². Criado em seis gigantescos tonéis, a obra está ao lado dos célebres Public Market, Emily Carr University e False Creek, pequena enseada que separa o centro do restante da cidade, em Granville Island. A proposta da Bienal tem uma forte conexão com esculturas, por isso os artistas optaram por um espaço no qual a pintura pudesse se transformar, criando um diálogo entre os mundos bidimensional e tridimensional, e levar os personagens a Vancouver, a fim de dividir perspectivas e culturas e estabelecer uma conexão com as pessoas que frequentam a região, integrando a obra ao cenário. Com o novo mural, OSGEMEOS integram o grupo de artistas internacionais que participam da Bienal de Vancouver, como Ai Weiwei, Andy Goldsworthy, Vik Muniz e Jonathan Borofsky.
         </p>
@@ -148,7 +150,7 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
                     </p>
 -->
 
-                    <h3 id="item2">INGLATERRA</h3>
+                    <h3 id="item2" class="text-center mt-5 mb-3">INGLATERRA</h3>
                     <h4 class="mt-3 mb-3">Banksy</h4>
 
                     <p>
@@ -157,6 +159,7 @@ Os Gêmeos, Gustavo e Otávio Pandolfo, são artistas brasileiros que espalham p
 
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
+                        <h5> Love is in the Air </h5>
                             <figure>
                                 <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
@@ -181,17 +184,16 @@ A obra foi escolhida para ilustrar a capa do livro do artista Wall and Piece (20
                 
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
+                        <h5>Girl with ballon</h5>
                             <figure>
                                 <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
                             </figure>
+                            
                             <p>
-                            Girl with ballon foi realizada em 2002 em Londres, na Inglaterra.
-                            </p>
-                            <p>
-                            Na obra, é exibida a figura de uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta.
+                            Na obra realizada em 2002 em Londres, é exibida a figura de uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta.
                             </p>
 <p>
 Há ainda a frase "There is always hope", que traduzida para o português significa "Há sempre esperança". Aqui, Banksy deixa uma mensagem de crença em dias melhores, mesmo com todo o desalento que há no sistema em que vivemos.
@@ -207,7 +209,73 @@ No momento em que foi batido o martelo da venda, a obra se autodestruiu por meio
                         </div>
                     </div>
 
-                    <h3 id="item3">Brasil</h3>
+
+
+
+
+
+
+
+                    <h3 id="item3" class="text-center mt-5 mb-3">ESTADOS UNIDOS</h3>
+                    <h4 class="mt-3 mb-3">Eric Grohe</h4>
+
+                    <p>
+                    Eric Grohe é um pintor que usa uma técnica chamada trompe l’oeil para criar murais em três dimensões incríveis, que, provavelmente, devem confundir muita gente distraída.
+                    </p>
+                    <p>
+                    O artista americano transforma paredes lisas e comuns em verdadeiras obras de arte e da ilusão de ótica. Como ele usa uma tinta mineral especial, um mural dele pode durar até um século!
+                    </p>
+
+
+
+
+                    <div class="row justify-content-center mx-auto">
+                        <div class="col-lg-12">
+                        <h5> Liberty Remembers </h5>
+                            <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.jpg" alt="" />
+                              
+                                <figcaption class="text-justify">
+                                ANTES
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </div>
+
+                    <div class="row justify-content-center mx-auto">
+                        <div class="col-lg-12">
+                            <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.jpg" alt="" />
+                              
+                                <figcaption class="text-justify">
+                               DEPOIS
+                                </figcaption>
+                            </figure>
+
+                            <p>
+                            Liberty Remembers apresenta Lady Liberty segurando um soldado moribundo nos braços. Ela é cercada pelos rostos de 285 veteranos do Condado de Crawford, vivos e falecidos. Os veteranos retratados em Liberty Remembers abrangem o serviço militar americano da Revolução Americana em 1775 a 2001.
+                            </p>
+                            <div class="col-lg-12">
+                            <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.jpg" alt="" />
+                              
+                                <figcaption class="text-justify">
+                                Soldados
+                                </figcaption>
+                            </figure>
+                            <p> <small> Fotos Divulgação </small>
+                            <p>
+                            As notícias foram enviadas pela mídia local pedindo às pessoas para nomear veteranos locais, enviando uma fotografia de seu período de serviço e uma breve narrativa. Dentro de duas semanas, um quarto de reserva na residência temporária do artista estava cheio de cartas, fotos e recordações, incluindo medalhas, placas de identificação de cães, jaquetas e álbuns, até uma sela! Foram escolhidos 285 veteranos dentre as mais de 500 inscrições, sendo o principal critério a clareza da fotografia na qual o artista trabalharia.
+                            </p> 
+                        </div>
+                    </div>
+
+
+
+
+
+
+                    <h3 id="item4" class="text-center mt-5 mb-3">olar</h3>
 
                     <p>
                         Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
@@ -236,36 +304,7 @@ No momento em que foi batido o martelo da venda, a obra se autodestruiu por meio
                         </div>
                     </div>
 
-                    <h3 id="item4">olar</h3>
-
-                    <p>
-                        Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                        madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal
-                        primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque
-                        invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere
-                        fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura
-                        ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant
-                        cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus
-                        viseret subdita frigida quem praeter longo locis arce spectent.
-                    </p>
-
-                    <div class="row justify-content-center mx-auto">
-                        <div class="col-lg-12">
-                            <figure>
-                                <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                                <h3>Sub Título 2</h3>
-                                <figcaption class="text-justify">
-                                    ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                                    erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                                    timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
-                                </figcaption>
-                            </figure>
-                        </div>
-                    </div>
-
-                    <h3 id="item5">Brasil</h3>
+                    <h3 id="item5" class="text-center mt-5 mb-3"> Brasil</h3>
 
                     <p>
                         Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
