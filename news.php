@@ -237,9 +237,10 @@
                     <p>
                         O projeto foi idealizado pelo artista de rua Ramar Gama e pelo produtor cultural Ivan Neves. A eles, se juntaram o também artista de rua João Marcelo Goma (conhecido como Goma) e os produtores culturais Daniel Moreira, da ForSócios; e Gabriel Camargos, João Pedro Illanes e Pedro Carias, da festa Sinestésica.
                     </p>
+                    <div class="embed-responsive embed-responsive-16by9">
 
                     <iframe width="450" height="215" src="https://www.youtube.com/embed/DjuCBJNqpWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+                        </div>
                     <p>
                         Fonte <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203" target="_blank"> Jornal Hoje em Dia</a>
                     </p>
