@@ -100,6 +100,15 @@
     color: rgba(255, 255, 255, 0.75);
 }
 
+@media (max-width: 767px) {
+    .menu_fixed {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0px;
+        z-index: 16;
+    }
+}
+
 /* **************** MAIN ************* */
 
 main {

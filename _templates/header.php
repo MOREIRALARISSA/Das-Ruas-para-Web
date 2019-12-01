@@ -29,7 +29,7 @@
 
 <body>
     
-    <header class="stp">
+    <header class="stp menu_fixed">
                 
         <nav class="navbar navbar-dark colorh">
 
