@@ -286,14 +286,28 @@
 
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
+
+                            <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/smug1.jpg" alt="" />
                                     
                                     <figcaption class="text-justify">
-                                        ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                                        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                                        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
-                                    </figcaption>
+                                        Foto Dean Sunshine
+                                        </figcaption>
+                                </figure>
+                            </div>
+                        </div>
+
+                        <div class="row justify-content-center mx-auto">
+                            <div class="col-lg-12">
+
+                            <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
+                                <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/smug.jpg" alt="" />
+                                    
+                                    <figcaption class="text-justify">
+                                        Foto Brian Tallman
+                                        </figcaption>
                                 </figure>
                             </div>
                         </div> 
