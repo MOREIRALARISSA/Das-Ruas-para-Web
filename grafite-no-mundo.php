@@ -71,7 +71,7 @@
                         <div class="col-lg-12">
                             <h5>O Beijo</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Cristina Mueller
                                 </figcaption>
@@ -89,7 +89,7 @@
                         <div class="col-lg-12">
                             <h5>Tupac E Notorius B.I.G.</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Rom Levy
                                 </figcaption>
@@ -129,7 +129,7 @@
                         <div class="col-lg-12">
                             <h5> Love is in the Air </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -154,7 +154,7 @@
                         <div class="col-lg-12">
                             <h5>Girl with ballon</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -197,7 +197,7 @@
                         <div class="col-lg-12">
                             <h5> Liberty Remembers </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.jpg" alt="" />
 
                                 <figcaption class="text-justify">
                                     ANTES
@@ -209,7 +209,7 @@
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.jpg" alt="" />
 
                                 <figcaption class="text-justify">
                                     DEPOIS
@@ -221,7 +221,7 @@
                             </p>
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.png" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         Soldados
@@ -253,7 +253,7 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.png" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         Foto Divulgação
