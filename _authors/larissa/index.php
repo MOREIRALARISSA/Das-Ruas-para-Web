@@ -110,7 +110,7 @@
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
                                                 <!--                        <a href="#" class="card-link">link</a>-->
-                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
+                                                <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
 
                                             </div>
 
@@ -300,7 +300,7 @@
 
 </main>
 
-<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog">
+<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
 
