@@ -18,7 +18,7 @@
 
             <div class="carousel-item active">
 
-                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -30,7 +30,7 @@
 
             <div class="carousel-item">
 
-                <img src="_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid d-block">
+                <img src="_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -42,7 +42,7 @@
 
             <div class="carousel-item">
 
-                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block w-100">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -60,15 +60,10 @@
             <span class="sr-only">Anterior</span>
 
         </a>
-<<<<<<< ours
-    
+
         <a class="carousel-control-next" href="#carouselSite" role="button" data-slide="next">
-        
-=======
 
-        <a class="carousel-control-next" id="#carouselSite" role="button" data-slide="next">
 
->>>>>>> theirs
             <span class="carousel-control-next-icon"></span>
             <span class="sr-only">Avançar</span>
 
@@ -168,7 +163,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <figure>
-                    <a href="_authors/igor/index.php"> <img src="_images/estilos/freestyle.png" class="img-fluid" alt="..."> </a>
+                    <a href="_authors/igor/index.php"> <img src="_images/estilos/freestyle.png" class="img-fluid rounded" alt="..."> </a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -176,7 +171,7 @@
             </div>
             <div class="col-lg-6 col-md-6">
                 <figure>
-                    <a href="_authors/anderson/index.php"> <img src="_images/estilos/throwup.png" class="img-fluid" alt="..."></a>
+                    <a href="_authors/anderson/index.php"> <img src="_images/estilos/throwup.png" class="img-fluid rounded" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -186,7 +181,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <a href="_authors/matheus/index.php"> <img src="_images/estilos/stencil.png" class="img-fluid" alt="..."></a>
+                    <a href="_authors/matheus/index.php"> <img src="_images/estilos/stencil.png" class="img-fluid rounded" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -194,7 +189,7 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <a href="_authors/larissa/index.php"> <img src="_images/estilos/mural.png" class="img-fluid" alt="..."></a>
+                    <a href="_authors/larissa/index.php"> <img src="_images/estilos/mural.png" class="img-fluid rounded" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -202,7 +197,7 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <a href="_authors/adelina/index.php"> <img src="_images/estilos/3d.png" class="img-fluid" alt="..."> </a>
+                    <a href="_authors/adelina/index.php"> <img src="_images/estilos/3d.png" class="img-fluid rounded" alt="..."> </a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
