@@ -18,7 +18,7 @@
 
             <div class="carousel-item active">
 
-                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -30,7 +30,7 @@
 
             <div class="carousel-item">
 
-                <img src="_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid d-block">
+                <img src="_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid d-block">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -42,7 +42,7 @@
 
             <div class="carousel-item">
 
-                <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid d-block">
+                <img src="_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid d-block">
                 <div class="carousel-caption d-none d-md-block">
 
                     <h3></h3>
@@ -162,7 +162,7 @@
         <div class="row">
             <div class="col-lg-6 col-md-6">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <a href="_authors/igor/index.php"> <img src="_images/estilos/freestyle.png" class="img-fluid" alt="..."> </a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -170,7 +170,7 @@
             </div>
             <div class="col-lg-6 col-md-6">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <a href="_authors/anderson/index.php"> <img src="_images/estilos/throwup.png" class="img-fluid" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -180,7 +180,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <a href="_authors/matheus/index.php"> <img src="_images/estilos/stencil.png" class="img-fluid" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -188,7 +188,7 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <a href="_authors/larissa/index.php"> <img src="_images/estilos/mural.png" class="img-fluid" alt="..."></a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
@@ -196,7 +196,7 @@
             </div>
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <a href="_authors/adelina/index.php"> <img src="_images/estilos/3d.png" class="img-fluid" alt="..."> </a>
                     <figcaption>
                         <strong>Algo sobre o estilo</strong>
                     </figcaption>
