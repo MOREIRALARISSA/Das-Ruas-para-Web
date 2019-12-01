@@ -55,7 +55,7 @@
     
     
     
-    <div>
+    <div class="copy">
     
     <p><small>Copyright 2019 | ᴅᴀs ʀᴜᴀs ᴘᴀʀᴀ ᴡᴇʙ </small></p>
 </div>
