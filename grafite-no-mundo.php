@@ -46,8 +46,9 @@
                         <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
                         <a class="nav-link" href="#item4">ÁFRICA DO SUL</a>
                         <a class="nav-link" href="#item5">Brasil</a>
+                        <!--
                         <a class="nav-link" href="#item6">Brasil</a>
-
+-->
                     </nav>
 
                 </nav>
@@ -233,7 +234,7 @@
                                     </p>
                             </div>
                         </div>
-
+</div>
 
 
 
@@ -254,6 +255,14 @@
                                 <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
                                     <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpg" alt="" />
+
+                                    <figcaption class="text-justify">
+                                        Foto Divulgação
+                                    </figcaption>
+                                </figure>
+
+                                <figure>
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox2.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         Foto Divulgação
@@ -289,8 +298,8 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                        </div>
-
+                        </div> 
+<!--
                         <h3 id="item6">áFrica d</h3>
 
                         <p>
@@ -318,7 +327,7 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
 
