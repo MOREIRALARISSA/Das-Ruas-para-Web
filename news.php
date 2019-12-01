@@ -57,7 +57,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/museuderua.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -73,7 +73,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/plantio.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -93,7 +93,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/MaeDagua.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/Maedagua.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -109,7 +109,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/osgemeos.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -129,7 +129,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/itapecerica.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -145,7 +145,7 @@
                 <div class="card mb-3 mx-auto" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/santos.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/santos.png" alt="" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -215,7 +215,7 @@
             <div class="modal-body text-center">
                 <h1>Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/museuderua.png" alt="" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
@@ -267,7 +267,7 @@
             <div class="modal-body text-center-justify">
                 <h1>Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/plantio.png" alt="" />
                     <figcaption>
                         Cinco grafiteiros do Coletivo The King´s participaram da ação.
                     </figcaption>
@@ -327,7 +327,7 @@
             <div class="modal-body text-center">
                 <h1> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/MaeDagua.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/Maedagua.png" alt="" />
                     <figcaption>
                         Foto: Adan Garantizado/Águas de Manaus.
                     </figcaption>
@@ -402,7 +402,7 @@
             <div class="modal-body text-center">
                 <h1>Os Gêmeos em exposição na Pinacoteca</h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/osgemeos.png" alt="" />
                     <figcaption>
                         Foto Divulgação.
                     </figcaption>
@@ -450,7 +450,7 @@
                 <h5>1º festival de Grafite Branca Cor leva grafites a casas, comércios e espaços públicos do Jd. Branca Flor, em Itapecerica da Serra </h5>
 
                 <figure>
-                    <img class="img-fluid" src="./_images/news/itapecerica.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/itapecerica.png" alt="" />
                     <figcaption>
                         1º festival de Grafite Branca Cor pintou casas e comércios no Jd. Branca Flor.
                     </figcaption>
@@ -503,7 +503,7 @@
                 <h5> Aulas serão ministradas na Vila Criativa da Vila Nova no próximo sábado (23). </h5>
 
                 <figure>
-                    <img class="img-fluid" src="./_images/news/santos.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/santos.png" alt="" />
                     <figcaption>
                         Foto: Divulgação/Prefeitura de Santos
                     </figcaption>

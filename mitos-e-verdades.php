@@ -37,7 +37,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img class="img-fluid" src="./_images/MitosxVerdades/grafites-centro-bh.jpg" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
+                    <img class="img-fluid" src="./_images/MitosxVerdades/grafites-centro-bh.png" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
                     <figcaption>
                         Grafites em prédios na cidade de Belo Horizonte.
                     </figcaption>
@@ -46,7 +46,7 @@
 
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img class="img-fluid" src="./_images/MitosxVerdades/pichacao-centro-bh.jpg" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
+                    <img class="img-fluid" src="./_images/MitosxVerdades/pichacao-centro-bh.png" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
                     <figcaption>
                         Pichações em prédio na cidade de Belo Horizonte.
                     </figcaption>
@@ -95,7 +95,7 @@
         <div class=" row justify-content-center">
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img class="img-fluid" src="./_images/MitosxVerdades/museuderua.jpg" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
+                    <img class="img-fluid" src="./_images/MitosxVerdades/museuderua.png" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
                     <figcaption>
                         Museu de Rua reúne 30 artistas para revitalizar muro de escola.
                     </figcaption>
@@ -104,7 +104,7 @@
 
             <div class="col-lg-4 col-md-4">
                 <figure>
-                    <img class="img-fluid" src="./_images/MitosxVerdades/beco-do-batman.jpg" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
+                    <img class="img-fluid" src="./_images/MitosxVerdades/beco-do-batman.png" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
                     <figcaption>
                         Grafites localizados no Beco do Batman na Vila Madalena, São Paulo.
                     </figcaption>

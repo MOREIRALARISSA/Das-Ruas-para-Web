@@ -71,7 +71,7 @@
                         <div class="col-lg-12">
                             <h5>O Beijo</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.png" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Cristina Mueller
                                 </figcaption>
@@ -89,7 +89,7 @@
                         <div class="col-lg-12">
                             <h5>Tupac E Notorius B.I.G.</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.png" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Rom Levy
                                 </figcaption>
@@ -114,7 +114,7 @@
                                 <div class="col-lg-12">
                                     <h5> Vancouver Biennale</h5>
                                     <figure>
-                                        <img class="img-fluid" src="./_images/GrafitePeloMundo/osgemeos.jpg" alt="" />
+                                        <img class="img-fluid" src="./_images/GrafitePeloMundo/osgemeos.png" alt="" />
                                         <figcaption class="text-justify">
                                             Foto Divulgação
                                         </figcaption>
@@ -161,7 +161,7 @@
                         <div class="col-lg-12">
                             <h5> Love is in the Air </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.png" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -186,7 +186,7 @@
                         <div class="col-lg-12">
                             <h5>Girl with ballon</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.png" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -233,7 +233,7 @@
                         <div class="col-lg-12">
                             <h5> Liberty Remembers </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.png" alt="" />
 
                                 <figcaption class="text-justify">
                                     ANTES
@@ -245,7 +245,7 @@
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.png" alt="" />
 
                                 <figcaption class="text-justify">
                                     DEPOIS
@@ -257,7 +257,7 @@
                             </p>
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.png" alt="" />
 
                                     <figcaption class="text-justify">
                                         Soldados
@@ -285,9 +285,11 @@
                         </p>
 
                         <div class="row justify-content-center mx-auto">
+
                             <div class="col-lg-12">
+                                <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpeg" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.png" alt="" />
 
                                     <figcaption class="text-justify">
                                         ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
@@ -346,7 +348,7 @@
                             <div class="col-lg-12">
                                 <figure>
                                     <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                                    <h3>Sub Título 2</h3>
+
                                     <figcaption class="text-justify">
                                         ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
                                         erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice

@@ -31,7 +31,7 @@
 
             <div class="col-lg-4 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
                     <figcaption>
                         Plataforma 180TH Street, Bronx/ Nova York - 1980.
                     </figcaption>
@@ -42,7 +42,7 @@
         <div class="row mt-5 align-items-center">
             <div class="col-lg-4 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.jpg" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.png" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
                     <figcaption>
                         Pescaria - 1981 | Jean-Michel Basquiat
                     </figcaption>
@@ -81,7 +81,7 @@
 
             <div class="col-lg-5 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.jpg" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.png" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
                     <figcaption>
                         Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982.
                     </figcaption>
