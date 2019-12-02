@@ -35,7 +35,7 @@
                             <h1 class="mt-4 mb-4"> SOBRE </h1>
                             <article>
                                 <div class="row justify-content-center">
-                                    <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
+                                    <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
                                         <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
                                     </div>
 
@@ -59,7 +59,7 @@
                                         </p>
                                     </div>
 
-                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
+                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
                                         <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois" />
                                     </div>
                                 </div>
