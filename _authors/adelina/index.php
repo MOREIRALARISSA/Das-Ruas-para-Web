@@ -74,7 +74,7 @@
                             <div class="col-lg-6 offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
                        <section class="formatasection">
                             <figure>
-                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/KurtWenner2.jpg" alt="" />
+                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/KurtWennerperfil.jpg" alt="" />
                                 <figcaption>
                                     <h3>Kurt Wenner</h3>
                                     <p>O artista Kurt Wenner é um grande gênio da modernidade. Ele nasceu em Ann Arbor - Michigan, hoje, 
@@ -105,7 +105,7 @@
                     <div class="col-lg-6 offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
                         <section class="formatasection">
                             <figure>
-                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/TracyLeeStum2.jpg" alt="" />
+                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/TracyLeeStumperfil.jpg" alt="" />
                                 <figcaption>
                                 <h3>Tracy Lee Stum</h3>
                                 <p>Tracy nasceu em Chambersburg, Pensilvânia, e foi criada em West Chester, um subúrbio da Filadélfia.Stum começou a
@@ -137,7 +137,7 @@
                     <div class="col-lg-6 offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
                        <section class="formatasection">
                             <figure>
-                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/JulianBeever2.jpg" alt="" />
+                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/JulianBeeverperfil.jpg" alt="" />
                                 <figcaption>
                                 <h3>Julian Beever</h3>
                                 <p>Julian Beever é um artista inglês nascido em Cheltenham, Reino Unido 1959. Cresceu em Melton Mowbray.
@@ -168,7 +168,7 @@
                     <div class="col-lg-6 offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
                         <section class="formatasection">
                             <figure>
-                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/EricGrohe.jpg" alt="" />
+                                <img class="img-fluid imgsection" src="../../_images/imagensAdelina/EricGroheperfil.jpg" alt="" />
                                 <figcaption>
                                 <h3>Eric Grohe</h3>
                                 <p>Eric Grohe Alan nasceu em Nova York em 1944.Sua carreira profissional como designer gráfico
@@ -205,7 +205,7 @@
                     <div class="row">
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/KurtWenner5.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/KurtWenner5.jpg" alt="img">
                                 <figcaption>
                                     Grafite 3D de Kurt Wenner.
                                 </figcaption>
@@ -213,7 +213,7 @@
 
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/EricGrohe4.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/EricGrohe4.jpg" alt="img">
                                 <figcaption>
                                 Grafite 3D de Eric Grohe.
                                 </figcaption>
@@ -221,7 +221,7 @@
 
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum8.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum8.jpg" alt="img">
                                 <figcaption>
                                     Pintura de Tracy Lee Stum.
                                 </figcaption>
@@ -230,7 +230,7 @@
                    
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum7.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum7.jpg" alt="img">
                                 <figcaption>
                                     Pintura de Tracy Lee Stum.
                                 </figcaption>
@@ -238,7 +238,7 @@
 
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/JulianBeever6.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/JulianBeever6.jpg" alt="img">
                                 <figcaption>
                                     Pintura de Julian Beever.
                                 </figcaption>
@@ -246,7 +246,7 @@
 
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/JulianBeever7.jpg" alt="">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum5.jpg" alt="img">
                                 <figcaption>
                                     Pintura de Julian Beever.
                                 </figcaption>
