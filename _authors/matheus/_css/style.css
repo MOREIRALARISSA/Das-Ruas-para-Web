@@ -50,6 +50,12 @@ a:hover {
     border-color: #301F56!important;
 }
 
+.btn-primary:hover {
+    color: #fff;
+    background-color: #301F56;
+    border-color: #301F56;
+  }
+
 nav-pills {
     background-color: #301F56;
     border-color: #301F56!important;
