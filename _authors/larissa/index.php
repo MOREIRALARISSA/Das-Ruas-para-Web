@@ -157,10 +157,10 @@
                                             <div class="card-body">
                                                 <h2 class="card-title" font-weight-bold>Crica Monteiro</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
-                                                <p class="card-text">Comecou a grafitar ainda na adolescência e aí foi paixão a primeira riscada de spray na parede. Também se formou em Design de Interfaces Digitais.</p>
+                                                <p class="card-text">Comecou a grafitar ainda na adolescência e aí foi paixão a primeira riscada de spray na parede.</p>
                                             </div>
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item">Nascimento: 1986 (idade 33 anos), São Paulo, Brasil</li>
+                                                <li class="list-group-item">Nascimento: São Paulo, Brasil</li>
                                                 <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
                                             </ul>
                                             <div class="card-body">
