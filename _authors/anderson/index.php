@@ -5,7 +5,6 @@
 ?>
 
 <main>
-
     <div class="jumbotron junbotrom-fluid mt-4">
         <div class="container">
             <div class="row">
@@ -235,7 +234,7 @@
                             </section>
                         </div>
 
-                            <!-- Galeria -->
+                        <!-- Galeria -->
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
                             <h1 class="mt-4 mb-4 text-center">Galeria</h1>
                             <section>
