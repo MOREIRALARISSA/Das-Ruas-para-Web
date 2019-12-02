@@ -246,7 +246,7 @@
 
 
                         <div class="col-lg-4  offset-lg-0 col-md-6 offset-md-0 order-md-first order-sm-first ">
-                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/JulianBeever7.jpg" alt="img">
+                            <img class=" img-fluid galeria " src="../../_images/imagensAdelina/TracyLeeStum5.jpg" alt="img">
                                 <figcaption>
                                     Pintura de Julian Beever.
                                 </figcaption>
