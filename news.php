@@ -3,123 +3,11 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
-    
-    <article>
-
-    <div class="container">
-
-        <h1> Notícias</h1>
-
-        <div class="row mx-auto">
-        
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
-<!--                        <p class="card-text"><strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
-<!--                        <p class="card-text"><strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-            
-        </div>
-        
-        <div class="row mx-auto">
-
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/MaeDagua.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
-<!--                        <p class="card-text"><strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title">Os Gêmeos em exposição na Pinacoteca</h5>
-<!--                        <p class="card-text"><strong>Os Gêmeos em exposição na Pinacoteca</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-            
-        </div>
-        
-        <div class="row mx-auto">
-
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
-<!--                        <p class="card-text"><strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="card mb-3 mx-auto" style="max-width: 540px;">
-            <div class="row no-gutters">
-                <div class="col-md-4">
-                    <img class="card-img" src="./_images/news/santos.jpg" alt="" />
-                </div>
-                <div class="col-md-8">
-                    <div class="card-body">
-                        <h5 class="card-title"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
-<!--                        <p class="card-text"><strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong></p>-->
-                        <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
-                        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-            
-        </div>
-
+        <div class="container">
+            <h1 class="mt-4 mb-4"> Notícias</h1>
+            <article>
                 <div class="mb-4">
-                    <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
+                    <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html" target="_blank"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
                     <p>
                         Série da TV TEM mostra ação desses grupos que desafiam a lei.
                         Antigos pichadores contam como viraram grafiteiros profissionais.
@@ -127,88 +15,167 @@
                 </div>
 
                 <div class="mb-4">
-                    <a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm"><strong> Grafite - Uma forma de arte pública </strong></a>
+                    <a href="https://educacao.uol.com.br/disciplinas/artes/grafite-uma-forma-de-arte-publica.htm" target="_blank"><strong> Grafite - Uma forma de arte pública </strong></a>
                     <p>
                         O grafite é uma forma de arte contemporânea de características essencialmente urbanas.
                     </p>
                 </div>
 
                 <div class="mb-4">
-                    <a href="https://novaescola.org.br/conteudo/8759/pixacao-e-vandalismo"><strong> Pixação é vandalismo? </strong></a>
+                    <a href="https://novaescola.org.br/conteudo/8759/pixacao-e-vandalismo" target="_blank"><strong> Pixação é vandalismo? </strong></a>
                     <p> Discutir sem preconceito é o ponto de partida para entender, junto com os adolescentes, essa forma gráfica de contestação
                     </p>
                 </div>
 
                 <div class="mb-4">
-                    <a href=""><strong> </strong></a>
+                    <a href="https://gq.globo.com/Cultura/noticia/2019/11/primeiro-museu-do-mundo-dedicado-ao-graffiti-abre-em-miami.html" target="_blank"><strong>Primeiro museu do mundo dedicado ao graffiti abre em Miami</strong></a>
                     <p>
-
+                        Local inaugura em 5 de dezembro e apresenta história do movimento global da arte de rua
                     </p>
                 </div>
 
                 <div class="mb-4">
-                    <a href=""><strong> </strong></a>
+                    <a href="https://g1.globo.com/mg/triangulo-mineiro/noticia/2019/11/30/projeto-mostra-o-grafite-como-proposta-cultural-para-adolescentes-em-frutal.ghtml" target="_blank"><strong>Projeto mostra o grafite como proposta cultural para adolescentes em Frutal</strong></a>
                     <p>
-
+                        'FormArte' conta com diversos tipos de oficinas e visa mostrar o lado cultural do movimento de rua
                     </p>
                 </div>
 
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
+                <div class="mb-5">
+                    <a href="https://www.correio24horas.com.br/noticia/nid/comercio-recebera-shows-de-rap-e-apresentacoes-de-grafite-neste-domingo/" target="_blank"><strong>Comércio receberá shows de rap e apresentações de grafite neste domingo</strong></a>
                     <p>
-
-                    </p>
-                </div>
-                <div class="mb-4">
-                    <a href=""><strong> </strong></a>
-                    <p>
-
+                        A 3ª edição do Salvador Hip Hop acontecerá neste domingo no Comércio e terá shows de rap, discotecagem com dj's, grafite e dança de rua
                     </p>
                 </div>
 
-            <div class="modal1">
+                <div class="row mx-auto">
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
+                                    <!--                        <p class="card-text"><strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 06 de abril de 2019</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
+                                    <!--                        <p class="card-text"><strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 22 de novembro de 2019</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mx-auto">
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/Maedagua.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
+                                    <!--                        <p class="card-text"><strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 17 de novembro de 2019</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title">Os Gêmeos em exposição na Pinacoteca</h5>
+                                    <!--                        <p class="card-text"><strong>Os Gêmeos em exposição na Pinacoteca</strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 09 de outubro de 2019</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row mx-auto">
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
+                                    <!--                        <p class="card-text"><strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 21 de novembro de 2019</small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
+                        <div class="row no-gutters">
+                            <div class="col-md-4">
+                                <img class="card-img" src="./_images/news/santos.jpg" alt="" />
+                            </div>
+                            <div class="col-md-8">
+                                <div class="card-body">
+                                    <h5 class="card-title"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
+                                    <!--                        <p class="card-text"><strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong></p>-->
+                                    <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
+                                    <p class="card-text"><small class="text-muted">Última atualização 17 de novembro de 2019 20h18 </small></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="modal1">
+                </div>
+
+                <div class="modal2">
+                </div>
+
+                <div class="modal3">
+                </div>
+
+                <div class="modal4">
+                </div>
+
+                <div class="modal5">
+                </div>
+
+                <div class="modal6">
+                </div>
+            </article>
+        </div>
 
 
-
-            </div>
-
-            <div class="modal2">
-
-
-            </div>
-
-            <div class="modal3">
-
-
-
-            </div>
-
-            <div class="modal4">
-
-
-
-            </div>
-
-            <div class="modal5">
-
-
-
-            </div>
-
-            <div class="modal6">
-
-
-
-            </div>
-
-    </div>
-        
-        </article>
 
 </main>
 
-<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog" aria-labelledby="modalnews1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -242,26 +209,24 @@
                     <p>
                         O projeto foi idealizado pelo artista de rua Ramar Gama e pelo produtor cultural Ivan Neves. A eles, se juntaram o também artista de rua João Marcelo Goma (conhecido como Goma) e os produtores culturais Daniel Moreira, da ForSócios; e Gabriel Camargos, João Pedro Illanes e Pedro Carias, da festa Sinestésica.
                     </p>
-
-                    <iframe width="450" height="215" src="https://www.youtube.com/embed/DjuCBJNqpWA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe width="450" height="215" src="https://www.youtube.com/embed/DjuCBJNqpWA" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
                     <p>
-                        Fonte <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203"> Jornal Hoje em Dia | 06/04/2018 - 06h00 - Atualizado 12h43 </a>
+                        Fonte <a href="https://www.hojeemdia.com.br/museu-de-rua-inaugura-interven%C3%A7%C3%B5es-em-bh-ao-grafitar-muro-de-70-metros-na-serra-1.611203" target="_blank"> Jornal Hoje em Dia</a>
                     </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog" aria-labelledby="modalnews2" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
-
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
                 <button type="button" class="close" data-dismiss="modal">
@@ -278,7 +243,6 @@
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
-
                     <p>
                         Um lindo dia de sol marcou a ação integrada realizada pela Fundação Municipal de Ação Social (FUMAS) e Unidades de Gestão de Educação (UGE) e Infraestrutura e Serviços Públicos (UGISP) no Jardim São Camilo, na manhã desta quinta (21): a grafitagem do novo viaduto da Rua João Pinheiro dos Santos e o plantio de árvores no platô ao lado da Viela Sebastião Carneiro Coutinho (Viela do Pelé).
                     </p>
@@ -289,38 +253,37 @@
                         Os grafiteiros Ócio, Jen-Jay King, Trezzy, Guskuma e Chiesa passaram para o viaduto algumas das ideias das crianças, além de também preencher os espaços com ilustrações que marcam seus estilos próprios. “O viaduto é a última parte da obra viária realizada pela FUMAS no Jardim São Camilo, e que será entregue à população em dezembro, junto com as ações do aniversário da cidade”, destacou a superintendente da FUMAS, Solange Marques. “O grafite no viaduto se complementa às ilustrações feitas no ano passado no muro que se estende por toda a rua nova que agora interliga todo o bairro. É uma cultura presente na comunidade e que também contribuirá para a melhor preservação do espaço”, acrescentou.
                     </p>
                     <p>
-                        <h2> Ipês e azaleias </h2>
-                        <p>
-                            A animação das crianças era tanta que cada árvore foi batizada com um nome diferente: Anil, Alegrinha, Tirulipa, Princesa, Amizade, Floral e tantos outros foram escolhidos pelas crianças para nomear os 20 ipês que, junto com 150 mudas de azaleias, foram plantados na área livre do platô ao lado do muro de contenção construído para dar sustentação à nova rua do bairro.
-                        </p>
-                        <p>
-                            “As árvores precisam ser bem cuidadas e vocês também são responsáveis por zelar e proteger este espaço”, explicou às crianças o funcionário da Unidade de Desenvolvimento Ambiental (UNIDAN), José Cova, revelando que para deixar o espaço bem colorido, foram escolhidos cinco tipos de ipês: roxo, amarelo, branco, rosa e verde.
-                        </p>
-                        <p>
-                            Para as crianças da Almater, que fizeram os desenhos para inspirar o grafite do viaduto, a ansiedade maior é ver o resultado final do trabalho dos The King´s. “Gostaram muito de participar e estão na maior expectativa para ver a ideia deles na parede”, disse Elaine Cavalcante, coordenadora do Serviço de Convivência da Almater.
-                        </p>
-                        <p>
-                            Os alunos da Deodato também chegaram muito ansiosos para participar do plantio. “Isso tudo é o sentimento de pertencimento, o que contribui para que zelem por este espaço. Daqui a muitos anos, passarão por aqui e terão a lembrança de ter participado do plantio destas árvores”, disse Walkiria Plaza Nunes, coordenadora do Núcleo de Educação Socioambiental da UGE.
-                        </p>
-                        <p>
-                            As amigas Lara, Juliana, Ludmila e Nayara estavam tão animadas que resolveram batizar a árvore com o sentimento que mais desejam que predomine no bairro onde moram. “Nossa árvore se chama Paz, porque no futuro, quando viermos descansar embaixo da sombra dela, queremos olhar tudo e sentir que realmente estamos em paz”, justificou Juliana.
-                        </p>
+                    <h2> Ipês e azaleias </h2>
+                    <p>
+                        A animação das crianças era tanta que cada árvore foi batizada com um nome diferente: Anil, Alegrinha, Tirulipa, Princesa, Amizade, Floral e tantos outros foram escolhidos pelas crianças para nomear os 20 ipês que, junto com 150 mudas de azaleias, foram plantados na área livre do platô ao lado do muro de contenção construído para dar sustentação à nova rua do bairro.
+                    </p>
+                    <p>
+                        “As árvores precisam ser bem cuidadas e vocês também são responsáveis por zelar e proteger este espaço”, explicou às crianças o funcionário da Unidade de Desenvolvimento Ambiental (UNIDAN), José Cova, revelando que para deixar o espaço bem colorido, foram escolhidos cinco tipos de ipês: roxo, amarelo, branco, rosa e verde.
+                    </p>
+                    <p>
+                        Para as crianças da Almater, que fizeram os desenhos para inspirar o grafite do viaduto, a ansiedade maior é ver o resultado final do trabalho dos The King´s. “Gostaram muito de participar e estão na maior expectativa para ver a ideia deles na parede”, disse Elaine Cavalcante, coordenadora do Serviço de Convivência da Almater.
+                    </p>
+                    <p>
+                        Os alunos da Deodato também chegaram muito ansiosos para participar do plantio. “Isso tudo é o sentimento de pertencimento, o que contribui para que zelem por este espaço. Daqui a muitos anos, passarão por aqui e terão a lembrança de ter participado do plantio destas árvores”, disse Walkiria Plaza Nunes, coordenadora do Núcleo de Educação Socioambiental da UGE.
+                    </p>
+                    <p>
+                        As amigas Lara, Juliana, Ludmila e Nayara estavam tão animadas que resolveram batizar a árvore com o sentimento que mais desejam que predomine no bairro onde moram. “Nossa árvore se chama Paz, porque no futuro, quando viermos descansar embaixo da sombra dela, queremos olhar tudo e sentir que realmente estamos em paz”, justificou Juliana.
+                    </p>
 
-                        <p>
-                            Fonte <a href="https://tvtecjundiai.com.br/news/2019/11/22/grafite-e-plantio-de-arvores-marcam-acao-integrada-no-sao-camilo/"> TVTEC NEWS | Publicada em 22/11/2019 às 09:55</a>
-                        </p>
+                    <p>
+                        Fonte <a href="https://tvtecjundiai.com.br/news/2019/11/22/grafite-e-plantio-de-arvores-marcam-acao-integrada-no-sao-camilo/" target="_blank"> TVTEC NEWS</a>
+                    </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog" aria-labelledby="modalnews3" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -332,13 +295,12 @@
             <div class="modal-body text-center">
                 <h1> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/MaeDagua.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/Maedagua.jpg" alt="" />
                     <figcaption>
                         Foto: Adan Garantizado/Águas de Manaus.
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
-
                     <p>
                         A cultura amazônica em uma arte nas alturas. Com esse enfoque, a concessionária Águas de Manaus resolveu dar uma nova cara ao reservatório localizado na avenida Coronel Teixeira, na Ponta Negra, zona Oeste. O local agora conta com um grafite de autoria do renomado artista Raiz Campos, intitulado como “Mães das Águas”. Desde que começou a ser desenhada, a arte vem chamando a atenção de quem passa pelo local e está virando um “point” para fotos nas redes sociais.
                     </p>
@@ -378,24 +340,20 @@
                     <p>
                         A programação e todas as ações do #Manausnocoração são publicadas nas redes sociais da concessionária: facebook.com/aguasdemanaus e @aguasdemanaus no Instagram.
                     </p>
-
-
-
                     <p>
-                        Fonte <a href="https://www.acritica.com/channels/manaus/news/grafite-em-reservatorio-na-ponta-negra-destaca-cores-e-cultura-da-amazonia"> PORTAL A CRÍTICA | 17 de novembro de 2019 ÀS 15:02</a>
+                        Fonte <a href="https://www.acritica.com/channels/manaus/news/grafite-em-reservatorio-na-ponta-negra-destaca-cores-e-cultura-da-amazonia" target="_blank"> PORTAL A CRÍTICA</a>
                     </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog" aria-labelledby="modalnews4" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -413,7 +371,6 @@
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
-
                     <p>
                         Os Gêmeos, grafiteiros brasileiros que conquistaram todo o mundo com sua street art conquistaram um espaço para terem suas obras expostas na galeria da Pinacoteca. A exposição que estará disponível em março de 2020 contará com a trajetória artística dos irmãos, contando com artes inéditas para a composição do acervo.
                     </p>
@@ -428,20 +385,19 @@
                     </p>
 
                     <p>
-                        Fonte <a href="http://pigmento.art.br/noticias/os-gemeos-em-exposicao-na-pinacoteca/"> Pigmento.ART.BR | 09 de outubro de 2019</a>
+                        Fonte <a href="http://pigmento.art.br/noticias/os-gemeos-em-exposicao-na-pinacoteca/" target="_blank"> Pigmento.ART.BR</a>
                     </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog" aria-labelledby="modalnews5" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -453,7 +409,6 @@
             <div class="modal-body text-center">
                 <h1> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto</h1>
                 <h5>1º festival de Grafite Branca Cor leva grafites a casas, comércios e espaços públicos do Jd. Branca Flor, em Itapecerica da Serra </h5>
-
                 <figure>
                     <img class="img-fluid" src="./_images/news/itapecerica.jpg" alt="" />
                     <figcaption>
@@ -461,7 +416,6 @@
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
-
                     <p>
                         Quem anda pelas ruas do Jd. Branca Flor, em Itapecerica da Serra, se depara com um colorido, que transformou o bairro em uma galeria de arte a céu aberto. No feriado prolongado da Proclamação da República e nesta quarta-feira, dia 20, aconteceu o 1º festival de Grafite Branca Cor, a iniciativa foi da Associação de Mães Tereza do Jd. Branca Flor.
                     </p>
@@ -481,20 +435,19 @@
                         O 1º festival de Grafite Branca Cor foi organizado por Aline Gomes, Márcia Gomes, Sueli Santana, Denise Tavares, Alan Araújo, Marcos Paulino, Mario Paulino, Camila Bueno, Maria de Fátima, Igor Queiroz e Denilson Gabriel. Com a curadoria do artista plástico Paulo Zits, com a participação de grafiteiros importantes como Heridian,Luan Riberivóvisk, Alex Sena, Pas, Cadumen, Agnaldo Mirage, Ozi, Lumumba, entre outros.
                     </p>
                     <p>
-                        Fonte <a href="https://www.otaboanense.com.br/itapecerica-grafite-transforma-jd-branca-flor-em-galeria-de-arte-a-ceu-aberto/">O Taboanense | 21 de novembro de 2019 </a>
+                        Fonte <a href="https://www.otaboanense.com.br/itapecerica-grafite-transforma-jd-branca-flor-em-galeria-de-arte-a-ceu-aberto/" target="_blank">O Taboanense</a>
                     </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog" aria-labelledby="modalnews6" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">News</h4>
@@ -514,7 +467,6 @@
                     </figcaption>
                 </figure>
                 <div class=" mt-4 mb-4">
-
                     <p>
                         A Prefeitura de Santos abriu as inscrições para as oficinas de grafite gratuitas e sessão de cinema. As atividades acontecem ao longo do dia 23. As inscrições são limitadas e devem ser feitas na secretaria da Vila Criativa da Vila Nova, onde acontecerá o evento.
                     </p>
@@ -532,14 +484,13 @@
                     </p>
 
                     <p>
-                        Fonte <a href="https://g1.globo.com/sp/santos-regiao/noticia/2019/11/17/oficinas-gratuitas-de-grafite-tem-inscricoes-abertas-em-santos.ghtml"> G1 Santos | 17 de novembro de 2019 20h18 </a>
+                        Fonte <a href="https://g1.globo.com/sp/santos-regiao/noticia/2019/11/17/oficinas-gratuitas-de-grafite-tem-inscricoes-abertas-em-santos.ghtml" target="_blank"> G1 Santos</a>
                     </p>
                 </div>
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>

@@ -34,6 +34,7 @@
         text-align: center;
         padding: 0 0 0 0;
     }
+    
 }
 
 @media (max-width: 768px) {
@@ -61,7 +62,8 @@
 .navbar-nav .dropdown-menu {
     position: absolute;
     min-width: fit-content;
-    left: 49px;
+    min-width: -moz-fit-content;
+    left: unset;
     text-align: center;
 }
 
@@ -98,6 +100,20 @@
     color: rgba(255, 255, 255, 0.75);
 }
 
+.copy {
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+@media (max-width: 991px) {
+    .menu_fixed {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 0px;
+        z-index: 16;
+    }
+}
+
 /* **************** MAIN ************* */
 
 main {
@@ -123,6 +139,7 @@ main {
 
 .menu-estilos {
     max-width: fit-content;
+    max-width: -moz-fit-content;
 }
 
 .nav-pills .nav-link.active {

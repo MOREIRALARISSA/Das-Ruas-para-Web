@@ -41,7 +41,7 @@ a:hover {
 .scrollspySite {
     position: relative;
     overflow: auto;
-    height: 280px; 
+    height: 480px; 
     
 }
 
@@ -50,7 +50,26 @@ a:hover {
     border-color: #301F56!important;
 }
 
+.btn-primary:hover {
+    color: #fff;
+    background-color: #301F56;
+    border-color: #301F56;
+  }
+
 nav-pills {
     background-color: #301F56;
     border-color: #301F56!important;
+}
+
+/*
+@media screen and (max-width: 800px) {
+    .stp {
+        position: sticky;
+    }
+}
+*/
+
+.cardb {
+/*    background-color: rgb(28,97,167, .2);*/
+    border: 1px solid #1c61a7;
 }

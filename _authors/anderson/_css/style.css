@@ -10,10 +10,14 @@ figure {
 
 /* Galeria */
 .gallery_border {
-    border-bottom: 2px solid red;
-    height: 420px;
+    border-bottom: 2px solid #1c61a7;
+    height: 370px;
 }
 
 .gallery_border:hover {
-    border-bottom: 2px solid blue;
+    border-bottom: 2px solid #301F56;
+}
+
+.gallery_adjust {
+    margin: 17.5% 0;
 }

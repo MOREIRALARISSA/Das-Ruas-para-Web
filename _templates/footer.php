@@ -6,11 +6,7 @@
 
 <footer class="colorf">
     
-    <div class=" row  d-none d-sm-none d-md-none d-lg-block text-center">
-    <img src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" class="img-fluid" alt="Responsive image" />
-    </div>
-    
-    <div class="row text-center mr-0">
+    <div class="row text-center mt-0 mr-0">
         <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
@@ -53,16 +49,15 @@
 
     </div>
     
-    <div class=" row  d-lg-none d-block text-center">
-    <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" />
+<!--
+    <div class="row d-lg-none d-block text-center">
+        <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" />
     </div>
+-->
     
-    
-    
-    <div>
-    
-    <p><small>Copyright 2019 | ᴅᴀs ʀᴜᴀs ᴘᴀʀᴀ ᴡᴇʙ </small></p>
-</div>
+    <div class="copy">
+        <small>Copyright 2019 | ᴅᴀs ʀᴜᴀs ᴘᴀʀᴀ ᴡᴇʙ </small>
+    </div>
 </footer>
 
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
