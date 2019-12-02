@@ -18,7 +18,7 @@
         </p>
 
         <figure>
-            <img class="img-fluid" src="./_images/GrafitexSociedade/hellsKit1970s.png" class="img-fluid" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
+            <img class="img-fluid" src="./_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
             <figcaption>
                 Mural no Hell's Kitchen Playground nos anos 1970.
             </figcaption>
@@ -33,7 +33,7 @@
         </p>
 
         <figure>
-            <img class="img-fluid" src="./_images/GrafitexSociedade/1sTrainGrafite.png" class="img-fluid" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
+            <img class="img-fluid" src="./_images/GrafitexSociedade/1sTrainGrafite.jpg" class="img-fluid" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
             <figcaption>
                 O primeiro trem a ser coberto por grafite | New York anos 1970.
             </figcaption>
@@ -56,7 +56,7 @@
         </p>
 
         <figure>
-            <img class="img-fluid" src="./_images/GrafitexSociedade/KelburnCastle.png" class="img-fluid" alt="Kelburn Castle, 2007" />
+            <img class="img-fluid" src="./_images/GrafitexSociedade/KelburnCastle.jpg" class="img-fluid" alt="Kelburn Castle, 2007" />
             <figcaption>
                 Kelburn Castle, Escócia - 2007 | Nina Pandolfo, os Gêmeos e Nunca, ambos brasileiros.
             </figcaption>

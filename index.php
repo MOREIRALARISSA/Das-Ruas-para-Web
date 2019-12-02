@@ -120,7 +120,7 @@
         <div class="row">
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <img src="./_images/anderson/artista-1.png" alt="" />
                     <figcaption>
                         <strong>Texto temporário</strong>
                     </figcaption>
@@ -130,7 +130,7 @@
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <img src="./_images/anderson/artista-1.png" alt="" />
                     <figcaption>
                         <strong>Texto temporário</strong>
                     </figcaption>
@@ -140,7 +140,7 @@
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <img src="./_images/anderson/artista-1.png" alt="" />
                     <figcaption>
                         <strong>Texto temporário</strong>
                     </figcaption>
@@ -150,7 +150,7 @@
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.jpg" alt="" />
+                    <img src="./_images/anderson/artista-1.png" alt="" />
                     <figcaption>
                         <strong>Texto temporário</strong>
                     </figcaption>

@@ -26,7 +26,7 @@
             <div class="card mb-3">
                 <div class="row no-gutters">
                     <div class="col-md-4">
-                        <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid w-100" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
+                        <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid w-100" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
                     </div>
                     <div class="col-md-8">
                         <div class="card-body">
@@ -43,7 +43,7 @@
         <div class="row justify-content-center">
 
             <div class="card mb-3 col-lg-5 mx-auto">
-                <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.png" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
+                <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.jpg" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
                 <div class="card-body">
                     <h5 class="card-title">Pescaria - 1981 | Jean-Michel Basquiat</h5>
                     <p class="card-text">Principais termos e gírias utilizadas nessa arte:</p>
@@ -69,7 +69,7 @@
                         A primeira grande exposição de Grafite foi realizada em 1975 no “Artist’s Space”, de Nova York, com apresentação de Peter Schjeldahl, mas a consagração veio com a mostra “New York/New Wave” organizada por Diego Cortez, em 1981, no PS 1, um dos principais espaços de vanguarda de Nova York.</p>
                     <!--                <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>-->
                 </div>
-                <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.png" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
+                <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.jpg" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
             </div>
 
         </div>
@@ -114,7 +114,7 @@
 
             <div class="col-lg-4 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.png" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/NewYork1980.jpg" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
                     <figcaption>
                         Plataforma 180TH Street, Bronx/ Nova York - 1980.
                     </figcaption>
@@ -125,7 +125,7 @@
         <div class="row mt-5 align-items-center">
             <div class="col-lg-4 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.png" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/basquiat1981.jpg" class="img-fluid" alt="Pescaria 1981 é umas dos grafite mais populares de Basquiat." title="Pescaria - 1981 | Jean-Michel Basquiat" />
                     <figcaption>
                         Pescaria - 1981 | Jean-Michel Basquiat
                     </figcaption>
@@ -164,7 +164,7 @@
 
             <div class="col-lg-5 offset-lg-1">
                 <figure>
-                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.png" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
+                    <img class="img-fluid" src="./_images/HistoriaDoGrafite/grafite1982.jpg" class="img-fluid" alt="Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982" title="Rui Amaral" />
                     <figcaption>
                         Primeiro grafite pintado à mão em São Paulo foi feito por Rui Amaral em 1982.
                     </figcaption>

@@ -45,9 +45,10 @@
                         <a class="nav-link" href="#item2"> INGLATERRA</a>
                         <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
                         <a class="nav-link" href="#item4">ÁFRICA DO SUL</a>
-                        <a class="nav-link" href="#item5">Brasil</a>
+                        <a class="nav-link" href="#item5">AUSTRÁLIA</a>
+                        <!--
                         <a class="nav-link" href="#item6">Brasil</a>
-
+-->
                     </nav>
 
                 </nav>
@@ -71,7 +72,7 @@
                         <div class="col-lg-12">
                             <h5>O Beijo</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Cristina Mueller
                                 </figcaption>
@@ -89,7 +90,7 @@
                         <div class="col-lg-12">
                             <h5>Tupac E Notorius B.I.G.</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Rom Levy
                                 </figcaption>
@@ -129,7 +130,7 @@
                         <div class="col-lg-12">
                             <h5> Love is in the Air </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -154,7 +155,7 @@
                         <div class="col-lg-12">
                             <h5>Girl with ballon</h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
                                 <figcaption class="text-justify">
                                     Foto Divulgação
                                 </figcaption>
@@ -197,7 +198,7 @@
                         <div class="col-lg-12">
                             <h5> Liberty Remembers </h5>
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.jpg" alt="" />
 
                                 <figcaption class="text-justify">
                                     ANTES
@@ -209,7 +210,7 @@
                     <div class="row justify-content-center mx-auto">
                         <div class="col-lg-12">
                             <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.png" alt="" />
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.jpg" alt="" />
 
                                 <figcaption class="text-justify">
                                     DEPOIS
@@ -221,7 +222,7 @@
                             </p>
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.png" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         Soldados
@@ -233,7 +234,7 @@
                                     </p>
                             </div>
                         </div>
-
+</div>
 
 
 
@@ -253,7 +254,18 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.png" alt="" />
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpg" alt="" />
+
+                                    <figcaption class="text-justify">
+                                        Foto Divulgação
+                                    </figcaption>
+                                </figure>
+                                
+                                <h4 class="mt-3 mb-3">Bushwick, Nova Iorque, Estados Unidos</h4>
+
+                                
+                                <figure>
+                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox2.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         Foto Divulgação
@@ -262,35 +274,44 @@
                             </div>
                         </div>
 
-                        <h3 id="item5" class="text-center mt-5 mb-3"> Brasil</h3>
-
+                        <h3 id="item5" class="text-center mt-5 mb-3"> AUSTRÁLIA</h3>
+                        <h4 class="mt-3 mb-3">Smug</h4>
+                        
                         <p>
-                            Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                            madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal
-                            primaque locis elementaque terris arce auroram lanient tonitrua sublime aquae campos conversa phoebe rudis primaque
-                            invasit ligavit: cognati umentia verba invasit obstabatque imagine animal utque quam exemit natus mentisque surgere
-                            fratrum invasit satus quinta erat: ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                            erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                            timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia habentem obsistitur permisit motura
-                            ventos ad manebat porrexerat nullo moles iunctarum longo animal ventos piscibus vix arce nix ardentior effigiem cingebant
-                            cinxit scythiam coeptis semine liquidas peregrinum pendebat reparabat recens nubes extendi elementaque praeter duas eurus
-                            viseret subdita frigida quem praeter longo locis arce spectent.
+                        Nascido em uma pequena cidade australiana a cerca de três horas de Sydney, Smug sempre se interessou por arte. O interessante é que, apesar de desenhar por anos, não foi até ele se formar no colegial que ele realmente pegou uma lata de spray e começou a mirar nas paredes em vez de nas páginas dos livros. Quando era mais novo, o artista patinava e passeava pelas ruas com seus amigos, escrevendo seus nomes nas paredes e ouvindo hip-hop. O grafite era uma grande parte dessa cultura, então tudo veio ao lugar certo. Questionado sobre seu nome artístico, Smug afirma que ele nem se lembra de como recebeu o seu. Na época, ele etiquetou usando vários nomes, mas Smug de alguma forma permaneceu. Ele ainda se inspira no amigo que vê regularmente, escritores com quem trabalha regularmente. As pessoas que fazem parte de sua vida cotidiana são as pessoas que o pressionam a se tornar uma pessoa melhor e um artista melhor.
+                        </p>                      
+                        <p>
+                        Conhecido por seu trabalho de grafite em realismo fotográfico, Smug , ou Smug One , também conhecido como Sam Bates, é um artista de rua contemporâneo australiano de grande habilidade. Usando nada além de latas de spray, ele conseguiu dominar uma tarefa difícil de criar peças altamente técnicas que são de alguma forma nervosas, atrevidas e incrivelmente divertidas. A fim de recriar o realismo absoluto, os artistas geralmente têm muito tempo em mãos, pincéis minúsculos e precisos e um espaço de trabalho silencioso onde ninguém os perturbará. Essas são as três coisas que nenhum dos grafiteiros tem à sua disposição e, no entanto, algumas delas, o Smug sendo o exemplo perfeito, são capazes de criar incríveis peças de parede em larga escala que parecem ser fotografias. Dificilmente existe um elogio de maior significado para qualquer artista que tenta trabalhar no realismo fotográfico.
                         </p>
 
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
+
+                            <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/oitava-300.jpg" alt="" />
-                                    <h3>Sub Título 2</h3>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/smug1.jpg" alt="" />
+                                    
                                     <figcaption class="text-justify">
-                                        ventos aethera ardentior frigida uno timebat aeris quae caelum aethere pendebat
-                                        erant oppida terrenae porrexerat siccis peragebant pugnabant quae eurus melior semine congestaque deorum solum vindice
-                                        timebat convexi emicuit cum vis viseret et deducite os capacius inposuit aestu omnia.
-                                    </figcaption>
+                                        Foto Dean Sunshine
+                                        </figcaption>
                                 </figure>
                             </div>
                         </div>
 
+                        <div class="row justify-content-center mx-auto">
+                            <div class="col-lg-12">
+
+                            <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
+                                <figure>
+                                <img class="img-fluid" src="./_images/GrafitePeloMundo/smug.jpg" alt="" />
+                                    
+                                    <figcaption class="text-justify">
+                                        Foto Brian Tallman
+                                        </figcaption>
+                                </figure>
+                            </div>
+                        </div> 
+<!--
                         <h3 id="item6">áFrica d</h3>
 
                         <p>
@@ -318,7 +339,7 @@
                                     </figcaption>
                                 </figure>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
 
