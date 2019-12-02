@@ -41,7 +41,7 @@
                             <div class="col-lg-12">
                                 <h5>O Beijo</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/kobra.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/kobra.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Cristina Mueller
                                     </figcaption>
@@ -60,7 +60,7 @@
                             <div class="col-lg-12">
                                 <h5>Tupac E Notorius B.I.G.</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/KobraMiami.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/KobraMiami.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Rom Levy
                                     </figcaption>
@@ -82,7 +82,7 @@
                             <div class="col-lg-12">
                                 <h5> Love is in the Air </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/soldierbanksy.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/soldierbanksy.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -105,7 +105,7 @@
                             <div class="col-lg-12">
                                 <h5>Girl with ballon</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/girlbanksy.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/girlbanksy.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -140,7 +140,7 @@
                             <div class="col-lg-12">
                                 <h5> Liberty Remembers </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericantes.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericantes.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         ANTES
                                     </figcaption>
@@ -150,7 +150,7 @@
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/ericdepois.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericdepois.jpg" alt="" />
 
                                     <figcaption class="text-justify">
                                         DEPOIS
@@ -161,7 +161,7 @@
                                 </p>
                                 <div class="col-lg-12">
                                     <figure>
-                                        <img class="img-fluid" src="./_images/GrafitePeloMundo/ericsoldados.jpg" alt="" />
+                                        <img class="img-fluid" src="./_images/grafite-no-mundo/ericsoldados.jpg" alt="" />
 
                                         <figcaption class="text-justify">
                                             Soldados
@@ -186,14 +186,14 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
                                 </figure>
                                 <h4 class="mt-3 mb-3">Bushwick, Nova Iorque, Estados Unidos</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/jackfox2.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox2.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -212,7 +212,7 @@
                             <div class="col-lg-12">
                             <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/GrafitePeloMundo/smug1.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Dean Sunshine
                                     </figcaption>
@@ -223,7 +223,7 @@
                             <div class="col-lg-12">
                             <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
                                 <figure>
-                                <img class="img-fluid" src="./_images/GrafitePeloMundo/smug.jpg" alt="" />
+                                <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Brian Tallman
                                     </figcaption>
