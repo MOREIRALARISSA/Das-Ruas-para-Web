@@ -5,27 +5,17 @@
 ?>
 
 <main>
-
     <div class="jumbotron junbotrom-fluid mt-4">
-
         <div class="container">
-
             <div class="row">
-
                 <div class="col-12 text-center">
-
-                    <h1 class="display-4 font-weight-bold">Mural</h1>
-                    
+                    <h1 class="display-4 font-weight-bold">Mural</h1>                 
                 </div>
-
             </div>
 
             <div class="row">
-
                 <div class="col-12">
-
                     <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="tablist">
-
                         <li class="nav-item">
                             <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01">Sobre</a>
                         </li>
@@ -37,17 +27,11 @@
                         <li class="nav-item">
                             <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03">Galeria</a>
                         </li>
-
                     </ul>
-
                     <div class="tab-content" id="nav-pills-content">
-
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
-
-<!--                       SOBRE  -->
-
+                            <!-- SOBRE  -->
                             <h1> SOBRE </h1>
-
                             <div class="row">
                                 <div class="col-lg-4">
                                     <img src="./../../_images/larissa/SOBRE.png" alt="">
@@ -64,183 +48,133 @@
                                     <p>
                                     Outro local onde a pintura mural ressurgiu no início do século 20 foi o México, momento também de forte efervescência política e social, marcado pela Revolução Mexicana (1910-20). Os artistas mexicanos viram no muralismo o melhor caminho para expressar suas idéias sobre uma arte nacional popular, engajada no momento revolucionário.
                                     </p> 
-
                                 </div>
 
                                 <div class="col-lg-4">
                                     <img src="./../../_images/larissa/SOBRE.png" alt="">
                                 </div>
-
                             </div>
-
-
                         </div>
 
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
-
                             <section>
-
                                 <h1 class="text-center">Artistas</h1>
-
                                 <div class="row justify-content-lg-center mb-5">
-
                                     <div class="col-lg-4">
-
                                         <div class="card">
-
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
+                                            <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-
                                                 <img src="../../_images/larissa/aryzperfil.jpg" alt="Aryz" class="img-fluid">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
                                                 <h2 class="card-title" font-weight-bold>Aryz</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Desconhecido
                                                     <!--ou Robin Gunningham[2]-->
                                                 </h3>
                                                 <p class="card-text">Aryz é um artista de Barcelona muito conhecido por seus murais em grande escala.</p>
                                             </div>
-
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: Palo Alto, Califórnia, Estados Unidos</li>
                                                 <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
                                                 <li class="list-group-item">Artista, Pintor, Desenhista</li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
                                             </ul>
-
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+                                                <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
-
                                             </div>
-
                                         </div>
-
                                     </div>
 
-
                                     <div class="col-lg-4">
-
                                         <div class="card">
-
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
+                                            <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
                                                 <img src="../../_images/larissa/kobraperfil.jpg" alt="Kobra" class="img-fluid">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
                                                 <h2 class="card-title" font-weight-bold>Kobra</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Eduardo Kobra
                                                 </h3>
                                                 <p class="card-text">É um veterano artista de rua Brasileiro, conhecido por seu enormes projetos.</p>
                                             </div>
-
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: 1975 (idade 44 anos), São Paulo, Brasil</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
+                                                <!-- <li class="list-group-item">Período: Arte urbana</li>-->
                                                 <li class="list-group-item">Artivista, Artista de rua, Desenhista e Grafiteiro</li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+                                                <!-- <li class="list-group-item">Série: Better Out Than In</li>
+                                                <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
+                                                <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
                                             </ul>
-
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+                                                <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
-
                                             </div>
-
                                         </div>
-
                                     </div>
-
                                 </div>
 
                                 <div class="row justify-content-lg-center mb-5">
-
                                     <div class="col-lg-4">
-
                                         <div class="card">
-
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
+                                            <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
                                             <img src="../../_images/larissa/kueiaperfil.jpg" alt="Kueia" class="img-fluid">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+                                                <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
                                                 <h2 class="card-title" font-weight-bold>Kueia</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Karen Fidelis</h3>
                                                 <p class="card-text">Artista de rua paulista conhecida pelo seu personagem Kuei.</p>
                                             </div>
-
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: São Paulo, Brasil</li>
                                                 <li class="list-group-item">Artista de rua e Desenhista</li>
-                                                </ul>
-
+                                            </ul>
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
-
                                             </div>
-
                                         </div>
-
                                     </div>
 
                                     <div class="col-lg-4">
-
                                         <div class="card">
-
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                            <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
+                                                <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                             </div>
+
                                             <div class="card-body">
                                                 <h2 class="card-title" font-weight-bold>Crica Monteiro</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
                                                 <p class="card-text">Comecou a grafitar ainda na adolescência e aí foi paixão a primeira riscada de spray na parede.</p>
                                             </div>
-
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: São Paulo, Brasil</li>
                                                 <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
-                                                </ul>
-
+                                            </ul>
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+                                                <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
-
                                             </div>
-
                                         </div>
-
                                     </div>
-
                                 </div>
-
                             </section>
-
-
-
                         </div>
 
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
-
                             <h1> Grafite - Mural </h1>
                             <div class="row p-3">
                                 <div class="col-lg-4">
@@ -249,10 +183,11 @@
                                         <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/mr_aryz/">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                     </figure>
                                 </div>
+
                                 <div class="col-lg-4">
-                                <figure>
-                                    <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
-                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
+                                    <figure>
+                                        <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
+                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
                                     </figure>
                                 </div>
 
@@ -266,44 +201,30 @@
 
                             <div class="row p-3">
                                 <div class="col-lg-4">
-                                <figure>
-                                    <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
-                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
+                                    <figure>
+                                        <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
+                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
                                     </figure>
                                 </div>
                                 <div class="col-lg-4">
-                                <figure>
-                                    <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria">
-                                    <figcaption>Mural  feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
+                                    <figure>
+                                        <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria">
+                                        <figcaption>Mural  feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
                                     </figure>    
                                 </div>
                                 <div class="col-lg-4">
-                                <figure>
-                                    <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha">
-                                    <figcaption>Mural  feito por<strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
-                                    </figure>   
-                                                                   
+                                    <figure>
+                                        <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha">
+                                        <figcaption>Mural  feito por<strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
+                                    </figure>                                                                 
                                 </div>
-
-
-
-
                             </div>
-
-
                         </div>
-
                     </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </div>
-
-
 </main>
 
 <!-- Modal -->
@@ -403,20 +324,17 @@
             </div>
 
             <div class="modal-body">
+                <p>
+                Karen Fidelis mais conhecida como “Kueia”, nasceu e cresceu em São Paulo, onde se apaixonou pelo Graffiti. Começou em 1999 seus primeiros traços na parede.
+                </p>
+                <p>
+                Em 2001 Karen foi apelidada de Coelho por um amigo que viu um desenho de coelho em seu caderno, o apelido , fugindo do formato original da palavra coelho, vem do sotaque mineiro que ela ouvia quando viam seus trabalhos, aproveitando assim para assumir o apelido “Kueia” definitivamente.
+                </p>
+                <p>
+                Em Uberlândia para onde se mudou em 2007, Karen se formou e aprofundou seu conhecimento na arte, evoluindo seus traços, desenvolvendo um estilo próprio e também criando sua Tag. A partir daí, começou a ganhar reconhecimento e viajar para muitos lugares para pintar. Em 2016 Karen retornou para São Paulo onde continua batalhando pelo sonho de viver dos seus desenhos.
+                </p>
+            </div>
 
-                   
- <p>
- Karen Fidelis mais conhecida como “Kueia”, nasceu e cresceu em São Paulo, onde se apaixonou pelo Graffiti. Começou em 1999 seus primeiros traços na parede.
- </p>
- <p>
- Em 2001 Karen foi apelidada de Coelho por um amigo que viu um desenho de coelho em seu caderno, o apelido , fugindo do formato original da palavra coelho, vem do sotaque mineiro que ela ouvia quando viam seus trabalhos, aproveitando assim para assumir o apelido “Kueia” definitivamente.
- </p>
- <p>
- Em Uberlândia para onde se mudou em 2007, Karen se formou e aprofundou seu conhecimento na arte, evoluindo seus traços, desenvolvendo um estilo próprio e também criando sua Tag. A partir daí, começou a ganhar reconhecimento e viajar para muitos lugares para pintar. Em 2016 Karen retornou para São Paulo onde continua batalhando pelo sonho de viver dos seus desenhos.
- </p>
- <p>
-
- </p>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
@@ -435,12 +353,11 @@
             </div>
 
             <div class="modal-body">
-            <p>
-            Cristiane Monteiro mais conhecida como Crica, ou seja, meu vulgo/apelido, que assino em todos os meus trabalhos, do graffiti à ilustração. Meu interesse pelas formas, cores e artes vem através da minha mãe que trabalhava com artes e artesanatos na minha infância, então o desenho sempre foi parte do meu cotidiano. Comecei a fazer graffiti na minha adolescência e aí foi paixão a primeira riscada de spray na parede. Muito curiosa e inquieta com o mundo criativo, caí nas garras do design e me formei em Design de Interfaces Digitais. E nesse leque eu também pude juntar o meu outro amor, a ilustração.
-            </p>
+                <p>
+                Cristiane Monteiro mais conhecida como Crica, ou seja, meu vulgo/apelido, que assino em todos os meus trabalhos, do graffiti à ilustração. Meu interesse pelas formas, cores e artes vem através da minha mãe que trabalhava com artes e artesanatos na minha infância, então o desenho sempre foi parte do meu cotidiano. Comecei a fazer graffiti na minha adolescência e aí foi paixão a primeira riscada de spray na parede. Muito curiosa e inquieta com o mundo criativo, caí nas garras do design e me formei em Design de Interfaces Digitais. E nesse leque eu também pude juntar o meu outro amor, a ilustração.
+                </p>  
+            </div>
 
-     
- 
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
