@@ -41,7 +41,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/anderson/index.php">Throwup</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/larissa/index.php">Mural</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/matheus/index.php">Stencil</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>

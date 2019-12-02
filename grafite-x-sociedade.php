@@ -54,12 +54,6 @@
                     Importante analisar o crescimento da arte urbana nos últimos tempos, de forma que passa a ser vista como um “valor cultural” muito importante das minorias que vivem nos centros urbanos, e anseiam em mostrar sua arte.
                     Assim, essas manifestações populares permitem o encontro com a arte independente, apesar de muitos artistas de ruas, terem se consagrado mundialmente, reconhecidos pela mídia, indústria e diversos meios de comunicação em massa era uma arte marginalizada.
                 </p>
-                <figure class="mt-5">
-                    <img class="img-fluid" src="./_images/GrafitexSociedade/KelburnCastle.jpg" alt="Kelburn Castle, 2007" />
-                    <figcaption>
-                        Kelburn Castle, Escócia - 2007 | Nina Pandolfo, os Gêmeos e Nunca, ambos brasileiros.
-                    </figcaption>
-                </figure>
             </section>
         </article>
     </div>

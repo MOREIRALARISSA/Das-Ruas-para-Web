@@ -9,7 +9,7 @@
         </div>
         <article>
             <div class="mt-2 mb-2 text-center">
-                <h2>Grafite x pichação: qual a diferença?</h2>
+                <h2 class="mt-4 mb-3">Grafite x pichação: qual a diferença?</h2>
             </div>
             <p>
                 Existe uma linha tênue que separa o grafite da pichação, e a pichação do vandalismo. Reconhecer a diferença entre essas formas de comunicação urbana – tão intimamente relacionadas ao longo da história – pode ser a chave que faltava para envolver as pessoas em uma série de atividades relacionadas ao tema: oficinas, debates, excursões, testes de conhecimento.
