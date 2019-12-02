@@ -15,8 +15,7 @@
                 <div class="col-12 text-center">
 
                     <h1 class="display-4 font-weight-bold">Mural</h1>
-                    <!--                        <p>Estilo de  grafite</p>-->
-
+                    
                 </div>
 
             </div>
@@ -45,6 +44,7 @@
 
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
 
+<!--                       SOBRE  -->
 
                             <h1> SOBRE </h1>
 
@@ -58,6 +58,13 @@
                                     </p>
                                     <p> Contudo, a pintura feita sobre paredes é uma técnica antiga. É uma forma de arte pública, como o grafite, porém, diferentemente deste, tem estreita relação com a arquitetura, podendo explorar o caráter plano de uma parede ou criar o efeito de uma nova área de espaço.
                                     </p>
+                                    <p>
+                                    No Renascimento, temos importantes artistas que revigoraram a técnica do afresco, como Michelangelo e suas pinturas na Capela Sistina. Conduto, após esse período a técnica entrou em decadência, somente retornando com força no século 20, com as vanguardas européias: fauvistas e cubistas, que faziam murais com características expressionistas e abstratas.
+                                    </p>
+                                    <p>
+                                    Outro local onde a pintura mural ressurgiu no início do século 20 foi o México, momento também de forte efervescência política e social, marcado pela Revolução Mexicana (1910-20). Os artistas mexicanos viram no muralismo o melhor caminho para expressar suas idéias sobre uma arte nacional popular, engajada no momento revolucionário.
+                                    </p> 
+
                                 </div>
 
                                 <div class="col-lg-4">
@@ -169,31 +176,23 @@
                                             <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/bansky.jpg" alt="Banksy">
+                                            <img src="../../_images/larissa/kueiaperfil.jpg" alt="Kueia" class="img-fluid">
                                             </div>
                                             <div class="card-body">
                                                 <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
-                                                <h2 class="card-title" font-weight-bold>Bansky</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Robert Banks
-                                                    <!--ou Robin Gunningham[2]-->
-                                                </h3>
-                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                                <h2 class="card-title" font-weight-bold>Kueia</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Karen Fidelis</h3>
+                                                <p class="card-text">Artista de rua paulista conhecida pelo seu personagem Kuei.</p>
                                             </div>
 
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
-                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
-                                            </ul>
+                                                <li class="list-group-item">Nascimento: São Paulo, Brasil</li>
+                                                <li class="list-group-item">Artista de rua e Desenhista</li>
+                                                </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+                                                
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
 
                                             </div>
@@ -209,27 +208,18 @@
                                             <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/bansky.jpg" alt="Banksy">
+                                            <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
-                                                <h2 class="card-title" font-weight-bold>Bansky</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Robert Banks
-                                                    <!--ou Robin Gunningham[2]-->
-                                                </h3>
-                                                <p class="card-text">É um veterano artista de rua britânico</p>
+                                                <h2 class="card-title" font-weight-bold>Crica Monteiro</h2>
+                                                <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
+                                                <p class="card-text">Comecou a grafitar ainda na adolescência e aí foi paixão a primeira riscada de spray na parede. Também se formou em Design de Interfaces Digitais.</p>
                                             </div>
 
                                             <ul class="list-group list-group-flush">
-                                                <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
-                                                <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
-                                            </ul>
+                                                <li class="list-group-item">Nascimento: 1986 (idade 33 anos), São Paulo, Brasil</li>
+                                                <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
+                                                </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
@@ -256,27 +246,44 @@
                             <div class="row p-3">
                                 <div class="col-lg-4">
                                     <figure>
-                                        <img src="./../../_images/larissa/aryz.jpg" alt="">
-                                        <figcaption>Mural gigantesco no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
+                                        <img src="./../../_images/larissa/aryz.jpg" alt="Grafite Aryz">
+                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/mr_aryz/">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                     </figure>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/larissa/1 (2).jpg" alt="">
+                                <figure>
+                                    <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
+                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
+                                    </figure>
                                 </div>
+
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/larissa/1 (3).jpg" alt="">
+                                <figure>
+                                    <img src="./../../_images/larissa/kueia.jpg" alt="Grafite Kueia">
+                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
+                                    </figure>
                                 </div>
                             </div>
 
                             <div class="row p-3">
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/larissa/1 (1).jpg" alt="">
+                                <figure>
+                                    <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
+                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
+                                    </figure>
                                 </div>
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/larissa/1 (2).jpg" alt="">
+                                <figure>
+                                    <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria">
+                                    <figcaption>Mural  feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
+                                    </figure>    
                                 </div>
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/larissa/1 (3).jpg" alt="">
+                                <figure>
+                                    <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha">
+                                    <figcaption>Mural  feito por<strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
+                                    </figure>   
+                                                                   
                                 </div>
 
 
@@ -390,14 +397,27 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Kueia</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
-            <div class="modal-body">Banksy é o pseudônimo de um artista pintor de graffiti, pintor de telas, ativista político e diretor de cinema britânico. A sua arte de rua satírica e subversiva combina humor negro e graffiti feito com uma distinta técnica de estêncil. Seus trabalhos de comentários sociais e políticos podem ser encontrados em ruas, muros e pontes de cidades por todo o mundo. O trabalho de Banksy nasceu da cena alternativa de Bristol, e envolveu colaborações com outros artistas e músicos. De acordo com o designer gráfico e autor Tristan Manco, Banksy nasceu em 1974 em Bristol (Inglaterra), onde também foi criado. Filho de um técnico de fotocopiadora, começou como açougueiro mas se envolveu com graffiti durante o grande boom de aerossol em Bristol no fim da década de 1980. Observadores notaram que seu estilo é muito similar a Blek le Rat, que começou a trabalhar com estênceis em 1981 em Paris, e à campanha de graffiti feita pela banda anarco-punk Crass no sistema de metro de Londres no fim da década de 1970. Conhecido pelo seu desprezo pelo governo que rotula graffiti como vandalismo, Banksy expõe sua arte em locais públicos como paredes e ruas, e chega a usar objetos para expô-la. Banksy não vende seus trabalhos diretamente, mas sabe-se que leiloeiros de arte tentaram vender alguns de seus graffitis nos locais em que foram feitos e deixaram o problema de como remover o desenho nas mãos dos compradores. O primeiro filme de Banksy, ‘Exit Through the Gift Shop’, teve sua estreia no Festival de Filmes de Sundance, foi oficialmente lançado no Reino Unido no dia 5 de março de 2010, e em janeiro de 2011 foi nomeado para o Oscar de Melhor Documentário. </div>
+            <div class="modal-body">
 
+                   
+ <p>
+ Karen Fidelis mais conhecida como “Kueia”, nasceu e cresceu em São Paulo, onde se apaixonou pelo Graffiti. Começou em 1999 seus primeiros traços na parede.
+ </p>
+ <p>
+ Em 2001 Karen foi apelidada de Coelho por um amigo que viu um desenho de coelho em seu caderno, o apelido , fugindo do formato original da palavra coelho, vem do sotaque mineiro que ela ouvia quando viam seus trabalhos, aproveitando assim para assumir o apelido “Kueia” definitivamente.
+ </p>
+ <p>
+ Em Uberlândia para onde se mudou em 2007, Karen se formou e aprofundou seu conhecimento na arte, evoluindo seus traços, desenvolvendo um estilo próprio e também criando sua Tag. A partir daí, começou a ganhar reconhecimento e viajar para muitos lugares para pintar. Em 2016 Karen retornou para São Paulo onde continua batalhando pelo sonho de viver dos seus desenhos.
+ </p>
+ <p>
+
+ </p>
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
@@ -409,14 +429,19 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Crica</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
-            <div class="modal-body">Banksy é o pseudônimo de um artista pintor de graffiti, pintor de telas, ativista político e diretor de cinema britânico. A sua arte de rua satírica e subversiva combina humor negro e graffiti feito com uma distinta técnica de estêncil. Seus trabalhos de comentários sociais e políticos podem ser encontrados em ruas, muros e pontes de cidades por todo o mundo. O trabalho de Banksy nasceu da cena alternativa de Bristol, e envolveu colaborações com outros artistas e músicos. De acordo com o designer gráfico e autor Tristan Manco, Banksy nasceu em 1974 em Bristol (Inglaterra), onde também foi criado. Filho de um técnico de fotocopiadora, começou como açougueiro mas se envolveu com graffiti durante o grande boom de aerossol em Bristol no fim da década de 1980. Observadores notaram que seu estilo é muito similar a Blek le Rat, que começou a trabalhar com estênceis em 1981 em Paris, e à campanha de graffiti feita pela banda anarco-punk Crass no sistema de metro de Londres no fim da década de 1970. Conhecido pelo seu desprezo pelo governo que rotula graffiti como vandalismo, Banksy expõe sua arte em locais públicos como paredes e ruas, e chega a usar objetos para expô-la. Banksy não vende seus trabalhos diretamente, mas sabe-se que leiloeiros de arte tentaram vender alguns de seus graffitis nos locais em que foram feitos e deixaram o problema de como remover o desenho nas mãos dos compradores. O primeiro filme de Banksy, ‘Exit Through the Gift Shop’, teve sua estreia no Festival de Filmes de Sundance, foi oficialmente lançado no Reino Unido no dia 5 de março de 2010, e em janeiro de 2011 foi nomeado para o Oscar de Melhor Documentário. </div>
+            <div class="modal-body">
+            <p>
+            Cristiane Monteiro mais conhecida como Crica, ou seja, meu vulgo/apelido, que assino em todos os meus trabalhos, do graffiti à ilustração. Meu interesse pelas formas, cores e artes vem através da minha mãe que trabalhava com artes e artesanatos na minha infância, então o desenho sempre foi parte do meu cotidiano. Comecei a fazer graffiti na minha adolescência e aí foi paixão a primeira riscada de spray na parede. Muito curiosa e inquieta com o mundo criativo, caí nas garras do design e me formei em Design de Interfaces Digitais. E nesse leque eu também pude juntar o meu outro amor, a ilustração.
+            </p>
 
+     
+ 
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
