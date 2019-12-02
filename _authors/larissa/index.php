@@ -178,44 +178,44 @@
                             <h1> Grafite - Mural </h1>
                             <div class="row p-3">
                                 <div class="col-lg-4">
-                                    <figure>
+                                    <figure class="mt-3 mb-3">
                                         <img src="./../../_images/larissa/aryz.jpg" alt="Grafite Aryz">
-                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/mr_aryz/">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
+                                        <figcaption class="mt-3 mb-3">Mural  feito por <strong><a href="https://www.instagram.com/mr_aryz/">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                     </figure>
                                 </div>
 
                                 <div class="col-lg-4">
-                                    <figure>
+                                    <figure class="mt-3 mb-3">
                                         <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
-                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
+                                        <figcaption class="mt-3 mb-3">Mural  feito por <strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
                                     </figure>
                                 </div>
 
                                 <div class="col-lg-4">
-                                <figure>
+                                <figure class="mt-3 mb-3">
                                     <img src="./../../_images/larissa/kueia.jpg" alt="Grafite Kueia">
-                                    <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
+                                    <figcaption class="mt-3 mb-3">Mural  feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
                                     </figure>
                                 </div>
                             </div>
 
                             <div class="row p-3">
                                 <div class="col-lg-4">
-                                    <figure>
+                                    <figure class="mt-3 mb-3"> 
                                         <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
-                                        <figcaption>Mural  feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
+                                        <figcaption class="mt-3 mb-3">Mural  feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
                                     </figure>
                                 </div>
                                 <div class="col-lg-4">
-                                    <figure>
+                                    <figure class="mt-3 mb-3">
                                         <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria">
-                                        <figcaption>Mural  feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
+                                        <figcaption class="mt-3 mb-3">Mural  feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
                                     </figure>    
                                 </div>
                                 <div class="col-lg-4">
-                                    <figure>
+                                    <figure class="mt-3 mb-3"> 
                                         <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha">
-                                        <figcaption>Mural  feito por<strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
+                                        <figcaption class="mt-3 mb-3">Mural  feito por<strong><a href="https://www.instagram.com/kobrastreetart/">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
                                     </figure>                                                                 
                                 </div>
                             </div>
