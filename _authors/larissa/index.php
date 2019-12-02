@@ -205,7 +205,6 @@
 
                                         <div class="card">
 
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
                                             <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
