@@ -6,7 +6,7 @@
 
 <footer class="colorf">
     
-    <div class="row text-center mr-0">
+    <div class="row text-center mt-0 mr-0">
         <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
 
@@ -49,9 +49,11 @@
 
     </div>
     
+<!--
     <div class="row d-lg-none d-block text-center">
         <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" />
     </div>
+-->
     
     <div class="copy">
         <small>Copyright 2019 | ᴅᴀs ʀᴜᴀs ᴘᴀʀᴀ ᴡᴇʙ </small>
