@@ -34,34 +34,33 @@
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
                             <h1 class="mt-4 mb-4"> SOBRE </h1>
                             <article>
-                                <div class="row align-items-center">
+                                <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="Parte esquerda de um grafite dividido em dois" />
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
-
-                                            <h2>Sobre</h2>
-                                            <p>
-                                                O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
-                                                ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
-                                            </p>
-                                            <p>
-                                                São usadas poucas cores, mas bastante contraste entre si. Normalmente são se pinta o fundo e muitas vezes as letras desenhadas têm formato
-                                                arredondado, como se tivesse vida própria.
-                                            </p>
-                                            <p>
-                                                Esse estilo foi a fase inicial que levou o ao desenvolvimento do estilo <em>Bubble</em>, em que as letras são redondas, circulares, e muitas vezes
-                                                se sobrepõem parcialmente, criando uma imagem que parece expandir-se e formar bolhas.
-                                            </p>
-                                            <p>
-                                                O estilo <em>Bubble</em> pode ser feito em duas cores, onde as letras são pulverizadas em uma cor e posteriormente delineadas com outra, criando um contraste,
-                                                ou várias cores podem ser aplicadas para um efeito mais exuberante.
-                                            </p>
+                                        <h2>Sobre</h2>
+                                        <p>
+                                            O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
+                                            ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
+                                        </p>
+                                        <p>
+                                            São usadas poucas cores, mas bastante contraste entre si. Normalmente são se pinta o fundo e muitas vezes as letras desenhadas têm formato
+                                            arredondado, como se tivesse vida própria.
+                                        </p>
+                                        <p>
+                                            Esse estilo foi a fase inicial que levou o ao desenvolvimento do estilo <em>Bubble</em>, em que as letras são redondas, circulares, e muitas vezes
+                                            se sobrepõem parcialmente, criando uma imagem que parece expandir-se e formar bolhas.
+                                        </p>
+                                        <p>
+                                            O estilo <em>Bubble</em> pode ser feito em duas cores, onde as letras são pulverizadas em uma cor e posteriormente delineadas com outra, criando um contraste,
+                                            ou várias cores podem ser aplicadas para um efeito mais exuberante.
+                                        </p>
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="Parte direita de um grafite dividido em dois" />
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois" />
                                     </div>
                                 </div>
                             </article>
@@ -79,7 +78,7 @@
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
                                                 <div class="card-fundo"></div>
                                                 <div class="avatar mx-auto">
-                                                    <img src="../../_images/anderson/artista-1.png" alt="Real Grapixo">
+                                                    <img src="../../_images/anderson/artista-1.png" title="Real Grapixo" alt="Real Grapixo">
                                                 </div>
                                                 <div class="card-body">
                                                     <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
@@ -122,7 +121,7 @@
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
                                                 <div class="card-fundo"></div>
                                                 <div class="avatar mx-auto">
-                                                    <img src="../../_images/anderson/artista-2.png" alt="ten.spheres">
+                                                    <img src="../../_images/anderson/artista-2.png" title="ten.spheres" alt="ten.spheres">
                                                 </div>
                                                 <div class="card-body">
                                                     <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
@@ -163,7 +162,7 @@
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
                                                 <div class="card-fundo"></div>
                                                 <div class="avatar mx-auto">
-                                                    <img src="../../_images/anderson/artista-3.png" alt="ROTA IP">
+                                                    <img src="../../_images/anderson/artista-3.png" title="ROTA IP" alt="ROTA IP">
                                                 </div>
                                                 <div class="card-body">
                                                     <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
@@ -202,7 +201,7 @@
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
                                                 <div class="card-fundo"></div>
                                                 <div class="avatar mx-auto">
-                                                    <img src="../../_images/anderson/artista-4.png" alt="Veni Vidi Vici">
+                                                    <img src="../../_images/anderson/artista-4.png" title="Veni Vidi Vici" alt="Veni Vidi Vici">
                                                 </div>
                                                 <div class="card-body">
                                                     <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4> -->
@@ -310,10 +309,10 @@
     </div>
 </main>
 
+<!-- Modal -->
 <div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
                 <button type="button" class="close" data-dismiss="modal">
@@ -326,7 +325,6 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
@@ -334,7 +332,6 @@
 <div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
                 <button type="button" class="close" data-dismiss="modal">
@@ -346,7 +343,6 @@
                 Também esteve em Bienais, foi convidado pela ONU a participar da exposição Encontro das Áfricas - ONU (Organização das Nações Unidas), no Rio de Janeiro.
                 Izolag atua a longo tempo, na área de identidade visual, capas de disco, palcos, e murais, já fez projetos com grandes nomes como NIKE, APPLE entre outros. Nascido no Rio de Janeiro se interessou por desenho e pintura ainda criança, na Bahia, onde cresceu, cursou artes plásticas e aprofundou as pesquisas em graffiti, stencil, poster e caligrafia, tornando-se peça fundamental da técnica stencil. Ficou conhecido pela utilização da técnica em grandes proporções e comdiversas camadas de cores, criando uma ilusão mais realista das imagens. Além o artista é conhecido por destruir suas gravura após uma única utilização, é um dos pioneiros no Brasil, em 2013, inventou uma nova técnica de stencil com linhas em ângulos usando material reciclado que em 2014 possibilitou a construção do maior stencil do mundo, a maior gravura já feita na história, no centro do Rio de Janeiro. O artista aborda o mundo em sua volta, através da captura de imagens que faz, pode se perceber sua passagem por diversos lugares observando sua produção, seja os meninos no agreste pernambucano, pescadores da Bahia, o cotidiano carioca, os moradores de rua e trabalhadores em São Paulo, já no South Bronx (NY) o artista retratou as pessoas e suas influências, as quais deram origem a cultura Hip Hop, ou seja,a produção é um espelho do que o artista observa.
                 Atualmente morando na Bahia, faz pesquisas e projetos em pequenas comunidades, revertendo parte de seus lucros num projeto que chama Arte pela Humanidade, no qual a venda de desenhos originais são direcionada a compra de materiais de criação, como, papéis, lápis de cor, pincel, tinta, cadernos etc. Assim levando mais que arte as comunidades mas também possibilidade de criar através de suas raízes.
-
             </div>
 
             <div class="modal-footer">
@@ -359,7 +355,6 @@
 <div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
                 <button type="button" class="close" data-dismiss="modal">
@@ -372,7 +367,6 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
@@ -380,7 +374,6 @@
 <div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog">
     <div class="modal-dialog" role="document">
         <div class="modal-content">
-
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
                 <button type="button" class="close" data-dismiss="modal">
@@ -393,7 +386,6 @@
             <div class="modal-footer">
                 <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
             </div>
-
         </div>
     </div>
 </div>
