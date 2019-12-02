@@ -1,11 +1,9 @@
 @charset "UTF-8";
 .AlinhamentoTitulo {
     text-align: center;
+    background-color:#D9e0e3; 
 }
 
-.formataArtistas {
-    box-shadow: 1px 1px 1px 1px #d3d3d3;
-}
 
 .formatasection {
     box-shadow: 1px 1px 1px 1px lightslategrey;
@@ -13,39 +11,24 @@
     float: left;
     margin-left: 20px;
     margin-bottom: 20px;
+    background-color:#acacac; 
+    
 }
 
 .imgsection {
     margin-top: 10px;
+    border: 1px solid #081424;
 }
 .galeria {
 
-    margin: 2% 1%;
-    border: 5px solid #ffffff;
-    background-color: #ffffff;
-    box-shadow: 1px 1px 1px 3px rgba(0, 0, 0, .4);
-   
-    
+    margin: 1px 1px 1px 1px;
+    border: 2px solid #081424;
 }
-nav.navRodape {
-    margin: 0px 0px 0px 0px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    
-    
+/*
+div{
+    margin-top: 20px;
 }
 
-ul.ulRodape li.liRodape {
-    display: inline;
-    text-align: center;
-}
+*/
 
-ul.ulRodape li.liRodape a.aRodape {
-    /* topo, direita, base, esquerda */
-    padding: 0px 100px 0px 100px;
-    text-decoration: none;
-    font-size: 1.5em;
-    color: black;
-    align-content: center;
-    text-align: center;
-}
+
