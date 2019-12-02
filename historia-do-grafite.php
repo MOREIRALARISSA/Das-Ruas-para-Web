@@ -25,7 +25,7 @@
                     A partir do movimento contracultural de maio de 1968, quando os muros de Paris foram suporte para inscrições de caráter poético-político, a prática do grafite generalizou-se pelo mundo, em diferentes contextos, tipos e estilos, que vão do simples rabisco ou de tags repetidas ad nauseam, como uma espécie de demarcação de território, até grandes murais executados em espaços especialmente designados para tal, ganhando status de verdadeiras obras de arte. Os grafites podem também estar associados a diferentes movimentos e tribos urbanas, como o hip-hop, e a variados graus de transgressão.
                 </p>
             </div>
-            <div class="col-lg-4 offset-lg-1">
+            <div class="col-lg-4 offset-lg-1 mt-4">
                 <figure>
                     <img class="img-fluid" src="./_images/historia-do-grafite/NewYork1980.jpg" class="img-fluid" alt="PLATAFORMA 180TH STREET, BRONX, NOVA YORK , 1980, COPYRIGHT MARTHA COOPER/CORTESIA STEVEN KASHER GALLERY, NOVA YORK." title="New York, 1980" />
                     <figcaption>
@@ -53,7 +53,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-5 align-items-center">
+        <div class="row mt-5 align-items-center text-sm-center">
             <div class="col-lg-4 offset-lg-1">
                 <p>
                     Principais termos e gírias utilizadas nessa arte:

@@ -7,7 +7,7 @@
         <div class="row">
             <article>
                 <div class="col-12 text-center mt-3">
-                    <h1 class="display-3  mb-4">Grafite no mundo</h1>
+                    <h1 class="mb-4">Grafite no mundo</h1>
                     <p class="text-left">
                         O grafite é uma verdadeira obra de arte, capaz de modificar lugares – sem falar que são formas de manifestações artísticas em espaços públicos. Aqui no Brasil, existem grandes nomes que espalham cores e desenhos pelas paredes e calçadas do país, sendo a cidade de São Paulo um dos lugares preferidos para se observar esse tipo de arte.        
                     </p>
@@ -19,7 +19,7 @@
         </div>
         <aside>
             <div class="row">
-                <div class="col-3">
+                <div class="col-lg-3 col-md-3 col-sm-3 col-3 d-xl-block d-lg-block d-md-block d-sm-none d-none">
                     <nav id="navbarVertical" class="navbar navbar-light bg-light mt-4">
                         <nav class="nav nav-pills flex-column">
                             <a class="nav-link active" href="#item1"> BRASIL </a>
@@ -30,7 +30,7 @@
                         </nav>
                     </nav>
                 </div>
-                <div class="col-9">
+                <div class="col-lg-9 col-md-9 col-sm-12 col-12">
                     <div data-spy="scroll" data-target="#navbarVertical" data-offset="0" class="scrollspySite mt-4">       
                         <h3 id="item1" class="text-center mt-5 mb-3">BRASIL</h3>
                         <h4 class="mt-3 mb-3">Kobra</h4>

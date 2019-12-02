@@ -16,7 +16,7 @@
             </p>
             <section class="mt-5">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 col-md-12 col-sm-12 col-12">
                         <h3>Pichação e grafite não são a mesma coisa. </h3>
                         <p>
                             Grafiteiros e pichadores pintam coisas nas paredes da cidade. A diferença é que os primeiros produzem coisas coloridas, bonitas, criativas, artísticas. Os outros produzem riscos, palavras incompreensíveis e sujeiras. Conversei com pessoas que dizem que ambas as manifestações são “irmãs” e que nascem da mesma vontade de expressão pessoal. É possível que a gênese seja parecida, mas o resultado, sinceramente, é muito diferente.
@@ -24,6 +24,8 @@
                         <p>
                             Basta andar pela cidade e perceber a diferença: um grafite exprime um pensamento, um planejamento, a escolha das cores, do desenho, um tempo grande de execução e, principalmente, na maior parte dos casos, a concordância do dono da parede, seja ele público ou privado. E gera prazer para quem vê.
                         </p>
+                    </div>
+                    <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
                             <img class="img-fluid" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
                             <figcaption>
@@ -31,13 +33,15 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-lg-5 col-md-5">
+                    <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
                             <img class="img-fluid" src="./_images/mitos-e-verdades/grafites-centro-bh.jpg" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
                             <figcaption>
                                 Grafites em prédios na cidade de Belo Horizonte.
                             </figcaption>
                         </figure>
+                    </div>
+                    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                         <p>
                             A pichação é fruto da adrenalina, da coisa proibida, da exibição. No ano passado, entrevistei um rapaz que picha. Ele disse que a pichação não é para ser bonita, nem para agradar ninguém. A pichação é feita para agredir. E ela agride mesmo. E por isso, é ilegal.
                         </p>
@@ -78,7 +82,7 @@
                     Constatamos que há mais elementos que enfeiam a cidade do que lembrávamos: as paredes vazias, os muros de fábricas abandonadas, os muros de condomínios, as empenas, o concreto ao longo das avenidas, as muretas.
                 </p>
                 <div class=" row justify-content-center mt-5">
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
                             <img class="img-fluid" src="./_images/mitos-e-verdades/museuderua.jpg" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
                             <figcaption>
@@ -86,7 +90,7 @@
                             </figcaption>
                         </figure>
                     </div>
-                    <div class="col-lg-4 col-md-4">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
                             <img class="img-fluid" src="./_images/mitos-e-verdades/beco-do-batman.jpg" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
                             <figcaption>
