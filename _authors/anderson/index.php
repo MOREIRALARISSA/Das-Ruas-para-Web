@@ -29,7 +29,7 @@
                     </ul>
 
                     <!-- Sobre -->
-                    <div class="tab-content" id="nav-pills-content">                        
+                    <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
                             <h1 class="mt-4 mb-4"> SOBRE </h1>
                             <article>
@@ -39,7 +39,7 @@
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
-                                        <h2>Sobre</h2>
+<!--                                        <h2>Sobre</h2>-->
                                         <p>
                                             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
                                             ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
@@ -64,7 +64,7 @@
                                 </div>
                             </article>
                         </div>
-                        
+
                         <!-- Artistas -->
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
                             <h1 class="text-center mb-4">Artistas</h1>
@@ -235,6 +235,7 @@
                         </div>
 
                         <!-- Galeria -->
+
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
                             <h1 class="mt-4 mb-4 text-center">Galeria</h1>
                             <section>
@@ -246,7 +247,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid" src="./../../_images/anderson/img-1.jpg" title="Vagões de trem grafitados" alt="Vagões de trem grafitados" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/" target="_blank">@d4b_d4bs</a></strong> em vagões de trem.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -255,7 +256,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid" src="./../../_images/anderson/img-2.jpg" title="Carro de ponta cabeça grafitado" alt="Carro de ponta cabeça grafitado" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/" target="_blank">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -264,7 +265,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid" src="./../../_images/anderson/img-3.jpg" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/" target="_blank">@márcio_maizum</a></strong> em uma parede em via pública.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -275,7 +276,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid" src="./../../_images/anderson/img-4.jpg" title="Área de proteção de construção grafitada" alt="Área de proteção de construção grafitada" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/" target="_blank">@5okre</a></strong> na área de proteção de uma construção.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -284,7 +285,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid" src="./../../_images/anderson/img-5.jpg" title="Miniatura de caminhão grafitado" alt="Miniatura de caminhão grafitado" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/" target="_blank">@abson.one</a></strong> em uma miniatura de caminhão.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -293,7 +294,7 @@
                                             <figure class="gallery_border">
                                                 <img class="img-fluid gallery_adjust" src="./../../_images/anderson/img-6.jpg" title="Vagões de metrô grafitados" alt="Vagões de metrô grafitados" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/" target="_blank">@alicante_killerz</a></strong> em um metrô.
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -309,8 +310,8 @@
 </main>
 
 <!-- Modal -->
-<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" aria-labelledby="modalArtitas" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
@@ -328,8 +329,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
@@ -351,8 +352,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
@@ -370,8 +371,8 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog">
-    <div class="modal-dialog" role="document">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h4 class="modal-title">modal</h4>
