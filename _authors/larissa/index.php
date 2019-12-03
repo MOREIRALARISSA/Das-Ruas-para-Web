@@ -90,7 +90,7 @@
                                         </div>
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo2"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/kobraperfil.jpg" alt="Kobra" class="img-fluid">
                                                 </div>
@@ -114,7 +114,7 @@
                                     <div class="row justify-content-lg-center mb-5">
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo3"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/kueiaperfil.jpg" alt="Kueia" class="img-fluid">
                                                 </div>
@@ -135,7 +135,7 @@
                                         </div>
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo4"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                                 </div>
@@ -218,7 +218,7 @@
 </main>
 
 <!-- Modal -->
-<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog" aria-labelledby="modalArtitas1" aria-hidden="true">
+<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -253,7 +253,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -301,7 +301,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -330,7 +330,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">

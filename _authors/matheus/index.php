@@ -48,7 +48,7 @@
                                 <div class="row justify-content-center">
 
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                        <img src="../../_images/matheus/sobre1.jpg" class="img-fluid" alt="grafite Menina com balão do Banksy, menina com a mão para cima  " />
+                                        <img src="../../_images/matheus/sobre1.jpg" class="img-fluid" alt="metade do grafite Menina com balão do Banksy, menina com a mão para cima  " />
                                     </div>
 
 
@@ -69,7 +69,7 @@
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
 
-                                        <img src="../../_images/matheus/sobre2.jpg" class="img-fluid" alt="" />
+                                        <img src="../../_images/matheus/sobre2.jpg" class="img-fluid" alt="metade do grafite Menina com balão do Banksy, balão com formato de coração" />
 
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@
 
                             <section>
 
-                                <h1 class="text-center">Artistas</h1>
+                                <h2 class="text-center d-none">Artistas</h2>
 
                                 <div class="row justify-content-lg-center my-5">
 
@@ -92,14 +92,12 @@
 
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/bansky.jpg" alt="Banksy">
+                                                <img src="../../_images/matheus/bansky.jpg" alt="grafite do Banksy, macaco com uma câmera">
                                             </div>
                                             <div class="card-body">
 
-                                                <h2 class="card-title" font-weight-bold>Banksy</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-
-                                                </h3>
+                                                <h3 class="card-title font-weight-bold" >Banksy</h3>
+                                                <h4 class="card-subtitle mb-2 text-muted">Desconhecido</h4>
                                                 <p class="card-text">É um veterano artista de rua britânico</p>
                                             </div>
 
@@ -129,14 +127,14 @@
 
                                             <div class="card-fundo2"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/izolag.jpg" alt="Banksy">
+                                                <img src="../../_images/matheus/izolag.jpg" alt="grafite do Izolag, com ele mesmo se olhando no espelho">
                                             </div>
                                             <div class="card-body">
 
-                                                <h2 class="card-title" font-weight-bold>Izolag</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Rodrigo Izolag
+                                                <h3 class="card-title font-weight-bold" >Izolag</h3>
+                                                <h4 class="card-subtitle mb-2 text-muted">Rodrigo Izolag
 
-                                                </h3>
+                                                </h4>
                                                 <p class="card-text">Seu trabalho se caracteriza pelo muralismo
                                                     urbano, onde mistura pintura e grafite,
                                                     ampliando fotografias na técnica do stencil.</p>
@@ -170,14 +168,12 @@
 
                                             <div class="card-fundo3"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/blek-le-rat.jpg" alt="Banksy">
+                                                <img src="../../_images/matheus/blek-le-rat.jpg" alt="Grafite do Blek-le-rat, dois ratos">
                                             </div>
                                             <div class="card-body">
 
-                                                <h2 class="card-title" font-weight-bold>Blek le Rat</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Xavier Prou
-
-                                                </h3>
+                                                <h3 class="card-title font-weight-bold" >Blek le Rat</h3>
+                                                <h4 class="card-subtitle mb-2 text-muted">Xavier Prou</h4>
                                                 <p class="card-text">É um artista francês que nasceu em Paris em 1951 e é conhecido por muitos como sendo o “pai do stencil”.</p>
                                             </div>
 
@@ -206,14 +202,12 @@
 
                                             <div class="card-fundo4"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/matheus/shepard.jpg" alt="Banksy">
+                                                <img src="../../_images/matheus/shepard.jpg" alt="Foto de perfil do Frank Shepard Fairey ">
                                             </div>
                                             <div class="card-body">
 
-                                                <h2 class="card-title" font-weight-bold>Shepard Fairey</h2>
-                                                <h3 class="card-subtitle mb-2 text-muted">Frank Shepard Fairey
-
-                                                </h3>
+                                                <h3 class="card-title font-weight-bold" >Shepard Fairey</h3>
+                                                <h4 class="card-subtitle mb-2 text-muted">Frank Shepard Fairey</h4>
                                                 <p class="card-text">É um veterano artista de rua britânico</p>
                                             </div>
 
@@ -247,35 +241,34 @@
 
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
 
-                            <h1 class="mt-4 mb-4 text-center">Galeria</h1>
                             <section>
                                 <h2 class="d-none">Galeria</h2>
                                 <article>
-                                    <h2 class="d-none">Galeria</h2>
+                                   
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid" src="../../_images/matheus/banksy-g1.jpg" title="Vagões de trem grafitados" alt="Vagões de trem grafitados" />
+                                                <img class="img-fluid" src="../../_images/matheus/banksy-g1.jpg" alt="Grafite do Banksy, menino ao lado de uma fogueira envolto de fumaça" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
+                                                    Grafite <em>Stencil</em> feito por <strong>Banksy</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
 
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid" src="../../_images/matheus/banksy-g2.jpg" title="Carro de ponta cabeça grafitado" alt="Carro de ponta cabeça grafitado" />
+                                                <img class="img-fluid" src="../../_images/matheus/banksy-g2.jpg"  alt="Grafite do Banksy, Um robo desenhando um código de barras" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
+                                                    Grafite <em>Stencil</em> feito por <strong>Banksy</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
 
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid" src="../../_images/matheus/izolag-g3.jpg" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" />
+                                                <img class="img-fluid" src="../../_images/matheus/izolag-g3.jpg" alt="Grafite de um menino envolto de círculos pretos" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
+                                                    Grafite <em>Stencil</em> feito por <strong>Izolag</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -284,27 +277,27 @@
 
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid" src="../../_images/matheus/izolag-g4.jpg" title="Área de proteção de construção grafitada" alt="Área de proteção de construção grafitada" />
+                                                <img class="img-fluid" src="../../_images/matheus/izolag-g4.jpg"  alt="Grafite do Izolag com um cara com óculos de sol" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
+                                                    Grafite <em>Stencil</em> feito por <strong>Izolag</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
 
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid" src="../../_images/matheus/shepard-g5.jpg" title="Miniatura de caminhão grafitado" alt="Miniatura de caminhão grafitado" />
+                                                <img class="img-fluid" src="../../_images/matheus/shepard-g5.jpg"  alt="Grafite do Shepard Fairey, Barack Obama com a frase Hope na frente" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
+                                                    Grafite <em>Stencil</em> feito por <strong>Shepard Fairey</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
 
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
                                             <figure class="gallery_border">
-                                                <img class="img-fluid gallery_adjust" src="../../_images/matheus/shepard-g6.jpg" title="Vagões de metrô grafitados" alt="Vagões de metrô grafitados" />
+                                                <img class="img-fluid gallery_adjust" src="../../_images/matheus/shepard-g6.jpg"  alt="Grafite do Shepard Fairey, mulher passando batom" />
                                                 <figcaption class="mt-2">
-                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
+                                                    Grafite <em>Stencil</em> feito por <strong>Shepard Fairey</strong> 
                                                 </figcaption>
                                             </figure>
                                         </div>
@@ -327,7 +320,7 @@
 
 </main>
 
-<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" aria-labelledby="modalArtitas" aria-hidden="true">
+<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -348,7 +341,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -373,7 +366,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -387,7 +380,7 @@
             <div class="modal-body">
                 <p>Xavier Prou, mais conhecido como Blek le Rat, é um artista francês que nasceu em Paris em 1951 e é conhecido por muitos como sendo o “pai do stencil”.</p>
                 <figure>
-                    <img class="img-fluid" src="../../_images/matheus/le-rat-modal.jpg" alt="" />
+                    <img class="img-fluid" src="../../_images/matheus/le-rat-modal.jpg" alt="Bleck Le Rat em frente a um de seus Grafites" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
@@ -402,7 +395,7 @@
 
                     Já o “Le Rat” veio em virtude do artista constantemente soltar seus stencils de ratos pelas ruas do seu bairro no decorrer da noite.</p>
                 <figure>
-                    <img class="img-fluid" src="../../_images/matheus/le-rat-modal2.jpg" alt="" />
+                    <img class="img-fluid" src="../../_images/matheus/le-rat-modal2.jpg" alt="Pintura de um grafite de rato, através do molde para Stencil" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
@@ -425,7 +418,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -440,7 +433,7 @@
                 <p>Frank Shepard Fairey (nascido em 15 de fevereiro de 1970) é um artista de rua contemporâneo americano, designer gráfico, ativista, ilustrador e fundador da OBEY Clothing que surgiu da cena do skate. </p>
                 <p>Ele se tornou amplamente conhecido durante a eleição presidencial dos EUA em 2008 por seu pôster de "Hope" de Barack Obama.</p>
                 <figure>
-                    <img class="img-fluid" src="../../_images/matheus/hope.jpg" alt="" />
+                    <img class="img-fluid" src="../../_images/matheus/hope.jpg" alt="Shepard Fairey, em frente a um de seus grafites" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
@@ -453,7 +446,7 @@
 
                     O mais interessante é que essa campanha ganhou uma dimensão absurda por acaso, ultrapassando todas as expectativas do próprio artista.</p>
                 <figure>
-                    <img class="img-fluid" src="../../_images/matheus/obey.jpg" alt="" />
+                    <img class="img-fluid" src="../../_images/matheus/obey.jpg" alt="Grafite da Marca Obey" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
