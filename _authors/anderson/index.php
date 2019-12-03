@@ -119,7 +119,7 @@
                                         <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                             <div class="card">
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo2"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-2.png" title="ten.spheres" alt="ten.spheres">
                                                 </div>
@@ -159,7 +159,7 @@
                                         <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12">
                                             <div class="card">
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo3"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-3.png" title="ROTA IP" alt="ROTA IP">
                                                 </div>
@@ -189,7 +189,6 @@
                                                         </div>
                                                     </div>
                                                     <!-- <a href="#" class="card-link">link</a> -->
-                                                    
                                                 </div>
                                             </div>
                                         </div>
@@ -197,7 +196,7 @@
                                         <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                             <div class="card">
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo4"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-4.png" title="Veni Vidi Vici" alt="Veni Vidi Vici">
                                                 </div>
