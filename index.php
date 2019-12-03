@@ -19,10 +19,8 @@
 
                 <h2 class="text-center"> <a href="grafite-no-mundo.php">Grafite no Mundo </a></h2>
                 <p class="text-justify">
-                     Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas.
-                     <p class="text-right">
-                    <a href="grafite-no-mundo.php"> Confira! </a>
-                    </p> 
+                     Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas.<a href="grafite-no-mundo.php"> Confira! </a>
+                
                 </p>
                 
                 </p>
