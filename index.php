@@ -66,27 +66,34 @@
         </div>
         <div class="row">
             <div class="col-4">
-                <h2>Título</h2>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi sanctius boreas quoque diverso iuga retinebat zonae numero umor animal
-                    primaque locis elementaque terris arce auroram lanientventos aethera ardentior frigida uno timebat aeris quae
-                    caelum aethere pendebat erant oppida terrenae porrexerat siccis peragebant</p>
+           <h2> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
+                
+                <p class="text-justify">
+                Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
+                </p>
             </div>
             <div class="col-4">
-                <h2>Título</h2>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
-                <h2>Título</h2>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
+
+                <div class="col-8">
+                <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="col-12" alt="..."> </a>
+                <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
+                </div> 
+
+                <div class="col-8">
+                <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="col-12" alt="..."> </a>
+                <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
+                </div>                
             </div>
+
             <div class="col-4">
-                <h2>Título</h2>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
-                <h2>Título</h2>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
+                <div class="col-8">
+                <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
+                <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
+                </div>  
+                <div class="col-8">
+                <a href="grafite-no-mundo.php"><img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
+                <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
+                </div>            
             </div>
         </div>
         <div class="row">
