@@ -32,12 +32,12 @@
                 <div class="col-lg-4 col-md-4 mt-5">
 
                     <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                     <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="img-rounded col-12" alt="Grafite feito em Hells Kit em 1970"> </a>
+                     <a href="grafite-x-sociedade.php"> <img class="img-fluid rounded col-12" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" alt="Grafite feito em Hells Kit em 1970"> </a>
                      <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
                     </div> 
 
                     <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                    <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="img-rounded col-12" alt="Um dos primeiros Grafites da cidade de São Paulo"> </a>
+                    <a href="historia-do-grafite.php"><img class="img-fluid rounded col-12" src="./_images/historia-do-grafite/grafite1982.jpg" alt="Um dos primeiros Grafites da cidade de São Paulo"> </a>
                     <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
                     </div> 
 
@@ -46,12 +46,12 @@
                 <div class="col-lg-4 col-md-4 mt-5">
 
                     <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                    <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="img-rounded col-12" alt="Pichação no centro da cidade de Belo Horizonte"> </a>
+                    <a href="mitos-e-verdades.php"> <img class="img-fluid rounded col-12" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichação no centro da cidade de Belo Horizonte"> </a>
                     <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime!</a></h2>
                     </div>  
 
                     <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                    <a href="grafite-no-mundo.php"><img src="./_images/grafite-no-mundo/kobra.jpg" class="img-rounded col-12" alt="Grafite feito pelo artista Eduardo Kobra"> </a>
+                    <a href="grafite-no-mundo.php"><img class="img-fluid rounded col-12" src="./_images/grafite-no-mundo/kobra.jpg" alt="Grafite feito pelo artista Eduardo Kobra"> </a>
                     <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
                     </div>            
 

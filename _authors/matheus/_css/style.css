@@ -78,14 +78,12 @@ a:hover {
     color: #fff;
     background-color: #301F56;
     border-color: #301F56;
-  }
+}
 
 nav-pills {
     background-color: #301F56;
     border-color: #301F56!important;
 }
-
-
 
 .cardb {
     border: 1px solid #1c61a7;
