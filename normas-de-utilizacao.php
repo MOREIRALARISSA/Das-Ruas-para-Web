@@ -3,13 +3,10 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-4 mb-4">
-
     <div class="container">
-
         <div class="row justify-content-center text-center">
             <h1>Normas de Utilização</h1>
         </div>
-
         <p>
             É proibido publicar, divulgar, propagar ou disseminar, em qualquer produto interativo do site Das Ruas para WEB, qualquer material protegido por direitos autorais, sem a devida autorização do autor ou de seu representante. É proibido, ainda, publicar imagens de pessoas sem prévia autorização.
         </p>
@@ -17,7 +14,6 @@
             O Das Ruas para WEB não se responsabiliza pelo conteúdo, opiniões e comentários dos freqüentadores de nenhum produto interativo. O conteúdo publicado por assinantes ou visitantes nos produtos interativos não é revisado ou fiscalizado pelo Das Ruas para WEB.
             Porém, o Das Ruas para WEB poderá, a qualquer tempo e a seu critério, deixar qualquer conteúdo fora do âmbito do seu portal na Internet ou excluir, parcial ou integralmente, qualquer conteúdo disponibilizado pelos usuários ou visitantes de seus serviços, caso possa ser interpretado que o referido conteúdo é contrário às normas legais em vigor, às presentes regras ou em razão de denúncias, sem que isto gere qualquer responsabilidade ao UOL ou direito ao usuário.
         </p>
-
         <p>
             Se por mais de uma vez forem descumpridas quaisquer das regras expostas ou for verificado o exercício de ilegalidades, o produto interativo será excluído da Internet.
         </p>
@@ -52,11 +48,8 @@
             <li>Material que configure crime virtual;</li>
             <li>Prática de "flood": envio da mesma mensagem repetidas vezes em um curto espaço de tempo.</li>
         </ul>
-
         <p> Aplicam-se ainda aos usuários dos serviços Das Ruas para WEB as Normas de Segurança e Privacidade do Das Ruas para WEB.</p>
-
     </div>
-
 </main>
 
 <?php

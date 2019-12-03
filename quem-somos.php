@@ -6,7 +6,7 @@
 <main class="my-2">
     <div class="container">
         <section>
-            <h1 class="text-center">Quem Somos</h1>
+            <h1 class="text-center mb-4">Quem Somos</h1>
             <div class="row justify-content-lg-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
@@ -41,7 +41,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/anderson/index.php">Throwup</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>
@@ -82,7 +82,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/larissa/index.php">Mural</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>
@@ -101,7 +101,7 @@
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/matheus/index.php">Stencil</a></div>
-                            <div><a href="#">Pages centers</a></div>
+                            <div><a>Pages centers</a></div>
                         </div>
                     </div>
                 </div>
