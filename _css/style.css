@@ -1,5 +1,9 @@
 @charset "utf-8";
 
+body {
+    font-family: 'Tomorrow', sans-serif;
+}
+
 @media (max-width: 391px) {
     
     .tam-hamburguer {
