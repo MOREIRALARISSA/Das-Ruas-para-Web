@@ -8,6 +8,30 @@
     background: linear-gradient(40deg, #301F56, #8332ac);
 }
 
+.card-fundo2 {
+    overflow: hidden;
+    height: 120px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    background: linear-gradient(40deg, #d9027d, #ff256d);
+}
+
+.card-fundo3 {
+    overflow: hidden;
+    height: 120px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    background: linear-gradient(40deg, #081424, #1c61a7);
+}
+
+.card-fundo4 {
+    overflow: hidden;
+    height: 120px;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    background: linear-gradient(40deg, #081424, #301F56);
+}
+
 .avatar {
 /*    border-radius: 50%;*/
     /* width: 120px; */
@@ -61,15 +85,12 @@ nav-pills {
     border-color: #301F56!important;
 }
 
-/*
-@media screen and (max-width: 800px) {
-    .stp {
-        position: sticky;
-    }
-}
-*/
+
 
 .cardb {
-/*    background-color: rgb(28,97,167, .2);*/
     border: 1px solid #1c61a7;
+}
+
+.img-bordas {
+    border-radius: 4px;
 }

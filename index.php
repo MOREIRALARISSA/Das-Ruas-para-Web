@@ -3,6 +3,7 @@
     //Incluindo o menu de navegação
 ?>
 <main class="mt-0 mb-4">
+    <!--
     <div id="carouselSite" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
             <li data-target="#carouselSite" data-slide-to="0" class="active"></li>
@@ -45,6 +46,7 @@
             <span class="sr-only">Avançar</span>
         </a>
     </div>
+-->
 
     <div class="container">
         <div class="row justify-content-center">
@@ -66,35 +68,70 @@
         </div>
         <div class="row">
             <div class="col-4">
-           <h2> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
-                
+                <h2> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
+
                 <p class="text-justify">
-                Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
+                    Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
                 </p>
             </div>
             <div class="col-4">
 
                 <div class="col-8">
-                <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
-                </div> 
+                    <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="col-12" alt="..."> </a>
+                    <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
+                </div>
 
                 <div class="col-8">
-                <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
-                </div>                
+                    <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="col-12" alt="..."> </a>
+                    <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
+                </div>
             </div>
 
             <div class="col-4">
                 <div class="col-8">
-                <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
-                </div>  
+                    <a href="mitos-e-verdades.php"> <img src="_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
+                    <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
+                </div>
                 <div class="col-8">
-                <a href="grafite-no-mundo.php"><img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
-                </div>            
+                    <a href="grafite-no-mundo.php"><img src="_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="col-12" alt="..."> </a>
+                    <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
+                </div>
             </div>
+            8
+
+            <div class="row m-1">
+                <div class="col-sm-6">
+                    <div class="row m-1">
+                        <div class="col-md-12 col-lg-6">
+                            <a href="#" data-toggle="modal" data-target="#noticia1">
+                                <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="d-block w-100 img-bordas" alt="">
+                            </a>
+                        </div>
+                        <div class="col">
+                            <a href="#" data-toggle="modal" data-target="#noticia1">
+                                <h3 class="titulo2-news">Contos de Griô adapta lendas africanas</h3>
+                            </a>
+                            <p>Contos de Griô, de Ana Cristina e Jean Carlos, é uma coletânea de contos e fábulas africanas, reinterpretados pro meio das histórias quadrinhos. A...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="row m-1">
+                        <div class="col-md-12 col-lg-6">
+                            <a href="#" data-toggle="modal" data-target="#noticia2">
+                                <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="d-block w-100 img-bordas" alt="">
+                            </a>
+                        </div>
+                        <div class="col">
+                            <a href="#" data-toggle="modal" data-target="#noticia2">
+                                <h3 class="titulo2-news">Mauricio de Sousa e Macoto Tezka revelam novo quadrinho envolvendo a Amazônia</h3>
+                            </a>
+                            <p>Mauricio de Sousa e Macoto Tezka revelam parceria para terminar obra de Osamu Tezuka sobre a Amazônia.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
         <div class="row">
             <div class="col-3">
