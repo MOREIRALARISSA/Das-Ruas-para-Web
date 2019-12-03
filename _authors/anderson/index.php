@@ -30,7 +30,7 @@
 
                     <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
-                        <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
+                        <div class="tab-pane fade show active mt-5" id="nav-item-01" role="tabpanel">
                             <h1 class="mt-4 mb-4 d-none"> SOBRE </h1>
                             <article>
                                 <div class="row justify-content-center">
@@ -87,12 +87,11 @@
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
                                                         <!--ou Robin Gunningham[2]-->
                                                     </h3>
-                                                    <p class="card-text">É um veterano artista de rua britânico</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
-                                                    <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                    <li class="list-group-item">Nascimento: Desconhecido</li>
                                                     <!-- <li class="list-group-item">Período: Arte urbana</li> -->
-                                                    <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                    <!-- <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li> -->
                                                     <!-- <li class="list-group-item">Série: Better Out Than In</li>
                                                     <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
                                                     <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
@@ -130,12 +129,11 @@
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
                                                         <!--ou Robin Gunningham[2]-->
                                                     </h3>
-                                                    <p class="card-text">É um veterano artista de rua britânico</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
-                                                    <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                    <li class="list-group-item">Nascimento: Desconhecido</li>
                                                     <!-- <li class="list-group-item">Período: Arte urbana</li> -->
-                                                    <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                    <!-- <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li> -->
                                                     <!-- <li class="list-group-item">Série: Better Out Than In</li>
                                                     <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
                                                     <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
@@ -171,12 +169,11 @@
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
                                                         <!--ou Robin Gunningham[2]-->
                                                     </h3>
-                                                    <p class="card-text">É um veterano artista de rua britânico</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
-                                                    <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                    <li class="list-group-item">Nascimento: Desconhecido</li>
                                                     <!-- <li class="list-group-item">Período: Arte urbana</li> -->
-                                                    <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                    <!-- <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li> -->
                                                     <!-- <li class="list-group-item">Série: Better Out Than In</li>
                                                     <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
                                                     <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
@@ -210,12 +207,11 @@
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
                                                         <!--ou Robin Gunningham[2]-->
                                                     </h3>
-                                                    <p class="card-text">É um veterano artista de rua britânico</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
-                                                    <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
+                                                    <li class="list-group-item">Nascimento: Desconhecido</li>
                                                     <!-- <li class="list-group-item">Período: Arte urbana</li> -->
-                                                    <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
+                                                    <!-- <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li> -->
                                                     <!-- <li class="list-group-item">Série: Better Out Than In</li>
                                                     <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
                                                     <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li> -->
@@ -237,8 +233,8 @@
 
                         <!-- Galeria -->
 
-                        <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
-                            <h1 class="mt-4 mb-4 text-center">Galeria</h1>
+                        <div class="tab-pane fade show mt-5" id="nav-item-03" role="tabpanel">
+                            <h1 class="mt-4 mb-4 text-center d-none">Galeria</h1>
                             <section>
                                 <h2 class="d-none">Galeria</h2>
                                 <article>
