@@ -35,7 +35,7 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Anderson Antunes</h4>
-                            <small>Gerente | Coder</small>
+                            <small>Manager | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
@@ -95,7 +95,7 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Matheus Felipe dos Santos</h4>
-                            <small>Líder | Coder</small>
+                            <small>Leather | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
