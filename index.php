@@ -12,55 +12,69 @@
         <div class="row">
 
             <div class="col-4 mt-5">
-           <h1> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
-
+                <h1> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
                 <p class="text-justify">
                     Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
                 </p>
+
+                <h2 class="text-center"> <a href="grafite-no-mundo.php">Grafite no Mundo </a></h2>
+                <p class="text-justify">
+                     Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas.
+                     <p class="text-right">
+                    <a href="grafite-no-mundo.php"> Confira! </a>
+                    </p> 
+                </p>
+                
+                </p>
+                
             </div>
-            <div class="col-4 mt-5">
+ 
+                <div class="col-4 mt-5">
 
-                <div class="col-8">
+                    <div class="col-8">
+                     <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="img-rounded col-12" alt="Grafite feito em Hells Kit em 1970"> </a>
+                     <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
+                    </div> 
 
-                <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="img-rounded col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
-                </div> 
+                    <div class="col-8">
+                    <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="img-rounded col-12" alt="Um dos primeiros Grafites da cidade de São Paulo"> </a>
+                    <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
+                    </div> 
 
-                <div class="col-8">
-                <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="img-rounded col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
-                </div> 
+                </div>
 
-            </div>
+                <div class="col-4 mt-5">
 
-            <div class="col-4 mt-5">
-                <div class="col-8">
+                    <div class="col-8">
+                    <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="img-rounded col-12" alt="Pichação no centro da cidade de Belo Horizonte"> </a>
+                    <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
+                    </div>  
 
-                <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="img-rounded col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
-                </div>  
-                <div class="col-8">
-                <a href="grafite-no-mundo.php"><img src="./_images/grafite-no-mundo/kobra.jpg" class="img-rounded col-12" alt="..."> </a>
-                <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
-                </div>            
+                    <div class="col-8">
+                    <a href="grafite-no-mundo.php"><img src="./_images/grafite-no-mundo/kobra.jpg" class="img-rounded col-12" alt="Grafite feito pelo artista Eduardo Kobra"> </a>
+                    <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
+                    </div>            
 
-            </div>
+                </div>
+  
 
-
+                <h2 class="text-left"> News</h2>
             <div class="row m-1">
                 <div class="col-sm-6">
                     <div class="row m-1">
                         <div class="col-md-12 col-lg-6">
-                            <a href="#" data-toggle="modal" data-target="#noticia1">
-                                <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="d-block w-100 img-bordas" alt="">
+                            <a href="news.php">
+                            <img src="./_images/news/museuderua.jpg" class="d-block w-100 img-roudend" alt="Projeto Museu de Rua BH">
                             </a>
                         </div>
                         <div class="col">
-                            <a href="#" data-toggle="modal" data-target="#noticia1">
-                                <h3 class="titulo2-news">Contos de Griô adapta lendas africanas</h3>
+                            <a href="news.php">
+                                <h3 class="titulo2-news text-center">Museu de Rua</h3>
                             </a>
-                            <p>Contos de Griô, de Ana Cristina e Jean Carlos, é uma coletânea de contos e fábulas africanas, reinterpretados pro meio das histórias quadrinhos. A...</p>
-                        </div>
+                            <p class="text-justify">
+                            Uma iniciativa inédita de um coletivo de produtores culturais e artistas irá transformar ruas, praças e avenidas de Belo Horizonte em um galeria de arte a céu aberto.
+                            </p>
+                            </div>
                     </div>
                 </div>
                 <div class="col-sm-6">
