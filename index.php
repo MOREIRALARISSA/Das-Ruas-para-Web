@@ -138,7 +138,8 @@
             </div>
         </div>
 
-        <div id="carouselSite" class="carousel slide" data-ride="carousel">
+ <h2 class="text-left mt-5 mb-3"> Galeria</h2>
+<div id="carouselSite" class="carousel slide" data-ride="carousel">
 
 <ol class="carousel-indicators">
 
@@ -151,37 +152,21 @@
 <div class="carousel-inner">
 
     <div class="carousel-item active">
-
-        <img src="_images/GrafitexSociedade/hellsKit1970s.jpg" class="img-fluid d-block">
-        <div class="carousel-caption d-none d-md-block">
-
-            <h3></h3>
-            <p></p>
-
-        </div>
-
+     <img src="_images/matheus/shepard-g5.jp" class="img-fluid d-block">
     </div>
 
     <div class="carousel-item">
+        <img src="./_images/larissa/siria.jpeg" alt="Maior mural Grafite da Síria" class="img-fluid d-block">
+     </div>
 
-    <img class="img-fluid" src="./_images/anderson/img-5.jpg" alt="Miniatura de caminhão grafitado" class="img-fluid d-block">
-        <div class="carousel-caption d-none d-md-block">
-
-            <h3></h3>
-            <p></p>
-
-        </div>
-
+    <div class="carousel-item">
+        <img class="img-fluid img-fluid d-block" src="./_images/matheus/izolag-g3.jpg" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" /> 
     </div>
 
     <div class="carousel-item">
-
-    <img src="./_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha" class="img-fluid d-block">
-        <div class="carousel-caption d-none d-md-block">
-        </div>
-
+        <img src="./_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha" class="img-fluid d-block">
     </div>
-
+    
 </div>
 
 <a class="carousel-control-prev" href="#carouselSite" role="button" data-slide="prev">
