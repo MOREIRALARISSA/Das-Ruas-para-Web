@@ -164,19 +164,19 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite Aryz">
+                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite artista Aryz">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/mr_aryz/" target="_blank">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
+                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite artista Kobra">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/kobrastreetart/" target="_blank">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite Kueia">
+                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite artista Kueia">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br" target="_blank">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
                                             </figure>
                                         </div>
@@ -184,7 +184,7 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
+                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite artista Crica">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51" target="_blank">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
                                             </figure>
                                         </div>
