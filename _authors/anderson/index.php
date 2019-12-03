@@ -41,7 +41,6 @@
                                         <h2 class="d-none">Sobre</h2>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
-<!--                                        <h2>Sobre</h2>-->
 
                                         <p>
                                             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>

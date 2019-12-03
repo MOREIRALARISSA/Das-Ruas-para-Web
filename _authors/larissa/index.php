@@ -24,20 +24,26 @@
                             <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03">Galeria</a>
                         </li>
                     </ul>
+   
+                    <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
-                            <!-- SOBRE  -->
-                            <h1> SOBRE </h1>
+                            <h1 class="mt-4 mb-4 d-none"> SOBRE </h1>
                             <article>
-                                <h2 class="d-none">Sobre</h2>
-                                <div class="row">
-                                    <div class="col-lg-4">
-                                        <img src="./../../_images/larissa/SOBRE.png" alt="">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
+                                        <img class="img-fluid" src="./../../_images/larissa/sobre.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
                                     </div>
-                                    <div class="col-lg-4">
-                                        <p> O termo muralismo, ou pintura mural, foi criado a partir das pinturas feitas no início do século 20, no México. Esses trabalhos eram realistas e monumentais.
+
+                                        <h2 class="d-none">Sobre</h2>
+
+                                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
+
+                                        <p>
+                                            O termo muralismo, ou pintura mural, foi criado a partir das pinturas feitas no início do século 20, no México. Esses trabalhos eram realistas e monumentais.
                                         </p>
-                                        <p> Contudo, a pintura feita sobre paredes é uma técnica antiga. É uma forma de arte pública, como o grafite, porém, diferentemente deste, tem estreita relação com a arquitetura, podendo explorar o caráter plano de uma parede ou criar o efeito de uma nova área de espaço.
+                                        <p>
+                                            Contudo, a pintura feita sobre paredes é uma técnica antiga. É uma forma de arte pública, como o grafite, porém, diferentemente deste, tem estreita relação com a arquitetura, podendo explorar o caráter plano de uma parede ou criar o efeito de uma nova área de espaço.
                                         </p>
                                         <p>
                                             No Renascimento, temos importantes artistas que revigoraram a técnica do afresco, como Michelangelo e suas pinturas na Capela Sistina. Conduto, após esse período a técnica entrou em decadência, somente retornando com força no século 20, com as vanguardas européias: fauvistas e cubistas, que faziam murais com características expressionistas e abstratas.
@@ -46,13 +52,13 @@
                                             Outro local onde a pintura mural ressurgiu no início do século 20 foi o México, momento também de forte efervescência política e social, marcado pela Revolução Mexicana (1910-20). Os artistas mexicanos viram no muralismo o melhor caminho para expressar suas idéias sobre uma arte nacional popular, engajada no momento revolucionário.
                                         </p>
                                     </div>
-                                    <div class="col-lg-4">
-                                        <img src="./../../_images/larissa/SOBRE.png" alt="">
+
+                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
+                                        <img class="img-fluid" src="./../../_images/larissa/sobre1.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois"/>
                                     </div>
                                 </div>
                             </article>
                         </div>
-
                         <!-- Artistas -->
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
                             <h1 class="text-center">Artistas</h1>
@@ -136,7 +142,7 @@
                                                 <div class="card-body">
                                                     <h2 class="card-title font-weight-bold">Crica Monteiro</h2>
                                                     <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
-                                                    <p class="card-text">Comecou a grafitar ainda na adolescência e aí foi paixão a primeira riscada de spray na parede.</p>
+                                                    <p class="card-text">Comecou a grafitar ainda na adolescência e hoje é ilustratoda na MSP.</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">Nascimento: São Paulo, Brasil</li>
@@ -164,19 +170,19 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite Aryz">
+                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite artista Aryz">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/mr_aryz/" target="_blank">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite Kobra">
+                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite artista Kobra">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/kobrastreetart/" target="_blank">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite Kueia">
+                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite artista Kueia">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br" target="_blank">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
                                             </figure>
                                         </div>
@@ -184,7 +190,7 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite Crica">
+                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite artista Crica">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51" target="_blank">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
                                             </figure>
                                         </div>
