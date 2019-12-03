@@ -31,15 +31,20 @@
                     <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
-                            <h1 class="mt-4 mb-4"> SOBRE </h1>
+                            <h1 class="mt-4 mb-4 d-none"> SOBRE </h1>
                             <article>
                                 <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
                                         <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
                                     </div>
 
+
+                                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first mt-4">
+                                        <h2 class="d-none">Sobre</h2>
+
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
 <!--                                        <h2>Sobre</h2>-->
+
                                         <p>
                                             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
                                             ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
@@ -66,8 +71,8 @@
                         </div>
 
                         <!-- Artistas -->
-                        <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
-                            <h1 class="text-center mb-4">Artistas</h1>
+                        <div class="tab-pane fade show mt-5" id="nav-item-02" role="tabpanel">
+                            <h1 class="text-center d-none">Artistas</h1>
                             <section>
                                 <h2 class="d-none">Artistas</h2>
                                 <article>
@@ -156,7 +161,7 @@
                                     </div>
 
                                     <div class="row justify-content-lg-center mb-5">
-                                        <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12 mb-5">
+                                        <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12">
                                             <div class="card">
                                                 <!-- <img class="card-img-top" src="" alt=""/> -->
                                                 <div class="card-fundo"></div>
@@ -235,6 +240,10 @@
                         </div>
 
                         <!-- Galeria -->
+
+                        <div class="tab-pane fade show mt-5" id="nav-item-03" role="tabpanel">
+                            <h1 class="mt-4 mb-4 text-center d-none">Galeria</h1>
+
 
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
                             <h1 class="mt-4 mb-4 text-center">Galeria</h1>

@@ -1,13 +1,28 @@
 @charset "utf-8";
 
-.tam-hamburguer {
-    width: 90px;
-    height: 80px;
+@media (max-width: 391px) {
+    
+    .tam-hamburguer {
+        width: 60px;
+        height: 60px;
+    }
+
+    .navbar-dark .navbar-toggler-icon {
+        height: 50px;
+        width: 30px;
+    }
 }
 
-.navbar-dark .navbar-toggler-icon {
-    height: 70px;
-    width: 50px;
+@media (min-width: 392px) {
+    .tam-hamburguer {
+        width: 90px;
+        height: 80px;
+    }
+
+    .navbar-dark .navbar-toggler-icon {
+        height: 70px;
+        width: 50px;
+    }
 }
 
 #navbarSupportedContent {
