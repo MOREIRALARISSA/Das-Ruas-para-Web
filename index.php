@@ -11,7 +11,7 @@
       
         <div class="row">
 
-            <div class="col-4 mt-5">
+            <div class="col-lg-4 col-md-4 col-md-4 mt-5">
                 <h1> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
                 <p class="text-justify">
                     Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
@@ -29,28 +29,28 @@
                 
             </div>
  
-                <div class="col-4 mt-5">
+                <div class="col-lg-4 col-md-4 mt-5">
 
-                    <div class="col-8">
+                    <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
                      <a href="grafite-x-sociedade.php"> <img src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" class="img-rounded col-12" alt="Grafite feito em Hells Kit em 1970"> </a>
                      <h2 class="text-center txtimg"><a href="grafite-x-sociedade.php">O que é o Grafite ?</a></h2>
                     </div> 
 
-                    <div class="col-8">
+                    <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
                     <a href="historia-do-grafite.php"><img src="./_images/historia-do-grafite/grafite1982.jpg" class="img-rounded col-12" alt="Um dos primeiros Grafites da cidade de São Paulo"> </a>
                     <h2 class="text-center txtimg"><a href="historia-do-grafite.php">História do Grafite</a></h2>
                     </div> 
 
                 </div>
 
-                <div class="col-4 mt-5">
+                <div class="col-lg-4 col-md-4 mt-5">
 
-                    <div class="col-8">
+                    <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
                     <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="img-rounded col-12" alt="Pichação no centro da cidade de Belo Horizonte"> </a>
                     <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime!</a></h2>
                     </div>  
 
-                    <div class="col-8">
+                    <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
                     <a href="grafite-no-mundo.php"><img src="./_images/grafite-no-mundo/kobra.jpg" class="img-rounded col-12" alt="Grafite feito pelo artista Eduardo Kobra"> </a>
                     <h2 class="text-center txtimg"><a href="grafite-no-mundo.php">Grafite no Mundo</a></h2>
                     </div>            
@@ -100,7 +100,7 @@
 
         
         <h2 class="text-left mt-5 mb-3"> Artistas</h2>
-        <div class="row">
+        <div class="row mt-4">
             <div class="col-3">
                 <figure>
                 <a href="_authors/larissa/index.php"> <img src="./_images/larissa/aryzperfil.jpg" alt=" Artista Aryz" class="img-fluid"> </a>
@@ -152,7 +152,7 @@
 <div class="carousel-inner">
 
     <div class="carousel-item active">
-     <img src="_images/matheus/shepard-g5.jp" class="img-fluid d-block">
+     <img src="_images/matheus/shepard-g5.jpg" class="img-fluid d-block">
     </div>
 
     <div class="carousel-item">
@@ -160,7 +160,7 @@
      </div>
 
     <div class="carousel-item">
-        <img class="img-fluid img-fluid d-block" src="./_images/matheus/izolag-g3.jpg" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" /> 
+        <img src="./_images/matheus/izolag-g3.jpg" class="img-fluid img-fluid d-block" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" /> 
     </div>
 
     <div class="carousel-item">
@@ -189,17 +189,17 @@
 
         <div>
         <h2 class="text-left mt-4 mb-4"> Estilos</h2>
-        <div class="row justify-content-center">        
-            <div class="col-lg-6 col-md-6 mb-4">
-                <div class="card" style="height: 16rem; width: 18rem;">
+        <div class="row mt-4">     
+            <div class="col-lg-3 offset-lg-2 col-md-3 offset-md-2 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
+                <div class="card">
                     <a href="_authors/igor/index.php"> <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="Imagem capa Grafite Freestyle"> </a>
                     <div class="card-body">
                     <a href="_authors/igor/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-6 mb-4">
-                <div class="card" style="height: 16rem; width: 18rem;">
+            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
+                <div class="card">
                     <a href="_authors/anderson/index.php"> <img class="card-img-top rounded" src="_images/estilos/throwup.png" alt="Imagem capa Grafite Throwup"></a>
                     <div class="card-body">
                     <a href="_authors/anderson/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
@@ -207,25 +207,25 @@
                 </div>
             </div>
         </div>
-        <div class="row justify-content-center">
-            <div class="col-lg-4 col-md-4">
-                <div class="card" style="height: 16rem; width: 18rem;">
+        <div class="row mt-4">
+            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                <div class="card">
                     <a href="_authors/matheus/index.php"> <img class="card-img-top rounded" src="_images/estilos/stencil.png" alt="Imagem capa Grafite Stencil"></a>
                     <div class="card-body">
                     <a href="_authors/matheus/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4">
-                <div class="card" style="height: 16rem; width: 18rem;">
+            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                <div class="card">
                     <a href="_authors/larissa/index.php"><img class="card-img-top rounded" src="_images/estilos/mural.png" alt="Imagem capa Grafite Mural"></a>
                     <div class="card-body">
                     <a href="_authors/larissa/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-4 col-md-4">
-                <div class="card" style="height: 16rem; width: 18rem;">
+            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                <div class="card">
                     <a href="_authors/adelina/index.php"><img class="card-img-top rounded" src="_images/estilos/3d.png" alt="Imagem capa Grafite  3D"></a>
                     <div class="card-body">
                         <a href="_authors/adelina/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
