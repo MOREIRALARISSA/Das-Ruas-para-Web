@@ -6,7 +6,7 @@
 <main class="my-2">
     <div class="container">
         <section>
-            <h1 class="text-center">Quem Somos</h1>
+            <h1 class="text-center mb-4">Quem Somos</h1>
             <div class="row justify-content-lg-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
@@ -35,7 +35,7 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Anderson Antunes</h4>
-                            <small>Coder</small>
+                            <small>Gerente | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
@@ -75,11 +75,11 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Larissa Moreira</h4>
-                            <small>Coder</small>
-                            <small>Designer</small>
+                            <small>Designer | Coder</small>
+                            
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
+                            <p>Belorizontina apaixonada por artes, design, tecnologia e é estudante de Sistemas para Internet na Fatec São Roque. </p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/larissa/index.php">Mural</a></div>
                             <div><a>Pages centers</a></div>
@@ -95,7 +95,7 @@
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Matheus Felipe dos Santos</h4>
-                            <small>Coder</small>
+                            <small>Líder | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>

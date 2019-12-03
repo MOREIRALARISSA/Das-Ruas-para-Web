@@ -1,8 +1,8 @@
 <?php
     include ('../../_templates/header.php');
-    // include ('./../../header-estilos.php');
     //Incluindo o menu de navegação
 ?>
+
 <main>
 
     <div class="jumbotron junbotrom-fluid">
@@ -14,7 +14,6 @@
                 <div class="col-12 text-center">
 
                     <h1 class="display-4 font-weight-bold">Stencil</h1>
-                    <!--                        <p>Estilo de  grafite</p>-->
 
                 </div>
 
@@ -41,19 +40,21 @@
                     </ul>
 
                     <div class="tab-content" id="nav-pills-content">
+                        
+                        <!-- Sobre -->
 
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
+                            <article>
+                                <div class="row justify-content-center">
 
-                            <div class="row">
-                                <div class="col-lg-4 col-md-4">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                        <img src="../../_images/matheus/sobre1.jpg" alt="" />
+                                        <img src="../../_images/matheus/sobre1.jpg" class="img-fluid" alt="grafite Menina com balão do Banksy, menina com a mão para cima  " />
                                     </div>
-                                </div>
 
-                                <div class="col-lg-4 col-md-4">
 
-                                    <article>
+
+                                    <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
+
                                         <p>
                                             Um estêncil (do inglês Stencil) é uma técnica de pintura utilizada para aplicar um desenho sobre qualquer superfície, com o uso de tinta, sendo aerossol ou não, o stencil é feito com papel, plástico, metal ou acetato, onde tem uma boa durabilidade e seja fácil de cortar, para fazer a forma do desenho.
                                             O inicio do stencil segundo alguns autores foi nos países orientais na China e no Japão nos anos 500 a.c. onde era utilizado com elementos naturais, como folhas e rochas, para fazer as máscaras das partes que não podia cobrir com a tinta.
@@ -62,18 +63,20 @@
                                             Hoje em dia o Stencil Art se tornou um novo movimento artístico, urbano, feito na rua e para a rua, com desenhos cada vez mais elaborados, com cortes eletrônicos, onde possibilita muito mais a criatividade do artista, hoje as pinturas com stencil tem varias camadas e cores, fazendo pinturas realistas de alta qualidade.
                                             Onde fica até difícil saber se a pintura foi feita com stencil ou a mão livre.
                                         </p>
-                                    </article>
 
+                                    </div>
+
+
+                                    <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
+
+                                        <img src="../../_images/matheus/sobre2.jpg" class="img-fluid" alt="" />
+
+                                    </div>
                                 </div>
-
-                                <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                    
-                                        <img src="../../_images/matheus/sobre2.jpg" alt="" />
-                                   
-                                </div>
-                            </div>
-
+                            </article>
                         </div>
+                        
+                        <!-- Artistas -->
 
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
 
@@ -87,34 +90,29 @@
 
                                         <div class="card">
 
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
                                                 <img src="../../_images/matheus/bansky.jpg" alt="Banksy">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+
                                                 <h2 class="card-title" font-weight-bold>Banksy</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-                                                    <!--ou Robin Gunningham[2]-->
+
                                                 </h3>
                                                 <p class="card-text">É um veterano artista de rua britânico</p>
                                             </div>
 
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: 1974 (idade 45 anos), Bristol, Reino Unido</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
+
                                                 <li class="list-group-item">Diretor de cinema, Pintor, Ativista político, Artivista, Artista de rua, Escritor e Escultor </li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+
                                             </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
 
                                             </div>
@@ -128,16 +126,16 @@
 
                                         <div class="card">
 
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
-                                            <div class="card-fundo"></div>
+
+                                            <div class="card-fundo2"></div>
                                             <div class="avatar mx-auto">
                                                 <img src="../../_images/matheus/izolag.jpg" alt="Banksy">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+
                                                 <h2 class="card-title" font-weight-bold>Izolag</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Rodrigo Izolag
-                                                    <!--ou Robin Gunningham[2]-->
+
                                                 </h3>
                                                 <p class="card-text">Seu trabalho se caracteriza pelo muralismo
                                                     urbano, onde mistura pintura e grafite,
@@ -146,18 +144,14 @@
 
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascido no Rio de Janeiro</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
+
                                                 <li class="list-group-item">Muralista e grafiteiro</li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+
                                             </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
 
                                             </div>
@@ -174,34 +168,29 @@
 
                                         <div class="card">
 
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
-                                            <div class="card-fundo"></div>
+                                            <div class="card-fundo3"></div>
                                             <div class="avatar mx-auto">
                                                 <img src="../../_images/matheus/blek-le-rat.jpg" alt="Banksy">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+
                                                 <h2 class="card-title" font-weight-bold>Blek le Rat</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Xavier Prou
-                                                    <!--ou Robin Gunningham[2]-->
+
                                                 </h3>
                                                 <p class="card-text">É um artista francês que nasceu em Paris em 1951 e é conhecido por muitos como sendo o “pai do stencil”.</p>
                                             </div>
 
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: 1951 (idade 68 anos), Boulogne-Billancourt, França</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
+
                                                 <li class="list-group-item">Artista francês</li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+
                                             </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
 
                                             </div>
@@ -214,34 +203,30 @@
 
                                         <div class="card">
 
-                                            <!--                    <img class="card-img-top" src="" alt=""/>-->
-                                            <div class="card-fundo"></div>
+
+                                            <div class="card-fundo4"></div>
                                             <div class="avatar mx-auto">
                                                 <img src="../../_images/matheus/shepard.jpg" alt="Banksy">
                                             </div>
                                             <div class="card-body">
-                                                <!--                        <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
+
                                                 <h2 class="card-title" font-weight-bold>Shepard Fairey</h2>
                                                 <h3 class="card-subtitle mb-2 text-muted">Frank Shepard Fairey
-                                                    <!--ou Robin Gunningham[2]-->
+
                                                 </h3>
                                                 <p class="card-text">É um veterano artista de rua britânico</p>
                                             </div>
 
                                             <ul class="list-group list-group-flush">
                                                 <li class="list-group-item">Nascimento: 15 de fevereiro de 1970 (idade 49 anos), Charleston, Carolina do Sul, EUA</li>
-                                                <!--                        <li class="list-group-item">Período: Arte urbana</li>-->
+
                                                 <li class="list-group-item">Artista de rua contemporâneo americano, designer gráfico, ativista, ilustrador e fundador da OBEY Clothing </li>
-                                                <!--
-                        <li class="list-group-item">Série: Better Out Than In</li>
-                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>
--->
-                                                <!--                        <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
+
                                             </ul>
 
                                             <div class="card-body">
                                                 <img src="../../_images/anderson/icon.png" alt="" />
-                                                <!--                        <a href="#" class="card-link">link</a>-->
+
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
 
                                             </div>
@@ -257,10 +242,75 @@
 
 
                         </div>
+                        
+                        <!-- Galeria -->
 
                         <div class="tab-pane fade show " id="nav-item-03" role="tabpanel">
 
+                            <h1 class="mt-4 mb-4 text-center">Galeria</h1>
+                            <section>
+                                <h2 class="d-none">Galeria</h2>
+                                <article>
+                                    <h2 class="d-none">Galeria</h2>
+                                    <div class="row">
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid" src="../../_images/matheus/banksy-g1.jpg" title="Vagões de trem grafitados" alt="Vagões de trem grafitados" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/d4b_d4bs/">@d4b_d4bs</a></strong> em vagões de trem.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
 
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid" src="../../_images/matheus/banksy-g2.jpg" title="Carro de ponta cabeça grafitado" alt="Carro de ponta cabeça grafitado" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/bad_kid_d/">@bad_kid_d</a></strong> em um caminhão de ponta cabeça - Amsterdan, the Netherlands.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid" src="../../_images/matheus/izolag-g3.jpg" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/marcio_maizum/">@márcio_maizum</a></strong> em uma parede em via pública.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+
+                                        <div class="w-100 d-none d-lg-block"></div>
+
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid" src="../../_images/matheus/izolag-g4.jpg" title="Área de proteção de construção grafitada" alt="Área de proteção de construção grafitada" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/5okre/">@5okre</a></strong> na área de proteção de uma construção.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid" src="../../_images/matheus/shepard-g5.jpg" title="Miniatura de caminhão grafitado" alt="Miniatura de caminhão grafitado" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/abson.one/">@abson.one</a></strong> em uma miniatura de caminhão.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+
+                                        <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mt-4">
+                                            <figure class="gallery_border">
+                                                <img class="img-fluid gallery_adjust" src="../../_images/matheus/shepard-g6.jpg" title="Vagões de metrô grafitados" alt="Vagões de metrô grafitados" />
+                                                <figcaption class="mt-2">
+                                                    Grafite <em>Throu-Up</em> feito por <strong><a href="https://www.instagram.com/alicante_killerz/">@alicante_killerz</a></strong> em um metrô.
+                                                </figcaption>
+                                            </figure>
+                                        </div>
+                                    </div>
+                                </article>
+                            </section>
 
                         </div>
 
@@ -282,7 +332,7 @@
         <div class="modal-content">
 
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Banksy</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -303,7 +353,7 @@
         <div class="modal-content">
 
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Izolag</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -328,7 +378,7 @@
         <div class="modal-content">
 
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Bleck Le Rat</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -342,7 +392,7 @@
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
                 </figure>
-                <p>A voz de Black Le Rat foi bombardeada nas ruas de Paris nos anos 80, sendo que o stencil de rato sempre possuiu um tom de protesto político amarrado. Foi um dos pontos que deu o “start” do graffiti na Cidade Luz.</p>
+                <p>A voz de Bleck Le Rat foi bombardeada nas ruas de Paris nos anos 80, sendo que o stencil de rato sempre possuiu um tom de protesto político amarrado. Foi um dos pontos que deu o “start” do graffiti na Cidade Luz.</p>
                 <p>A importância de Le Rat para o cenário da street art é tão grande que ele influenciou muitos outros gigantes que viriam depois dele, como Banksy e Shepard Fairey (Obey).</p>
                 <p>Na verdade, tudo começou quando Xavier Prou teve seu primeiro contato com o graffiti em uma visita que fez à Nova York. O subúrbio estava coberto de bombs, tags e desenhos nos metrôs, quadras de basquete e pelas ruas da cidade americana.</p>
                 <p>Esta estética mexeu com O artista e o deixou inquieto, pois nunca ele tinha visto tal manifestação na sua cidade. Nesta época, havia apenas propaganda política e cartazes nas ruas de Paris.</p>
@@ -380,7 +430,7 @@
         <div class="modal-content">
 
             <div class="modal-header">
-                <h4 class="modal-title">modal</h4>
+                <h4 class="modal-title">Shepard Fairey</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>

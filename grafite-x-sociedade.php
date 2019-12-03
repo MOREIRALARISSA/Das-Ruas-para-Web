@@ -2,6 +2,7 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
+
 <main class="mt-4 mb-4">
     <div class="container">
         <article>
@@ -19,7 +20,7 @@
                 </div>
                 <div class="col-lg-5">
                     <figure>
-                        <img class="img-fluid" src="./_images/GrafitexSociedade/hellsKit1970s.jpg" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
+                        <img class="img-fluid" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
                         <figcaption>
                             Mural no Hell's Kitchen Playground nos anos 1970.
                         </figcaption>
@@ -35,7 +36,7 @@
                     Tal como o conhecemos, a história do grafite remonta ao final dos anos 1960 e início dos anos 1970 em cidades como Paris e Nova York, locais que começaram a mostrar em suas paredes as primeiras obras de artistas anônimos que buscavam se expressar.
                 </p>
                 <figure class="mt-5">
-                    <img class="img-fluid" src="./_images/GrafitexSociedade/1sTrainGrafite.jpg" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
+                    <img class="img-fluid" src="./_images/grafite-x-sociedade/1sTrainGrafite.jpg" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
                     <figcaption>
                         O primeiro trem a ser coberto por grafite | New York anos 1970.
                     </figcaption>
