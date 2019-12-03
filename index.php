@@ -47,7 +47,7 @@
 
                     <div class="col-8">
                     <a href="mitos-e-verdades.php"> <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="img-rounded col-12" alt="Pichação no centro da cidade de Belo Horizonte"> </a>
-                    <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime. Grafite não é.</a></h2>
+                    <h2 class="text-center txtimg"><a href="mitos-e-verdades.php">Pichação é crime!</a></h2>
                     </div>  
 
                     <div class="col-8">
@@ -58,7 +58,7 @@
                 </div>
   
 
-                <h2 class="text-left"> News</h2>
+            <h2 class="text-left"> News</h2>
             <div class="row m-1">
                 <div class="col-sm-6">
                     <div class="row m-1">
@@ -72,7 +72,7 @@
                                 <h3 class="titulo2-news text-center">Museu de Rua</h3>
                             </a>
                             <p class="text-justify">
-                            Uma iniciativa inédita de um coletivo de produtores culturais e artistas irá transformar ruas, praças e avenidas de Belo Horizonte em um galeria de arte a céu aberto.
+                            Uma iniciativa inédita de um coletivo de produtores culturais e artistas irá transformar ruas, praças e avenidas de Belo Horizonte em um galeria de arte a céu aberto. Neste sábado (7), das 10h às 19h, será a estreia do Museu de Rua! 
                             </p>
                             </div>
                     </div>
@@ -80,61 +80,61 @@
                 <div class="col-sm-6">
                     <div class="row m-1">
                         <div class="col-md-12 col-lg-6">
-                            <a href="#" data-toggle="modal" data-target="#noticia2">
-                                <img src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" class="d-block w-100 img-bordas" alt="">
+                            <a href="news.php">
+                              <img class="d-block w-100 img-roudend" src="./_images/news/osgemeos.jpg" alt="Irmãos Gustavo e Otávio Pandolfo na Pinacoteca"/>
                             </a>
                         </div>
                         <div class="col">
-                            <a href="#" data-toggle="modal" data-target="#noticia2">
-                                <h3 class="titulo2-news">Mauricio de Sousa e Macoto Tezka revelam novo quadrinho envolvendo a Amazônia</h3>
+                            <a href="news.php">
+                                <h3 class="titulo2-news">Os Gêmeos na Pinacoteca em 2020</h3>
                             </a>
-                            <p>Mauricio de Sousa e Macoto Tezka revelam parceria para terminar obra de Osamu Tezuka sobre a Amazônia.</p>
-                        </div>
+                            <p class="text-justify">
+                            Os Gêmeos, grafiteiros brasileiros que conquistaram todo o mundo com sua street art conquistaram um espaço para terem suas obras expostas na galeria da Pinacoteca.
+                            </p>
+                            </div>
                     </div>
                 </div>
             </div>
 
         </div>
+
+        
+        <h2 class="text-left mt-5 mb-3"> Artistas</h2>
         <div class="row">
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.png" alt="" />
+                <a href="_authors/larissa/index.php"> <img src="./_images/larissa/aryzperfil.jpg" alt=" Artista Aryz" class="img-fluid"> </a>
                     <figcaption>
-                        <strong>Texto temporário</strong>
+                        <strong>Aryz</strong>
                     </figcaption>
                 </figure>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
+            
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.png" alt="" />
+                <a href="_authors/larissa/index.php"><img src="./_images/anderson/artista-1.png" alt="Real Grapixo"></a>
                     <figcaption>
-                        <strong>Texto temporário</strong>
+                        <strong>Real Grapixo</strong>
                     </figcaption>
                 </figure>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
+              
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.png" alt="" />
+                <a href="_authors/adelina/index.php"><img src="./_images/adelina/TracyLeeStumperfil.jpg" alt="Artista Tracy Lee Stum"></a>
                     <figcaption>
-                        <strong>Texto temporário</strong>
+                        <strong>Tracy Lee Stum</strong>
                     </figcaption>
                 </figure>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
+                
             </div>
             <div class="col-3">
                 <figure>
-                    <img src="./_images/anderson/artista-1.png" alt="" />
+                <a href="_authors/adelina/index.php"><img src="./_images/matheus/izolag.jpg" alt="Artista Izolag"></a>
                     <figcaption>
-                        <strong>Texto temporário</strong>
+                        <strong>Izolag</strong>
                     </figcaption>
                 </figure>
-                <p>Austro securae derecti quicquam toto plagae mare praecipites feras, super orba quarum radiis inclusum mortales
-                    madescit umor aere conversa undas tegi</p>
             </div>
         </div>
 
