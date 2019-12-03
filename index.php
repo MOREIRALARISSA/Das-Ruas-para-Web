@@ -178,10 +178,6 @@
 
     <img src="./_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha" class="img-fluid d-block">
         <div class="carousel-caption d-none d-md-block">
-
-            <h3></h3>
-            <p></p>
-
         </div>
 
     </div>
