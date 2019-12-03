@@ -12,7 +12,7 @@
                         O grafite é uma verdadeira obra de arte, capaz de modificar lugares – sem falar que são formas de manifestações artísticas em espaços públicos. Aqui no Brasil, existem grandes nomes que espalham cores e desenhos pelas paredes e calçadas do país, sendo a cidade de São Paulo um dos lugares preferidos para se observar esse tipo de arte.
                     </p>
                     <p class="text-left">
-                        Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas. Pensando nisso, <a href="guiadasemana.com.br/viagens-internacionais/galeria/grafites-incriveis-ao-redor-do-mundo"> o Guia da Semana</a> fez uma lista 10 grafites incríveis ao redor do mundo que você precisa conhecer. Confira:
+                        Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas. Confira:
                     </p>
                 </div>
             </article>

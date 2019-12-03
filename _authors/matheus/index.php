@@ -48,7 +48,7 @@
                                 <div class="row justify-content-center">
 
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center">
-                                        <img src="../../_images/matheus/sobre1.jpg" class="img-fluid" alt="" />
+                                        <img src="../../_images/matheus/sobre1.jpg" class="img-fluid" alt="grafite Menina com balão do Banksy, menina com a mão para cima  " />
                                     </div>
 
 
