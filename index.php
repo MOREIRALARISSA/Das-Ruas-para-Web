@@ -12,7 +12,8 @@
         <div class="row">
 
             <div class="col-lg-4 col-md-4 col-md-4 mt-5">
-                <h1> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
+                <h1 class="d-none"> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
+                <h2 class="text-center"> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
                 <p class="text-justify">
                     Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
                 </p>
