@@ -150,3 +150,10 @@ main {
 .nav-pills .nav-link.active {
     background-color: #301F56;
 }
+
+
+/* ********************** HOME ********************** */
+
+.txtimg {
+    font-size: medium;
+}
