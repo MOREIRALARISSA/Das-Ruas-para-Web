@@ -64,7 +64,7 @@
                     <div class="row m-1">
                         <div class="col-md-12 col-lg-6">
                             <a href="news.php">
-                            <img src="./_images/news/museuderua.jpg" class="d-block w-100 img-roudend" alt="Projeto Museu de Rua BH">
+                            <img src="./_images/news/museuderua.jpg" class="d-block w-100 roudend img-fluid" alt="Projeto Museu de Rua BH">
                             </a>
                         </div>
                         <div class="col">
@@ -81,7 +81,7 @@
                     <div class="row m-1">
                         <div class="col-md-12 col-lg-6">
                             <a href="news.php">
-                              <img class="d-block w-100 img-roudend" src="./_images/news/osgemeos.jpg" alt="Irmãos Gustavo e Otávio Pandolfo na Pinacoteca"/>
+                              <img class="d-block w-100 roudend img-fluid" src="./_images/news/osgemeos.jpg" alt="Irmãos Gustavo e Otávio Pandolfo na Pinacoteca"/>
                             </a>
                         </div>
                         <div class="col">
@@ -103,7 +103,7 @@
         <div class="row mt-4">
             <div class="col-3">
                 <figure>
-                <a href="_authors/larissa/index.php"> <img src="./_images/larissa/aryzperfil.jpg" alt=" Artista Aryz" class="img-fluid"> </a>
+                <a href="_authors/larissa/index.php"> <img src="./_images/larissa/aryzperfil.jpg" alt=" Artista Aryz" class="img-fluid rounded img-thumbnail"> </a>
                     <figcaption>
                         <strong>Aryz</strong>
                     </figcaption>
@@ -112,7 +112,7 @@
             </div>
             <div class="col-3">
                 <figure>
-                <a href="_authors/larissa/index.php"><img src="./_images/anderson/artista-1.png" alt="Real Grapixo"></a>
+                <a href="_authors/larissa/index.php"><img src="./_images/anderson/artista-1.png" alt="Real Grapixo" class="img-fluid rounded img-thumbnail"></a>
                     <figcaption>
                         <strong>Real Grapixo</strong>
                     </figcaption>
@@ -121,7 +121,7 @@
             </div>
             <div class="col-3">
                 <figure>
-                <a href="_authors/adelina/index.php"><img src="./_images/adelina/TracyLeeStumperfil.jpg" alt="Artista Tracy Lee Stum"></a>
+                <a href="_authors/adelina/index.php"><img src="./_images/adelina/TracyLeeStumperfil.jpg" alt="Artista Tracy Lee Stum" class="img-fluid rounded img-thumbnail"></a>
                     <figcaption>
                         <strong>Tracy Lee Stum</strong>
                     </figcaption>
@@ -137,56 +137,6 @@
                 </figure>
             </div>
         </div>
-
- <h2 class="text-left mt-5 mb-3"> Galeria</h2>
-<div id="carouselSite" class="carousel slide" data-ride="carousel">
-
-<ol class="carousel-indicators">
-
-    <li data-target="#carouselSite" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselSite" data-slide-to="1"></li>
-    <li data-target="#carouselSite" data-slide-to="2"></li>
-
-</ol>
-
-<div class="carousel-inner">
-
-    <div class="carousel-item active">
-     <img src="_images/matheus/shepard-g5.jpg" class="img-fluid d-block">
-    </div>
-
-    <div class="carousel-item">
-        <img src="./_images/larissa/siria.jpeg" alt="Maior mural Grafite da Síria" class="img-fluid d-block">
-     </div>
-
-    <div class="carousel-item">
-        <img src="./_images/matheus/izolag-g3.jpg" class="img-fluid img-fluid d-block" title="Parede de via pública grafitada" alt="Parede de via pública grafitada" /> 
-    </div>
-
-    <div class="carousel-item">
-        <img src="./_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha" class="img-fluid d-block">
-    </div>
-    
-</div>
-
-<a class="carousel-control-prev" href="#carouselSite" role="button" data-slide="prev">
-
-    <span class="carousel-control-prev-icon"></span>
-    <span class="sr-only">Anterior</span>
-
-</a>
-
-<a class="carousel-control-next" id="#carouselSite" role="button" data-slide="next">
-
-    <span class="carousel-control-next-icon"></span>
-    <span class="sr-only">Avançar</span>
-
-</a>
-
-</div>
-
-
-
         <div>
         <h2 class="text-left mt-4 mb-4"> Estilos</h2>
         <div class="row mt-4">     
@@ -207,6 +157,7 @@
                 </div>
             </div>
         </div>
+
         <div class="row mt-4">
             <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
                 <div class="card">
