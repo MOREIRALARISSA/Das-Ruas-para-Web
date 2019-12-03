@@ -3,17 +3,17 @@
     //Incluido o menu de navegação
 ?>
 <main class="mt-3 mb-4">
-    <div class="mx-5">      
+    <div class="mx-5">
         <div class="row">
             <article>
                 <div class="col-12 text-center mt-3">
                     <h1 class="mb-4">Grafite no mundo</h1>
                     <p class="text-left">
-                        O grafite é uma verdadeira obra de arte, capaz de modificar lugares – sem falar que são formas de manifestações artísticas em espaços públicos. Aqui no Brasil, existem grandes nomes que espalham cores e desenhos pelas paredes e calçadas do país, sendo a cidade de São Paulo um dos lugares preferidos para se observar esse tipo de arte.        
+                        O grafite é uma verdadeira obra de arte, capaz de modificar lugares – sem falar que são formas de manifestações artísticas em espaços públicos. Aqui no Brasil, existem grandes nomes que espalham cores e desenhos pelas paredes e calçadas do país, sendo a cidade de São Paulo um dos lugares preferidos para se observar esse tipo de arte.
                     </p>
                     <p class="text-left">
                         Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas. Pensando nisso, <a href="guiadasemana.com.br/viagens-internacionais/galeria/grafites-incriveis-ao-redor-do-mundo"> o Guia da Semana</a> fez uma lista 10 grafites incríveis ao redor do mundo que você precisa conhecer. Confira:
-                    </p>       
+                    </p>
                 </div>
             </article>
         </div>
@@ -31,7 +31,7 @@
                     </nav>
                 </div>
                 <div class="col-lg-9 col-md-9 col-sm-12 col-12">
-                    <div data-spy="scroll" data-target="#navbarVertical" data-offset="0" class="scrollspySite mt-4">       
+                    <div data-spy="scroll" data-target="#navbarVertical" data-offset="0" class="scrollspySite mt-4">
                         <h3 id="item1" class="text-center mt-5 mb-3">BRASIL</h3>
                         <h4 class="mt-3 mb-3">Kobra</h4>
                         <p>
@@ -53,8 +53,8 @@
                                     Foi oferecida ao brasileiro uma convidativa parede de 11 metros de altura por 17 de largura, localizada bem acima do muro da oficina e estrategicamente posicionada no horizonte de quem passava pelo High Line, o ramal ferroviário desativado que virou parque suspenso e um dos mais badalados points de Manhattan.
                                 </p>
                                 <p>
-                                Para esse grande painel, mantendo sua máquina do tempo na Times Square de 1945, Kobra recuperou a mais conhecida das imagens da comemoração da vitória dos Estados Unidos sobre o Japão na Segunda Guerra Mundial, o arrebatador beijo do marinheiro George Mendonsa e da enfermeira Greta Friedman, e adicionou uma explosão de cores à icônica fotografia de Alfred Eisenstaedt. Instantaneamente,
-                                a capital do mundo ganhou uma nova atração turística: visitantes passaram a se aglomerar no High Line para clicar o Beijo, Também foi apontada como um dos 10 pontos mais fotografados em selfies em Nova York.
+                                    Para esse grande painel, mantendo sua máquina do tempo na Times Square de 1945, Kobra recuperou a mais conhecida das imagens da comemoração da vitória dos Estados Unidos sobre o Japão na Segunda Guerra Mundial, o arrebatador beijo do marinheiro George Mendonsa e da enfermeira Greta Friedman, e adicionou uma explosão de cores à icônica fotografia de Alfred Eisenstaedt. Instantaneamente,
+                                    a capital do mundo ganhou uma nova atração turística: visitantes passaram a se aglomerar no High Line para clicar o Beijo, Também foi apontada como um dos 10 pontos mais fotografados em selfies em Nova York.
                                 </p>
                             </div>
                             <div class="col-lg-12">
@@ -203,14 +203,14 @@
                         <h3 id="item5" class="text-center mt-5 mb-3"> AUSTRÁLIA</h3>
                         <h4 class="mt-3 mb-3">Smug</h4>
                         <p>
-                        Nascido em uma pequena cidade australiana a cerca de três horas de Sydney, Smug sempre se interessou por arte. O interessante é que, apesar de desenhar por anos, não foi até ele se formar no colegial que ele realmente pegou uma lata de spray e começou a mirar nas paredes em vez de nas páginas dos livros. Quando era mais novo, o artista patinava e passeava pelas ruas com seus amigos, escrevendo seus nomes nas paredes e ouvindo hip-hop. O grafite era uma grande parte dessa cultura, então tudo veio ao lugar certo. Questionado sobre seu nome artístico, Smug afirma que ele nem se lembra de como recebeu o seu. Na época, ele etiquetou usando vários nomes, mas Smug de alguma forma permaneceu. Ele ainda se inspira no amigo que vê regularmente, escritores com quem trabalha regularmente. As pessoas que fazem parte de sua vida cotidiana são as pessoas que o pressionam a se tornar uma pessoa melhor e um artista melhor.
-                        </p>                      
+                            Nascido em uma pequena cidade australiana a cerca de três horas de Sydney, Smug sempre se interessou por arte. O interessante é que, apesar de desenhar por anos, não foi até ele se formar no colegial que ele realmente pegou uma lata de spray e começou a mirar nas paredes em vez de nas páginas dos livros. Quando era mais novo, o artista patinava e passeava pelas ruas com seus amigos, escrevendo seus nomes nas paredes e ouvindo hip-hop. O grafite era uma grande parte dessa cultura, então tudo veio ao lugar certo. Questionado sobre seu nome artístico, Smug afirma que ele nem se lembra de como recebeu o seu. Na época, ele etiquetou usando vários nomes, mas Smug de alguma forma permaneceu. Ele ainda se inspira no amigo que vê regularmente, escritores com quem trabalha regularmente. As pessoas que fazem parte de sua vida cotidiana são as pessoas que o pressionam a se tornar uma pessoa melhor e um artista melhor.
+                        </p>
                         <p>
-                        Conhecido por seu trabalho de grafite em realismo fotográfico, Smug , ou Smug One , também conhecido como Sam Bates, é um artista de rua contemporâneo australiano de grande habilidade. Usando nada além de latas de spray, ele conseguiu dominar uma tarefa difícil de criar peças altamente técnicas que são de alguma forma nervosas, atrevidas e incrivelmente divertidas. A fim de recriar o realismo absoluto, os artistas geralmente têm muito tempo em mãos, pincéis minúsculos e precisos e um espaço de trabalho silencioso onde ninguém os perturbará. Essas são as três coisas que nenhum dos grafiteiros tem à sua disposição e, no entanto, algumas delas, o Smug sendo o exemplo perfeito, são capazes de criar incríveis peças de parede em larga escala que parecem ser fotografias. Dificilmente existe um elogio de maior significado para qualquer artista que tenta trabalhar no realismo fotográfico.
+                            Conhecido por seu trabalho de grafite em realismo fotográfico, Smug , ou Smug One , também conhecido como Sam Bates, é um artista de rua contemporâneo australiano de grande habilidade. Usando nada além de latas de spray, ele conseguiu dominar uma tarefa difícil de criar peças altamente técnicas que são de alguma forma nervosas, atrevidas e incrivelmente divertidas. A fim de recriar o realismo absoluto, os artistas geralmente têm muito tempo em mãos, pincéis minúsculos e precisos e um espaço de trabalho silencioso onde ninguém os perturbará. Essas são as três coisas que nenhum dos grafiteiros tem à sua disposição e, no entanto, algumas delas, o Smug sendo o exemplo perfeito, são capazes de criar incríveis peças de parede em larga escala que parecem ser fotografias. Dificilmente existe um elogio de maior significado para qualquer artista que tenta trabalhar no realismo fotográfico.
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                            <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
+                                <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
                                 <figure>
                                     <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" alt="" />
                                     <figcaption class="text-justify">
@@ -221,9 +221,9 @@
                         </div>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                            <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
+                                <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
                                 <figure>
-                                <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" alt="" />
                                     <figcaption class="text-justify">
                                         Foto Brian Tallman
                                     </figcaption>

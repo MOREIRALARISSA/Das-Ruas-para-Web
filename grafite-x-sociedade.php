@@ -2,6 +2,7 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
+
 <main class="mt-4 mb-4">
     <div class="container">
         <article>
