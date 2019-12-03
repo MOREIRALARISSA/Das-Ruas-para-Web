@@ -138,49 +138,53 @@
                     madescit umor aere conversa undas tegi</p>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-6 col-md-6">
-                <figure>
-                    <a href="_authors/igor/index.php"> <img src="_images/estilos/freestyle.png" class="img-fluid rounded" alt="..."> </a>
-                    <figcaption>
-                        <strong>Algo sobre o estilo</strong>
-                    </figcaption>
-                </figure>
+
+        <div>
+        <h2 class="text-left mt-4 mb-4"> Estilos</h2>
+        <div class="row justify-content-center">        
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="card" style="height: 16rem; width: 18rem;">
+                    <a href="_authors/igor/index.php"> <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="..."> </a>
+                    <div class="card-body">
+                    <a href="_authors/igor/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
+                    </div>
+                </div>
             </div>
-            <div class="col-lg-6 col-md-6">
-                <figure>
-                    <a href="_authors/anderson/index.php"> <img src="_images/estilos/throwup.png" class="img-fluid rounded" alt="..."></a>
-                    <figcaption>
-                        <strong>Algo sobre o estilo</strong>
-                    </figcaption>
-                </figure>
+            <div class="col-lg-6 col-md-6 mb-4">
+                <div class="card" style="height: 16rem; width: 18rem;">
+                    <a href="_authors/anderson/index.php"> <img class="card-img-top rounded" src="_images/estilos/throwup.png" alt="..."></a>
+                    <div class="card-body">
+                    <a href="_authors/anderson/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-4 col-md-4">
-                <figure>
-                    <a href="_authors/matheus/index.php"> <img src="_images/estilos/stencil.png" class="img-fluid rounded" alt="..."></a>
-                    <figcaption>
-                        <strong>Algo sobre o estilo</strong>
-                    </figcaption>
-                </figure>
+                <div class="card" style="height: 16rem; width: 18rem;">
+                    <a href="_authors/matheus/index.php"> <img class="card-img-top rounded" src="_images/estilos/stencil.png" alt="..."></a>
+                    <div class="card-body">
+                    <a href="_authors/matheus/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
+                    </div>
+                </div>
             </div>
             <div class="col-lg-4 col-md-4">
-                <figure>
-                    <a href="_authors/larissa/index.php"> <img src="_images/estilos/mural.png" class="img-fluid rounded" alt="..."></a>
-                    <figcaption>
-                        <strong>Algo sobre o estilo</strong>
-                    </figcaption>
-                </figure>
+                <div class="card" style="height: 16rem; width: 18rem;">
+                    <a href="_authors/larissa/index.php"><img class="card-img-top rounded" src="_images/estilos/mural.png" alt="..."></a>
+                    <div class="card-body">
+                    <a href="_authors/larissa/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
+                    </div>
+                </div>
             </div>
             <div class="col-lg-4 col-md-4">
-                <figure>
-                    <a href="_authors/adelina/index.php"> <img src="_images/estilos/3d.png" class="img-fluid rounded" alt="..."> </a>
-                    <figcaption>
-                        <strong>Algo sobre o estilo</strong>
-                    </figcaption>
-                </figure>
+                <div class="card" style="height: 16rem; width: 18rem;">
+                    <a href="_authors/adelina/index.php"><img class="card-img-top rounded" src="_images/estilos/3d.png" alt="Imagem de capa 3D"></a>
+                    <div class="card-body">
+                        <a href="_authors/adelina/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
+                    </div>
+                </div>
             </div>
+        </div>
         </div>
     </div>
 </main>
