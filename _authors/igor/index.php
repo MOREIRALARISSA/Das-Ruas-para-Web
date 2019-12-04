@@ -81,7 +81,7 @@
                                                 <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
                                             </ul>
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                             
                                                 <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistasB">Saiba mais</a>
                                             </div>
@@ -111,7 +111,7 @@
                                                 <!-- <li class="list-group-item">Filmes: Saída Pela Loja, The Antics Roadshow, Rebel Rocket Attack</li>-->
                                             </ul>
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                               
                                                 <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistasC">Saiba mais</a>
                                             </div>
@@ -138,7 +138,7 @@
                                                 <li class="list-group-item">Artista de rua, Desenhista, Muralista, Grafiteira</li>
                                             </ul>
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                              
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
                                             </div>
                                         </div>
@@ -161,7 +161,7 @@
                                                 <li class="list-group-item">. Ilustrador, grafiteiro e graduado em Design Gráfico pela FUMEC.</li>
                                             </ul>
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                                
                                                 <!-- <a href="#" class="card-link">link</a>-->
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistasR">Saiba mais</a>
                                             </div>

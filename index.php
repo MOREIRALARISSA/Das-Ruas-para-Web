@@ -13,12 +13,12 @@
 
             <div class="col-lg-4 col-md-4 col-md-4 mt-5">
                 <h1 class="d-none"> <a href="quem-somos.php"> Das Ruas para Web </a></h1>
-                <h2 class="text-center"> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
-                <p class="text-justify">
+                <h2 class="text-center mt-5"> <a href="quem-somos.php"> Das Ruas para Web </a></h2>
+                <p class="text-justify mb-5">
                     Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
                 </p>
 
-                <h2 class="text-center"> <a href="grafite-no-mundo.php">Grafite no Mundo </a></h2>
+                <h2 class="text-center mt-5"> <a href="grafite-no-mundo.php">Grafite no Mundo </a></h2>
                 <p class="text-justify">
                      Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas.<a href="grafite-no-mundo.php"> Confira! </a>
                 
@@ -57,7 +57,7 @@
                 </div>
   
 
-            <h2 class="text-left"> News</h2>
+            <h2 class="text-left">News</h2>
             <div class="row m-1">
                 <div class="col-sm-6">
                     <div class="row m-1">
@@ -90,7 +90,7 @@
                             <p class="text-justify">
                             Os Gêmeos, grafiteiros brasileiros que conquistaram todo o mundo com sua street art conquistaram um espaço para terem suas obras expostas na galeria da Pinacoteca.
                             </p>
-                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -98,7 +98,7 @@
         </div>
 
         
-        <h2 class="text-left mt-5 mb-3"> Artistas</h2>
+        <h2 class="text-left mt-5 mb-3">Artistas</h2>
         <div class="row mt-4">
             <div class="col-3">
                 <figure>
@@ -137,7 +137,7 @@
             </div>
         </div>
         <div>
-        <h2 class="text-left mt-4 mb-4"> Estilos</h2>
+        <h2 class="text-left mt-4 mb-4">Estilos</h2>
         <div class="row mt-4">     
             <div class="col-lg-3 offset-lg-2 col-md-3 offset-md-2 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
                 <div class="card">

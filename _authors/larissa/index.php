@@ -83,7 +83,7 @@
                                                     <li class="list-group-item">Artista, Pintor, Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -105,7 +105,7 @@
                                                     <li class="list-group-item">Artivista, Artista de rua, Desenhista e Grafiteiro</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -128,7 +128,7 @@
                                                     <li class="list-group-item">Artista de rua e Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -149,7 +149,7 @@
                                                     <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
                                                 </div>
                                             </div>

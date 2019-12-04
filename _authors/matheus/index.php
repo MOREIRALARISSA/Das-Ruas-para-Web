@@ -109,8 +109,6 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
-
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
 
                                             </div>
@@ -148,8 +146,6 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
-
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
 
                                             </div>
@@ -185,8 +181,6 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
-
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
 
                                             </div>
@@ -219,8 +213,6 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
-
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
 
                                             </div>
