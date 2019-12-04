@@ -286,7 +286,8 @@
     </div>
 </main>
 
-<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog"  aria-hidden="true">
+<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" 
+ aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
