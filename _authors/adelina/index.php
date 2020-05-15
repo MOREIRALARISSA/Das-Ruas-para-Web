@@ -93,8 +93,7 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
-
+                                                
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas">Saiba mais</a>
 
                                             </div>
@@ -129,7 +128,7 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                                
 
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
 
@@ -168,7 +167,7 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                                
 
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
 
@@ -202,7 +201,7 @@
                                             </ul>
 
                                             <div class="card-body">
-                                                <img src="../../_images/anderson/icon.png" alt="" />
+                                               
                                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
 
                                             </div>
@@ -287,7 +286,8 @@
     </div>
 </main>
 
-<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" aria-labelledby="modalArtitas" aria-hidden="true">
+<div class="modal fade" id="modalArtistas" tabindex="-1" role="dialog" 
+ aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -315,7 +315,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -341,7 +341,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 
@@ -366,7 +366,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
 

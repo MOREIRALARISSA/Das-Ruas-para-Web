@@ -19,7 +19,7 @@
                             <small>Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
+                            <p>Adelina Ferreira é estudante do curso sistemas para intenet na fatec de São Roque, ela ama arte conteporanea </p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/adelina/index.php">3D</a></div>
                             <!--                <div><a href="#">Pages centers</a></div>-->
@@ -38,7 +38,7 @@
                             <small>Manager | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
+                            <p>Anderson Antunes, atleta de fim de semana, aspirante em tecnologia / programação.</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/anderson/index.php">Throwup</a></div>
                             <div><a>Pages centers</a></div>
@@ -98,7 +98,7 @@
                             <small>Leather | Coder</small>
                             <p>RA: <strong>2650831913016</strong></p>
                             <hr>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
+                            <p>Matheus Felipe aluno da Fatec São Roque, iniciante em programação e amante de Video Games</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/matheus/index.php">Stencil</a></div>
                             <div><a>Pages centers</a></div>

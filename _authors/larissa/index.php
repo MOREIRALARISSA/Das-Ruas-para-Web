@@ -83,14 +83,14 @@
                                                     <li class="list-group-item">Artista, Pintor, Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo2"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/kobraperfil.jpg" alt="Kobra" class="img-fluid">
                                                 </div>
@@ -105,7 +105,7 @@
                                                     <li class="list-group-item">Artivista, Artista de rua, Desenhista e Grafiteiro</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                    
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -114,7 +114,7 @@
                                     <div class="row justify-content-lg-center mb-5">
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo3"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/kueiaperfil.jpg" alt="Kueia" class="img-fluid">
                                                 </div>
@@ -128,20 +128,20 @@
                                                     <li class="list-group-item">Artista de rua e Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4">
                                             <div class="card">
-                                                <div class="card-fundo"></div>
+                                                <div class="card-fundo4"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Crica Monteiro</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h3>
+                                                    <h3 class="card-title font-weight-bold">Crica Monteiro</h3>
+                                                    <h4 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h4>
                                                     <p class="card-text">Comecou a grafitar ainda na adolescência e hoje é ilustratoda na MSP.</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
@@ -149,7 +149,7 @@
                                                     <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    <img src="../../_images/anderson/icon.png" alt="" />
+                                                 
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -218,7 +218,7 @@
 </main>
 
 <!-- Modal -->
-<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog" aria-labelledby="modalArtitas1" aria-hidden="true">
+<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -253,7 +253,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-labelledby="modalArtitas2" aria-hidden="true">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -301,7 +301,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-labelledby="modalArtitas3" aria-hidden="true">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -330,7 +330,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-labelledby="modalArtitas4" aria-hidden="true">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog"  aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
