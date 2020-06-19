@@ -27,7 +27,9 @@
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichações em prédio na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" 
+                                alt="Pichações em prédio abandonado na cidade de Belo Horizonte" 
+                                title="Pichações em prédio na cidade de Belo Horizonte" />
                             <figcaption>
                                 Pichações em prédio na cidade de Belo Horizonte.
                             </figcaption>
@@ -35,7 +37,9 @@
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/grafites-centro-bh.jpg" alt="Grafites em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/grafites-centro-bh.jpg" 
+                                alt="Grafites na parte exterior em prédios na cidade de Belo Horizonte" 
+                                title="Grafites em prédios na cidade de Belo Horizonte" />
                             <figcaption>
                                 Grafites em prédios na cidade de Belo Horizonte.
                             </figcaption>
@@ -84,7 +88,9 @@
                 <div class=" row justify-content-center mt-5">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/museuderua.jpg" alt="Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/museuderua.jpg" 
+                                alt="Muro de escola pintado por vários grafiteiros. Museu de Rua reúne 30 artistas para revitalizar muro de escola." 
+                                title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
                             <figcaption>
                                 Museu de Rua reúne 30 artistas para revitalizar muro de escola.
                             </figcaption>
@@ -92,7 +98,9 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/beco-do-batman.jpg" alt="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/beco-do-batman.jpg" 
+                                alt="Muro de uma casa totalmente grafitado. Grafites localizados no Beco do Batman na Vila Madalena, São Paulo."
+                                title="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
                             <figcaption>
                                 Grafites localizados no Beco do Batman na Vila Madalena, São Paulo.
                             </figcaption>
