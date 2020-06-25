@@ -141,7 +141,8 @@
         <div class="row mt-4">     
             <div class="col-lg-3 offset-lg-2 col-md-3 offset-md-2 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
                 <div class="card">
-                    <a href="_authors/igor/index.php"> <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="Imagem capa Grafite Freestyle"> </a>
+                    <a href="_authors/igor/index.php" arial-label="Link para o estilo Free Style"> 
+                        <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="Imagem capa Grafite Freestyle"> </a>
                     <div class="card-body">
                     <a href="_authors/igor/index.php"><p class="card-text text-right"><strong>Saiba mais</strong></p>
                     </div>
