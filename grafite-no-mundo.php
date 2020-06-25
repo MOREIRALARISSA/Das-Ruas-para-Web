@@ -41,7 +41,8 @@
                             <div class="col-lg-12">
                                 <h5>O Beijo</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/kobra.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/kobra.jpg" 
+                                        alt="Beijo do marinheiro George Mendonsa e da enfermeira Greta Friedman com várias cores ao redor." />
                                     <figcaption class="text-justify">
                                         Foto Cristina Mueller
                                     </figcaption>
@@ -60,7 +61,8 @@
                             <div class="col-lg-12">
                                 <h5>Tupac E Notorius B.I.G.</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/KobraMiami.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/KobraMiami.jpg" 
+                                        alt="Painel desenhado com a mistura dos rappers TuPac Shakur e Notorious B.I.G. num mesmo rosto. " />
                                     <figcaption class="text-justify">
                                         Foto Rom Levy
                                     </figcaption>
@@ -82,7 +84,8 @@
                             <div class="col-lg-12">
                                 <h5> Love is in the Air </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/soldierbanksy.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/soldierbanksy.jpg" 
+                                        alt="Manifestante com rosto coberto por uma máscara branca fazendo movimento como se fosse atirar um coquetel explosivo, entretanto, o que ele carrega é um ramo de flores. 
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -105,7 +108,8 @@
                             <div class="col-lg-12">
                                 <h5>Girl with ballon</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/girlbanksy.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/girlbanksy.jpg" 
+                                        alt="Uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -140,7 +144,8 @@
                             <div class="col-lg-12">
                                 <h5> Liberty Remembers </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericantes.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericantes.jpg" 
+                                        alt="Parede antiga com coloração alaranjada." />
                                     <figcaption class="text-justify">
                                         ANTES
                                     </figcaption>
@@ -150,8 +155,8 @@
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericdepois.jpg" alt="" />
-
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericdepois.jpg" 
+                                        alt="O mural apresenta a prede alaranjada pintada com a Lady Liberty segurando um soldado moribundo nos braços." />
                                     <figcaption class="text-justify">
                                         DEPOIS
                                     </figcaption>
@@ -161,8 +166,8 @@
                                 </p>
                                 <div class="col-lg-12">
                                     <figure>
-                                        <img class="img-fluid" src="./_images/grafite-no-mundo/ericsoldados.jpg" alt="" />
-
+                                        <img class="img-fluid" src="./_images/grafite-no-mundo/ericsoldados.jpg" 
+                                            alt="veteranos retratados em Liberty Remembers abrangem o serviço militar americano da Revolução Americana em 1775 a 2001." />
                                         <figcaption class="text-justify">
                                             Soldados
                                         </figcaption>
@@ -186,14 +191,16 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox.jpg" 
+                                        alt="Homem desenhado com traços distorcidos como se estivesse segurando um instrumento musical de sopro." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
                                 </figure>
                                 <h4 class="mt-3 mb-3">Bushwick, Nova Iorque, Estados Unidos</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox2.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox2.jpg" 
+                                        alt="Dois homens com traços distorcidos um ao lado do outro." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -212,7 +219,8 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" 
+                                        alt="Mural em 3D com uma mulher deitada com dois gatos." />
                                     <figcaption class="text-justify">
                                         Foto Dean Sunshine
                                     </figcaption>
@@ -223,7 +231,8 @@
                             <div class="col-lg-12">
                                 <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" alt="" />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" 
+                                        alt="Parede externa de uma casa com grafite 3D de um trabalhador." />
                                     <figcaption class="text-justify">
                                         Foto Brian Tallman
                                     </figcaption>

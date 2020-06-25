@@ -20,7 +20,9 @@
                 </div>
                 <div class="col-lg-5">
                     <figure>
-                        <img class="img-fluid" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" alt=" Mural no Hell's Kitchen Playground nos anos 1970." title="Mural Hell's Kitchen 1970" />
+                        <img class="img-fluid" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" 
+                            alt=" Mural feito no Hell's Kitchen Playground nos anos 1970, pessoas caminhando lado a lado." 
+                            title="Mural Hell's Kitchen 1970" />
                         <figcaption>
                             Mural no Hell's Kitchen Playground nos anos 1970.
                         </figcaption>
@@ -36,7 +38,9 @@
                     Tal como o conhecemos, a história do grafite remonta ao final dos anos 1960 e início dos anos 1970 em cidades como Paris e Nova York, locais que começaram a mostrar em suas paredes as primeiras obras de artistas anônimos que buscavam se expressar.
                 </p>
                 <figure class="mt-5">
-                    <img class="img-fluid" src="./_images/grafite-x-sociedade/1sTrainGrafite.jpg" alt="O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
+                    <img class="img-fluid" src="./_images/grafite-x-sociedade/1sTrainGrafite.jpg" 
+                        alt="Trem abandonado pintado com grafite na porta de entrada. O primeiro trem a ser coberto por grafite | New York anos 1970." 
+                        title="O primeiro trem a ser coberto por grafite" />
                     <figcaption>
                         O primeiro trem a ser coberto por grafite | New York anos 1970.
                     </figcaption>

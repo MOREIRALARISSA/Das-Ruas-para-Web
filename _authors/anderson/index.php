@@ -35,7 +35,7 @@
                             <article>
                                 <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Desenho da dianteira de um caminhão cinza" alt="Desenho da dianteira de um caminhão cinza" />
                                     </div>
 
                                         <h2 class="d-none">Sobre</h2>
@@ -61,7 +61,7 @@
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois"/>
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" title="Desenho da traseira de um caminhão cinza" alt="Desenho da traseira de um caminhão cinza"/>
                                     </div>
                                 </div>
                             </article>
