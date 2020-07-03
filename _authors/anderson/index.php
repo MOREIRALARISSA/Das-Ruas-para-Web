@@ -31,17 +31,14 @@
                     <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active mt-5" id="nav-item-01" role="tabpanel">
-                            <h1 class="mt-4 mb-4 d-none"> SOBRE </h1>
+                            <h1 class="mt-4 mb-4 d-none"> About </h1>
                             <article>
                                 <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" title="Desenho da dianteira de um caminhão cinza" alt="Desenho da dianteira de um caminhão cinza" />
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="Desenho da dianteira de um caminhão cinza" />
                                     </div>
-
-                                        <h2 class="d-none">Sobre</h2>
-
+                                    <h2 class="d-none">Sobre</h2>
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
-
                                         <p>
                                             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
                                             ou conhecidos como <em>BOMB’s</em> por serem mais fáceis, econômicos, e geralmente feitos em lugares não autorizados.
@@ -61,7 +58,7 @@
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" title="Desenho da traseira de um caminhão cinza" alt="Desenho da traseira de um caminhão cinza"/>
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="Desenho da traseira de um caminhão cinza"/>
                                     </div>
                                 </div>
                             </article>
