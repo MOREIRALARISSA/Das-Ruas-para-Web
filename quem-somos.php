@@ -10,7 +10,7 @@
             <div class="row justify-content-lg-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
-                        <div class="card-fundo w-100"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
+                        <div class="card-fundo w-100"><img class="img-fluid" src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/adelina.jpg" alt="Adelina">
                         </div>
@@ -29,7 +29,7 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
-                        <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
+                        <div class="card-fundo"><img class="img-fluid" src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/anderson.jpg" alt="Anderson">
                         </div>
@@ -48,7 +48,7 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
-                        <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
+                        <div class="card-fundo"><img class="img-fluid" src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/igor.jpg" alt="Igor">
                         </div>
@@ -69,7 +69,7 @@
             <div class="row justify-content-lg-center mb-5">
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
-                        <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
+                        <div class="card-fundo"><img class="img-fluid" src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
                             <img src="_images/quem-somos/larissa.jpg" alt="Larissa">
                         </div>
@@ -89,9 +89,9 @@
 
                 <div class="col-lg-4 col-md-6 col-sm-12">
                     <div class="card mt-2 mb-3 cardb">
-                        <div class="card-fundo"><img src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
+                        <div class="card-fundo"><img class="img-fluid" src="_images/quem-somos/fundo-larissa.jpg" alt="Adelina"></div>
                         <div class="avatar mx-auto">
-                            <img src="_images/quem-somos/matheus.jpg" alt="Matheus">
+                        <!--    <img src="_images/quem-somos/matheus.jpg" alt="Matheus"> -->
                         </div>
                         <div class="card-body">
                             <h4 class="card-title font-weight-bold">Vitor</h4>

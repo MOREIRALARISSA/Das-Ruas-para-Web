@@ -98,9 +98,11 @@ figcaption {
 }
 
 .colorh {
-    background-color: #ffffff !important;
+    /*background-color: #523652 !important;*/
+    color: #301F56 !important;
     font-size: 1.4rem;
 }
+
 
 .colorh img {
     margin: 0 auto;
@@ -137,13 +139,9 @@ figcaption {
     }
 }
 
-/* **************** MAIN ************* */
 
-main {
-    color: #081424 !important;
-}
 
-/*  ********************** NEWS ***********************/
+/*  ********************** nav ***********************/
 
 .colorb {
     background-color: #081424 !important;
@@ -151,10 +149,13 @@ main {
 
 .btn-secondary {
     color: #081424 !important;
-    background-color: #081424 !important;
+   /* background-color: rgba(0, 0, 0, 0.5) !important;*/
     border-color: #081424 !important;
 }
 
+.botao-drop {
+    background-color: #ffffff;
+}
 .btn-sm {
     font-size: 1.3rem;
     font-weight: 600;
@@ -163,6 +164,10 @@ main {
 .menu-estilos {
     max-width: fit-content;
     max-width: -moz-fit-content;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:  #081424 !important;
 }
 
 .nav-pills .nav-link.active {
@@ -176,9 +181,8 @@ main {
     font-size: medium;
 }
 
+/* **************** MAIN ************* */
 
-/*     GERAL            */
-
-.body strong {
+main {
     color: #081424 !important;
 }

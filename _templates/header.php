@@ -19,14 +19,14 @@
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
-    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css" disabled>
+    <link rel="stylesheet" class="disabled" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
     <title> Das Ruas para Web </title>
 </head>
 
 <body>
     <header class="stp menu_fixed">
-        <nav class="navbar navbar-dark colorh">
+        <nav class="navbar navbar-light colorh">
             <a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">
                 <div class="col-xl-10 offset-xl-1 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-sm-none d-md-block d-none">
                     <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" alt="Logo do site Das Ruas para Web" />
@@ -36,12 +36,12 @@
                 </div>
             </a>
 
-            <button class="navbar-toggler tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mx-auto menu-estilos">
+            <div class="collapse bg-light navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav  mx-auto menu-estilos">
                     <li class="nav-item">
                         <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>index.php">
                             Home<span class="sr-only">(current)</span>
@@ -66,19 +66,19 @@
                         <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>grafite-x-sociedade.php">
                             Grafite X Sociedade
                         </a>
-                    </li>-->
+                    </li>
 
-                    <div class="btn-group justify-content-center">
-                        <button class="btn btn-secondary btn-sm botao-drop" type="button">
+                    <div class="btn btn-light btn-group justify-content-center">
+                        <button class="btn bg-light btn-light btn-sm botao-drop" type="button">
                             <a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php" class="btn btn-secondary btn-sm">Estilos</a>
                         </button>
-                        <button type="button" class="btn btn-sm btn-secondary dropdown-toggle dropdown-toggle-split botao-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <button type="button" class="btn btn-sm btn-light dropdown-toggle dropdown-toggle-split botao-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="sr-only">Dropdown</span>
                         </button>
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/index.php">Freestyle</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/index.php">Throwup</a>
-                            <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php" disabled>Stencil</a>
+                            <a class="dropdown-item disabled" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php">Stencil</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/index.php">Mural</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/index.php">3D</a>
                         </div>
