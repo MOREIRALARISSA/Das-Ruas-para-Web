@@ -98,9 +98,10 @@ figcaption {
 }
 
 .colorh {
-    /*background-color: #523652 !important;*/
+    background-color: #ffffff !important;
     color: #301F56 !important;
     font-size: 1.4rem;
+    position: fixed;
 }
 
 
