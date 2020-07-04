@@ -98,7 +98,7 @@ figcaption {
 }
 
 .colorh {
-    background-color: #301F56 !important;
+    background-color: #ffffff !important;
     font-size: 1.4rem;
 }
 
@@ -112,13 +112,12 @@ figcaption {
 }
 
 .colorf {
-    background-color: #301F56 !important;
+    background-color: #ffffff !important;
 }
 
 .colorf a {
-/*   color: #1c61a7 !important;*/
-    color: rgba(255, 255, 255, 0.5);
-}
+    color: #301F56 !important;
+};
 
 .colorf a:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -126,7 +125,7 @@ figcaption {
 
 .copy {
     text-align: center;
-    color: rgba(255, 255, 255, 0.5);
+    color: #301F56 !important;
 }
 
 @media (max-width: 991px) {
@@ -147,13 +146,13 @@ main {
 /*  ********************** NEWS ***********************/
 
 .colorb {
-    background-color: #1c61a7 !important;
+    background-color: #081424 !important;
 }
 
 .btn-secondary {
     color: #081424 !important;
-    background-color: #FFF !important;
-    border-color: #FFF !important;
+    background-color: #081424 !important;
+    border-color: #081424 !important;
 }
 
 .btn-sm {
@@ -175,4 +174,11 @@ main {
 
 .txtimg {
     font-size: medium;
+}
+
+
+/*     GERAL            */
+
+.body strong {
+    color: #081424 !important;
 }

@@ -10,7 +10,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="icon" type="image/png" href="<?php echo !$resultado ? "" : "../../" ;?>img/favicon.png">
+    <link rel="icon" type="image/png" href="<?php echo !$resultado ? "" : "../../" ;?>_images/icon.png">
     <link href="https://fonts.googleapis.com/css?family=Tomorrow&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/bootstrap.css">
@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/_css/style.css">
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/_css/style.css">
-    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css">
+    <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/_css/style.css" disabled>
     <link rel="stylesheet" href="<?php echo !$resultado ? "" : "../../" ;?>_css/style.css">
     <title> Das Ruas para Web </title>
 </head>
@@ -78,7 +78,7 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/index.php">Freestyle</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/index.php">Throwup</a>
-                            <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php">Stencil</a>
+                            <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php" disabled>Stencil</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/index.php">Mural</a>
                             <a class="dropdown-item" href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/index.php">3D</a>
                         </div>

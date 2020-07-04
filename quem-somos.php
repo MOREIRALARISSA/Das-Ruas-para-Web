@@ -94,14 +94,14 @@
                             <img src="_images/quem-somos/matheus.jpg" alt="Matheus">
                         </div>
                         <div class="card-body">
-                            <h4 class="card-title font-weight-bold">Matheus Felipe dos Santos</h4>
-                            <small>Leather | Coder</small>
-                            <p>RA: <strong>2650831913016</strong></p>
+                            <h4 class="card-title font-weight-bold">Vitor</h4>
+                            <small>Lorem ipsum </small>
+                            <p>RA: <strong>Lorem ipsum</strong></p>
                             <hr>
-                            <p>Matheus Felipe aluno da Fatec São Roque, iniciante em programação e amante de Video Games</p>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, adipisci</p>
                             <h4>Áreas</h4>
                             <div><a href="_authors/matheus/index.php">Stencil</a></div>
-                            <div><a>Pages centers</a></div>
+                            <div><a>Lorem ipsum</a></div>
                         </div>
                     </div>
                 </div>
