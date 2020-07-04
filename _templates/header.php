@@ -29,14 +29,14 @@
         <nav class="navbar navbar-light colorh">
             <a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">
                 <div class="col-xl-10 offset-xl-1 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-7 text-center d-sm-none d-md-block d-none">
-                    <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" alt="Logotipo do site Das Ruas para Web - " />
+                    <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo.png" alt="Logotipo do site Das Ruas para Web - Desenho de uma lata de spray com texto estilizzado escrito Das Ruas para a Web " />
                 </div>
                 <div class="col-xl-9 offset-xl-0 col-lg-9 offset-lg-1 col-md-9 offset-md-1 col-sm-9 col-9 text-center d-md-none d-lg-none d-sm-block">
-                    <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" alt="Logotipo do site Das Ruas para Web" />
+                    <img class="img-fluid" src="<?php echo !$resultado ? "" : "../../" ;?>_images/logotipo_mobile.png" alt="Logotipo do site Das Ruas para Web -  Desenho de uma lata de spray" />
                 </div>
             </a>
 
-            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Toggle navigation">
+            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Menu navegação principal">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -72,7 +72,7 @@
                             <button class="btn bg-light btn-light btn-sm botao-drop" type="button">
                                 <a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php" class="btn btn-light btn-sm">Estilos</a>
                             </button>
-                            <button type="button" class="btn btn-sm btn-light dropdown-toggle dropdown-toggle-split botao-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <button type="button" class="btn btn-sm btn-light dropdown-toggle dropdown-toggle-split botao-drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="Menu navegação da area estilos do grafite">
                                 <span class="sr-only">Dropdown</span>
                             </button>
                             <div class="dropdown-menu">
