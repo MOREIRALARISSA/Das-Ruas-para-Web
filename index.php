@@ -7,21 +7,22 @@
     <div class="container">
         <div class="row">
             <article role="article">
+            <aside role="complementary">
                 <div class="col-lg-4 col-md-4 col-md-4 mt-5">
-                    <div>
+                    <section>
                         <h1 class="text-center mt-5" role="heading">
                         <a href="quem-somos.php">   <h2 class="" role="heading" aria-level="1"> Das Ruas para Web </h2> </a>
                         </h1>
                         <p class="text-left mb-5">
                         Portal sobre <strong>GRAFITE</strong> desenvolvido pelos estudantes do curso sistemas para internet da FATEC São Roque, o grupo é composto por cinco integrantes: Adelina, Anderson, Igor, Larissa e Matheus.
                         </p>
-                    </div>
-                    <div>
+                    </section>
+                    <section>
                     <h2 class="text-left mt-5" role="heading" aria-level="1"> Grafite no Mundo </h2>
                     <p class="text-left">
                         Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas.<a href="grafite-no-mundo.php"> Confira! </a>
                     </p>
-                    </div>
+                    </section>
                 </div>
 
                 <div class="col-lg-4 col-md-4 mt-5">
@@ -40,7 +41,7 @@
                         </a>
                     </div>
                 </div>
-            </article>
+            </aside>
         </div>
 
         <div class="col-lg-4 col-md-4 mt-5">
@@ -203,6 +204,7 @@
                     </div>
                 </div>
             </div>
+            </article>
         </div>
     </div>
 </main>
