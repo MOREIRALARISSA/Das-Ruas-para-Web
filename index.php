@@ -96,115 +96,112 @@
                 </div>
 
             </div>
-
         <div>
-                <h2 class="text-left mt-5 mb-3">Artistas</h2>
-                <div class="row mt-4">
-                    <div class="col-3">
-                        <figure>
+        <div class="">
+            <h2 class="text-left mt-5 mb-3">Artistas</h2>
+            <div class="row m-1">
+                <div class="col-3">
+                    <figure>
                         <a href="_authors/larissa/index.php"> <img src="./_images/larissa/aryzperfil.jpg" alt=" Artista Aryz" class="img-fluid rounded img-thumbnail"> </a>
-                            <figcaption>
-                                <strong>Aryz</strong>
-                            </figcaption>
-                        </figure>
-                    
-                    </div>
-                    <div class="col-3">
-                        <figure>
+                        <figcaption>
+                            <strong>Aryz</strong>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-3">
+                    <figure>
                         <a href="_authors/larissa/index.php"><img src="./_images/anderson/artista-1.png" alt="Real Grapixo" class="img-fluid rounded img-thumbnail"></a>
-                            <figcaption>
-                                <strong>Real Grapixo</strong>
-                            </figcaption>
-                        </figure>
-                    
-                    </div>
-                    <div class="col-3">
-                        <figure>
+                        <figcaption>
+                            <strong>Real Grapixo</strong>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-3">
+                    <figure>
                         <a href="_authors/adelina/index.php"><img src="./_images/adelina/TracyLeeStumperfil.jpg" alt="Artista Tracy Lee Stum" class="img-fluid rounded img-thumbnail"></a>
+                        <figcaption>
+                            <strong>Tracy Lee Stum</strong>
+                        </figcaption>
+                    </figure>
+                </div>
+                <div class="col-3">
+                    <figure>
+                        <a href="_authors/adelina/index.php"><img src="./_images/matheus/izolag.jpg" alt="Artista Izolag" class="img-fluid rounded img-thumbnail"></a>
                             <figcaption>
-                                <strong>Tracy Lee Stum</strong>
+                                <strong>Izolag</strong>
                             </figcaption>
                         </figure>
-                        
-                    </div>
-                    <div class="col-3">
-                        <a href="_authors/adelina/index.php">
-                            <figure>
-                                <img src="./_images/matheus/izolag.jpg" alt="Artista Izolag">
-                                <figcaption>
-                                    <strong>Izolag</strong>
-                                </figcaption>
-                            </figure>
-                        </a>
-                    </div>
                 </div>
+            </div>
+        </div>
         <div>
-        <h2 class="text-left mt-4 mb-4">Estilos</h2>
-        <div class="row mt-4">     
-            <div class="col-lg-3 offset-lg-2 col-md-3 offset-md-2 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
-                <div class="card">
-                    <a href="_authors/igor/index.php" arial-label="Link para o estilo Free Style"> 
-                        <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="Imagem capa Grafite Freestyle">
-                        <div class="card-body">
-                            <p class="card-text text-right">
-                                <strong>Saiba mais</strong>
-                            </p>
-                        </div>
-                    </a>
+            <h2 class="text-left mt-4 mb-4">Estilos</h2>
+            <div class="row mt-4">     
+                <div class="col-lg-3 offset-lg-2 col-md-3 offset-md-2 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
+                    <div class="card">
+                            <a href="_authors/igor/index.php" arial-label="Link para o estilo Free Style"> 
+                                <img class="card-img-top rounded" src="_images/estilos/freestyle.png" alt="Imagem capa Grafite Freestyle">
+                                <div class="card-body">
+                                    <p class="card-text text-right">
+                                        <strong>Saiba mais</strong>
+                                    </p>
+                                </div>
+                            </a>
+                    </div>
                 </div>
-            </div>
-            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
-                <div class="card">
-                    <a href="_authors/anderson/index.php"> 
-                        <img class="card-img-top rounded" src="_images/estilos/throwup.png" alt="Imagem capa Grafite Throwup">
-                        <div class="card-body">
-                            <p class="card-text text-right">
-                                <strong>Saiba mais</strong>
-                            </p>
+                <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1 mb-4">
+                        <div class="card">
+                            <a href="_authors/anderson/index.php"> 
+                                <img class="card-img-top rounded" src="_images/estilos/throwup.png" alt="Imagem capa Grafite Throwup">
+                                <div class="card-body">
+                                    <p class="card-text text-right">
+                                        <strong>Saiba mais</strong>
+                                    </p>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
                 </div>
-            </div>
-        </div>
 
-        <div class="row mt-4">
-            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
-                <div class="card">
-                    <a href="_authors/matheus/index.php">
-                        <img class="card-img-top rounded" src="_images/estilos/stencil.png" alt="Imagem capa Grafite Stencil">
-                        <div class="card-body">
-                            <p class="card-text text-right">
-                                <strong>Saiba mais</strong>
-                            </p>
+                <div class="row mt-4">
+                    <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                        <div class="card">
+                            <a href="_authors/matheus/index.php">
+                                <img class="card-img-top rounded" src="_images/estilos/stencil.png" alt="Imagem capa Grafite Stencil">
+                                <div class="card-body">
+                                    <p class="card-text text-right">
+                                        <strong>Saiba mais</strong>
+                                    </p>
+                                </div>
+                            </a>
                         </div>
-                    </a>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                        <div class="card">
+                            <a href="_authors/larissa/index.php">
+                                <img class="card-img-top rounded" src="_images/estilos/mural.png" alt="Imagem capa Grafite Mural">
+                                <div class="card-body">
+                                    <p class="card-text text-right">
+                                        <strong>Saiba mais</strong>
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
+                        <div class="card">
+                            <a href="_authors/adelina/index.php">
+                                <img class="card-img-top rounded" src="_images/estilos/3d.png" alt="Imagem capa Grafite  3D">
+                                <div class="card-body">
+                                    <p class="card-text text-right">
+                                        <strong>Saiba mais</strong>
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
-                <div class="card">
-                    <a href="_authors/larissa/index.php">
-                        <img class="card-img-top rounded" src="_images/estilos/mural.png" alt="Imagem capa Grafite Mural">
-                        <div class="card-body">
-                            <p class="card-text text-right">
-                                <strong>Saiba mais</strong>
-                            </p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
-                <div class="card">
-                    <a href="_authors/adelina/index.php">
-                        <img class="card-img-top rounded" src="_images/estilos/3d.png" alt="Imagem capa Grafite  3D">
-                        <div class="card-body">
-                            <p class="card-text text-right">
-                                <strong>Saiba mais</strong>
-                            </p>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
         </div>
     </div>
 </main>
