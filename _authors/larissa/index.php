@@ -3,39 +3,39 @@
     //Incluindo o menu de navegação
 ?>
 
-<main>
+<main role="main">
     <div class="jumbotron junbotrom-fluid mt-4">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="display-4 font-weight-bold">Mural</h1>
+                    <h1 class="display-4 font-weight-bold" role="heading">Mural</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="tablist">
+                    <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="menu">
                         <li class="nav-item">
-                            <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01">Sobre</a>
+                            <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01" role="menuitem">Sobre</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " id="nav-pills-02" data-toggle="pill" href="#nav-item-02">Artistas</a>
+                            <a class="nav-link " id="nav-pills-02" data-toggle="pill" href="#nav-item-02" role="menuitem">Artistas</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03">Galeria</a>
+                            <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03" role="menuitem">Galeria</a>
                         </li>
                     </ul>
-   
+
                     <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active" id="nav-item-01" role="tabpanel">
-                            <h1 class="mt-4 mb-4 d-none"> SOBRE </h1>
-                            <article>
+                            <h1 class="mt-4 mb-4 d-none" role="heading"> SOBRE </h1>
+                            <article role="article">
                                 <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
                                         <img class="img-fluid" src="./../../_images/larissa/sobre.jpg" title="Parte esquerda de um grafite dividido em dois" alt="Parte esquerda de um grafite dividido em dois" />
                                     </div>
 
-                                        <h2 class="d-none">Sobre</h2>
+                                    <h2 class="d-none" role="heading">Sobre</h2>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
 
@@ -54,17 +54,17 @@
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/larissa/sobre1.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois"/>
+                                        <img class="img-fluid" src="./../../_images/larissa/sobre1.jpg" title="Parte direita de um grafite dividido em dois" alt="Parte direita de um grafite dividido em dois" />
                                     </div>
                                 </div>
                             </article>
                         </div>
                         <!-- Artistas -->
                         <div class="tab-pane fade show " id="nav-item-02" role="tabpanel">
-                            <h1 class="text-center">Artistas</h1>
+                            <h1 class="text-center" role="heading">Artistas</h1>
                             <section>
-                                <h2 class="d-none">Artistas</h2>
-                                <article>
+                                <h2 class="d-none" role="heading">Artistas</h2>
+                                <article role="article">
                                     <div class="row justify-content-lg-center mb-5">
                                         <div class="col-lg-4">
                                             <div class="card">
@@ -73,8 +73,8 @@
                                                     <img src="../../_images/larissa/aryzperfil.jpg" alt="Aryz" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Aryz</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Desconhecido
+                                                    <h2 class="card-title font-weight-bold" role="heading">Aryz</h2>
+                                                    <h3 class="card-subtitle mb-2 text-muted" role="heading">Desconhecido
                                                     </h3>
                                                     <p class="card-text">Aryz é um artista de Barcelona muito conhecido por seus murais em grande escala.</p>
                                                 </div>
@@ -83,7 +83,7 @@
                                                     <li class="list-group-item">Artista, Pintor, Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    
+
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas1">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -95,8 +95,8 @@
                                                     <img src="../../_images/larissa/kobraperfil.jpg" alt="Kobra" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Kobra</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Eduardo Kobra
+                                                    <h2 class="card-title font-weight-bold" role="heading">Kobra</h2>
+                                                    <h3 class="card-subtitle mb-2 text-muted" role="heading">Eduardo Kobra
                                                     </h3>
                                                     <p class="card-text">É um veterano artista de rua Brasileiro, conhecido por seu enormes projetos.</p>
                                                 </div>
@@ -105,7 +105,7 @@
                                                     <li class="list-group-item">Artivista, Artista de rua, Desenhista e Grafiteiro</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                    
+
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas2">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -119,8 +119,8 @@
                                                     <img src="../../_images/larissa/kueiaperfil.jpg" alt="Kueia" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Kueia</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Karen Fidelis</h3>
+                                                    <h2 class="card-title font-weight-bold" role="heading">Kueia</h2>
+                                                    <h3 class="card-subtitle mb-2 text-muted" role="heading">Karen Fidelis</h3>
                                                     <p class="card-text">Artista de rua paulista conhecida pelo seu personagem Kuei.</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
@@ -128,7 +128,7 @@
                                                     <li class="list-group-item">Artista de rua e Desenhista</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                 
+
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas3">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -140,8 +140,8 @@
                                                     <img src="../../_images/larissa/cricaperfil.jpg" alt="Crica" class="img-fluid">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h3 class="card-title font-weight-bold">Crica Monteiro</h3>
-                                                    <h4 class="card-subtitle mb-2 text-muted">Cristiane Monteiro</h4>
+                                                    <h3 class="card-title font-weight-bold" role="heading">Crica Monteiro</h3>
+                                                    <h4 class="card-subtitle mb-2 text-muted" role="heading">Cristiane Monteiro</h4>
                                                     <p class="card-text">Comecou a grafitar ainda na adolescência e hoje é ilustratoda na MSP.</p>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
@@ -149,7 +149,7 @@
                                                     <li class="list-group-item">Designer, Ilustradora e Grafiteira.</li>
                                                 </ul>
                                                 <div class="card-body">
-                                                 
+
                                                     <a href="#" class="card-link" data-toggle="modal" data-target="#modalArtistas4">Saiba mais</a>
                                                 </div>
                                             </div>
@@ -162,11 +162,11 @@
                         <!-- Galeria -->
 
                         <div class="tab-pane fade show" id="nav-item-03" role="tabpanel">
-                            <h1> Grafite - Mural </h1>
+                            <h1 role="heading"> Grafite - Mural </h1>
                             <section>
-                                <h2 class="d-none">Galeria</h2>
+                                <h2 class="d-none" role="heading">Galeria</h2>
                                 <article>
-                                    <h2 class="d-none">Galeria</h2>
+                                    <h2 class="d-none" role="heading">Galeria</h2>
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
@@ -218,11 +218,11 @@
 </main>
 
 <!-- Modal -->
-<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog"  aria-hidden="true">
+<div class="modal fade" id="modalArtistas1" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Aryz</h4>
+                <h4 class="modal-title" role="heading">Aryz</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -246,18 +246,18 @@
                         </div>
 
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                            <button type="button" class="btn btn-danger" data-dismiss="modal" role="button">Fechar</button>
                         </div>
             </div>
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog"  aria-hidden="true">
+<div class="modal fade" id="modalArtistas2" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Kobra</h4>
+                <h4 class="modal-title" role="heading">Kobra</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -295,17 +295,17 @@
                 </p>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal" role="button">Fechar</button>
             </div>
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog"  aria-hidden="true">
+<div class="modal fade" id="modalArtistas3" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Kueia</h4>
+                <h4 class="modal-title" role="heading">Kueia</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -324,17 +324,17 @@
             </div>
 
             <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal" role="button">Fechar</button>
             </div>
         </div>
     </div>
 </div>
 
-<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog"  aria-hidden="true">
+<div class="modal fade" id="modalArtistas4" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Crica</h4>
+                <h4 class="modal-title" role="heading">Crica</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -347,7 +347,7 @@
             </div>
 
             <div class="modal-footer">
-                <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+                <button type="button" class="btn btn-danger" data-dismiss="modal" role="button">Fechar</button>
             </div>
         </div>
     </div>

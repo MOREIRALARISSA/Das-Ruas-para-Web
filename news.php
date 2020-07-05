@@ -2,10 +2,11 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-<main class="mt-4 mb-4">
+<main class="mt-4 mb-4" role="main">
     <div class="container">
-        <h1 class="mt-4 mb-4"> Notícias</h1>
-        <article>
+        <article role="article">
+            <h1 class="mt-4 mb-4" role="heading"> Notícias</h1>
+
             <div class="mb-4">
                 <a href="http://g1.globo.com/sao-paulo/sorocaba-jundiai/noticia/2014/04/pichadores-trocam-vandalismo-pela-arte-do-grafite.html" target="_blank"><strong> Pichadores trocam vandalismo pela arte do grafite </strong></a>
                 <p>
@@ -56,7 +57,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
+                                <h5 class="card-title" role="heading"> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h5>
                                 <!--                        <p class="card-text"><strong> Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews1">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 06 de abril de 2019</small></p>
@@ -72,7 +73,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
+                                <h5 class="card-title" role="heading"> Grafite e plantio de árvores marcam ação integrada no São Camilo </h5>
                                 <!--                        <p class="card-text"><strong> Grafite e plantio de árvores marcam ação integrada no São Camilo </strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews2">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 22 de novembro de 2019</small></p>
@@ -90,7 +91,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
+                                <h5 class="card-title" role="heading">Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</h5>
                                 <!--                        <p class="card-text"><strong>Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia</strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews3">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 17 de novembro de 2019</small></p>
@@ -106,7 +107,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Os Gêmeos em exposição na Pinacoteca</h5>
+                                <h5 class="card-title" role="heading">Os Gêmeos em exposição na Pinacoteca</h5>
                                 <!--                        <p class="card-text"><strong>Os Gêmeos em exposição na Pinacoteca</strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews4">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 09 de outubro de 2019</small></p>
@@ -124,7 +125,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
+                                <h5 class="card-title" role="heading"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </h5>
                                 <!--                        <p class="card-text"><strong> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto </strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews5">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 21 de novembro de 2019</small></p>
@@ -140,7 +141,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
+                                <h5 class="card-title" role="heading"> Oficinas gratuitas de grafite têm inscrições abertas em Santos</h5>
                                 <!--                        <p class="card-text"><strong> Oficinas gratuitas de grafite têm inscrições abertas em Santos</strong></p>-->
                                 <a href="#" class="card-link" data-toggle="modal" data-target="#modalnews6">Saiba mais</a>
                                 <p class="card-text"><small class="text-muted">Última atualização 17 de novembro de 2019 20h18 </small></p>
@@ -178,14 +179,14 @@
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">News</h4>
+                <h4 class="modal-title" role="heading">News</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
             <div class="modal-body text-center">
-                <h1>Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
+                <h1 role="heading">Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
                 <figure>
                     <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
                     <figcaption>
@@ -235,7 +236,7 @@
             </div>
 
             <div class="modal-body text-center-justify">
-                <h1>Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
+                <h1 role="heading">Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
                 <figure>
                     <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
                     <figcaption>
@@ -286,14 +287,14 @@
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">News</h4>
+                <h4 class="modal-title" role="heading">News</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
             <div class="modal-body text-center">
-                <h1> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
+                <h1 role="heading"> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
                 <figure>
                     <img class="img-fluid" src="./_images/news/Maedagua.jpg" alt="" />
                     <figcaption>
@@ -356,14 +357,14 @@
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">News</h4>
+                <h4 class="modal-title" role="heading">News</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
             <div class="modal-body text-center">
-                <h1>Os Gêmeos em exposição na Pinacoteca</h1>
+                <h1 role="heading">Os Gêmeos em exposição na Pinacoteca</h1>
                 <figure>
                     <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
                     <figcaption>
@@ -400,15 +401,15 @@
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">News</h4>
+                <h4 class="modal-title" role="heading">News</h4>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
             </div>
 
             <div class="modal-body text-center">
-                <h1> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto</h1>
-                <h5>1º festival de Grafite Branca Cor leva grafites a casas, comércios e espaços públicos do Jd. Branca Flor, em Itapecerica da Serra </h5>
+                <h1 role="heading"> Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto</h1>
+                <h5 role="heading">1º festival de Grafite Branca Cor leva grafites a casas, comércios e espaços públicos do Jd. Branca Flor, em Itapecerica da Serra </h5>
                 <figure>
                     <img class="img-fluid" src="./_images/news/itapecerica.jpg" alt="" />
                     <figcaption>

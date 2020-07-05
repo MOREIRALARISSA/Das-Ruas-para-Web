@@ -4,40 +4,40 @@
     //Incluindo o menu de navegação
 ?>
 
-<main>
+<main role="main">
     <div class="jumbotron junbotrom-fluid mt-4">
         <div class="container">
             <div class="row">
                 <div class="col-12 text-center">
-                    <h1 class="display-4 font-weight-bold">Throwup</h1>
+                    <h1 class="display-4 font-weight-bold" role="heading">Throwup</h1>
                 </div>
             </div>
             <div class="row">
                 <div class="col-12">
-                    <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="tablist">
+                    <ul class="nav nav-pills justify-content-center my-3" id="pills-nav" role="menu">
                         <li class="nav-item">
-                            <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01">Sobre</a>
+                            <a class="nav-link active" id="nav-pills-01" data-toggle="pill" href="#nav-item-01" role="menuitem">Sobre</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " id="nav-pills-02" data-toggle="pill" href="#nav-item-02">Artistas</a>
+                            <a class="nav-link " id="nav-pills-02" data-toggle="pill" href="#nav-item-02" role="menuitem">Artistas</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03">Galeria</a>
+                            <a class="nav-link " id="nav-pills-03" data-toggle="pill" href="#nav-item-03" role="menuitem">Galeria</a>
                         </li>
                     </ul>
 
                     <!-- Sobre -->
                     <div class="tab-content" id="nav-pills-content">
                         <div class="tab-pane fade show active mt-5" id="nav-item-01" role="tabpanel">
-                            <h1 class="mt-4 mb-4 d-none"> About </h1>
+                            <h1 class="mt-4 mb-4 d-none" role="heading"> About </h1>
                             <article>
                                 <div class="row justify-content-center">
                                     <div class="col-lg-4 offset-lg-0 order-lg-first col-md-5 offset-md-1 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
                                         <img class="img-fluid" src="./../../_images/anderson/sobre-1.jpg" alt="Desenho da dianteira de um caminhão cinza" />
                                     </div>
-                                    <h2 class="d-none">Sobre</h2>
+                                    <h2 class="d-none" role="heading">Sobre</h2>
                                     <div class="col-lg-4 offset-lg-0 col-md-8 offset-md-2 order-md-first order-sm-first order-first">
                                         <p>
                                             O <em>Throw-Up</em> é uma pichação evoluída, segundo os grafiteiros. A maior parte das produções de grafite são no estilo <em>Throw-Up</em>
@@ -58,7 +58,7 @@
                                     </div>
 
                                     <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-6 offset-sm-0 pl-0 pr-0 col-6 text-center align-self-center">
-                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="Desenho da traseira de um caminhão cinza"/>
+                                        <img class="img-fluid" src="./../../_images/anderson/sobre-2.jpg" alt="Desenho da traseira de um caminhão cinza" />
                                     </div>
                                 </div>
                             </article>
@@ -66,26 +66,26 @@
 
                         <!-- Artistas -->
                         <div class="tab-pane fade show mt-5" id="nav-item-02" role="tabpanel">
-                            <h1 class="text-center d-none">Artistas</h1>
+                            <h1 class="text-center d-none" role="heading">Artistas</h1>
                             <section>
-                                <h2 class="d-none">Artistas</h2>
+                                <h2 class="d-none" role="heading">Artistas</h2>
                                 <article>
                                     <div class="row justify-content-lg-center mb-5">
                                         <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12 mb-5">
                                             <div class="card">
-                                                 <div class="card-fundo"></div>
+                                                <div class="card-fundo"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-1.png" title="Real Grapixo" alt="Real Grapixo">
                                                 </div>
                                                 <div class="card-body">
-                                                    <h2 class="card-title font-weight-bold">Real Grapixo</h2>
+                                                    <h2 class="card-title font-weight-bold" role="heading">Real Grapixo</h2>
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-                                                        
+
                                                     </h3>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">Nascimento: Desconhecido</li>
-                                                   </ul>
+                                                </ul>
                                                 <div class="card-body">
                                                     <div class="row justify-content-center">
                                                         <div class="col-lg-2 col-md-3 redes-artistas">
@@ -100,23 +100,23 @@
                                                             <a href="https://youtube.com.br/channel/UCfUya8k_iUBiV1W-LKaJwMg"><i class="fab fa-youtube"></i></a>
                                                         </div>
                                                     </div>
-                                                    
-                                                    
+
+
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                             <div class="card">
-                                              
+
                                                 <div class="card-fundo2"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-2.png" title="ten.spheres" alt="ten.spheres">
                                                 </div>
                                                 <div class="card-body">
-                                                   <h2 class="card-title font-weight-bold">ten.spheres</h2>
-                                                    <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-                                                 
+                                                    <h2 class="card-title font-weight-bold">ten.spheres</h2>
+                                                    <h3 class="card-subtitle mb-2 text-muted" role="heading">Desconhecido
+
                                                     </h3>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
@@ -132,8 +132,8 @@
                                                             <a href="https://www.facebook.com/Ten.spheres/"><i class="fab fa-facebook"></i></a>
                                                         </div>
                                                     </div>
-                                                   
-                                                    
+
+
                                                 </div>
                                             </div>
                                         </div>
@@ -142,7 +142,7 @@
                                     <div class="row justify-content-lg-center mb-5">
                                         <div class="col-lg-4 offset-lg-0 col-md-5 offset-md-0 col-sm-12">
                                             <div class="card">
-                                                
+
                                                 <div class="card-fundo3"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-3.png" title="ROTA IP" alt="ROTA IP">
@@ -150,12 +150,12 @@
                                                 <div class="card-body">
                                                     <h2 class="card-title font-weight-bold">ROTA IP</h2>
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-                                                    
+
                                                     </h3>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">Nascimento: Desconhecido</li>
-                                                    </ul>
+                                                </ul>
                                                 <div class="card-body">
                                                     <div class="row justify-content-lg-center justify-content-md-center">
                                                         <div class="col-lg-2 col-md-3 redes-artistas">
@@ -166,14 +166,14 @@
                                                             <a href="https://www.facebook.com/ROTA.IP"><i class="fab fa-facebook"></i></a>
                                                         </div>
                                                     </div>
-                                                   
+
                                                 </div>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-4 offset-lg-2 col-md-5 offset-md-2 col-sm-12">
                                             <div class="card">
-                                           
+
                                                 <div class="card-fundo4"></div>
                                                 <div class="avatar mx-auto">
                                                     <img src="../../_images/anderson/artista-4.png" title="Veni Vidi Vici" alt="Veni Vidi Vici">
@@ -181,7 +181,7 @@
                                                 <div class="card-body">
                                                     <h2 class="card-title font-weight-bold">Veni Vidi Vici</h2>
                                                     <h3 class="card-subtitle mb-2 text-muted">Desconhecido
-                                                </h3>
+                                                    </h3>
                                                 </div>
                                                 <ul class="list-group list-group-flush">
                                                     <li class="list-group-item">Nascimento: Desconhecido</li>
@@ -192,7 +192,7 @@
                                                             <a href="https://www.instagram.com/vx3graffiti/?igshid=1ntju4sun1d9c"><i class="fab fa-instagram"></i></a>
                                                         </div>
                                                     </div>
-                                                    
+
                                                 </div>
                                             </div>
                                         </div>
@@ -206,9 +206,9 @@
                         <div class="tab-pane fade show mt-5" id="nav-item-03" role="tabpanel">
                             <h1 class="mt-4 mb-4 text-center d-none">Galeria</h1>
                             <section>
-                                <h2 class="d-none">Galeria</h2>
+                                <h2 class="d-none" role="heading">Galeria</h2>
                                 <article>
-                                    <h2 class="d-none">Galeria</h2>
+                                    <h2 class="d-none" role="heading">Galeria</h2>
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6 col-sm-12 align-self-center mb-4">
                                             <figure class="gallery_border">

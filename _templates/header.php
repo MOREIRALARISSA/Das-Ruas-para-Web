@@ -62,7 +62,7 @@
                             Mitos e Verdades
                         </a>
                     </li>
-                    <li  role="menuitem" class="nav-item">
+                    <li role="menuitem" class="nav-item">
                         <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>grafite-x-sociedade.php">
                             Grafite X Sociedade
                         </a>

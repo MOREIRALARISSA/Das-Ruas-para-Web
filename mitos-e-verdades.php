@@ -2,14 +2,15 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-<main class="mt-4 mb-4">
+<main class="mt-4 mb-4" role="main">
     <div class="container">
-        <div class="row justify-content-center">
-            <h1>Mitos e Verdades</h1>
-        </div>
-        <article>
+        <article role="article">
+            <div class="row justify-content-center">
+                <h1 role="heading">Mitos e Verdades</h1>
+            </div>
+
             <div class="mt-2 mb-2 text-center">
-                <h2 class="mt-4 mb-3">Grafite x pichação: qual a diferença?</h2>
+                <h2 class="mt-4 mb-3" role="heading">Grafite x pichação: qual a diferença?</h2>
             </div>
             <p>
                 Existe uma linha tênue que separa o grafite da pichação, e a pichação do vandalismo. Reconhecer a diferença entre essas formas de comunicação urbana – tão intimamente relacionadas ao longo da história – pode ser a chave que faltava para envolver as pessoas em uma série de atividades relacionadas ao tema: oficinas, debates, excursões, testes de conhecimento.
@@ -17,7 +18,7 @@
             <section class="mt-5">
                 <div class="row">
                     <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                        <h3>Pichação e grafite não são a mesma coisa. </h3>
+                        <h3 role="heading">Pichação e grafite não são a mesma coisa. </h3>
                         <p>
                             Grafiteiros e pichadores pintam coisas nas paredes da cidade. A diferença é que os primeiros produzem coisas coloridas, bonitas, criativas, artísticas. Os outros produzem riscos, palavras incompreensíveis e sujeiras. Conversei com pessoas que dizem que ambas as manifestações são “irmãs” e que nascem da mesma vontade de expressão pessoal. É possível que a gênese seja parecida, mas o resultado, sinceramente, é muito diferente.
                         </p>
@@ -27,9 +28,7 @@
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" 
-                                alt="Pichações em prédio abandonado na cidade de Belo Horizonte" 
-                                title="Pichações em prédio na cidade de Belo Horizonte" />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichações em prédio abandonado na cidade de Belo Horizonte" title="Pichações em prédio na cidade de Belo Horizonte" />
                             <figcaption>
                                 Pichações em prédio na cidade de Belo Horizonte.
                             </figcaption>
@@ -37,9 +36,7 @@
                     </div>
                     <div class="col-lg-5 col-md-5 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/grafites-centro-bh.jpg" 
-                                alt="Grafites na parte exterior em prédios na cidade de Belo Horizonte" 
-                                title="Grafites em prédios na cidade de Belo Horizonte" />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/grafites-centro-bh.jpg" alt="Grafites na parte exterior em prédios na cidade de Belo Horizonte" title="Grafites em prédios na cidade de Belo Horizonte" />
                             <figcaption>
                                 Grafites em prédios na cidade de Belo Horizonte.
                             </figcaption>
@@ -54,7 +51,7 @@
                 </div>
             </section>
             <section class="mt-5">
-                <h3>Pichação é crime. Grafite não é.</h3>
+                <h3 role="heading">Pichação é crime. Grafite não é.</h3>
                 <p>
                     Existem leis federais contra os chamados crimes”contra o Ordenamento Urbano e o Patrimônio Cultural”. Até 2011, a lei 9605/98 enquadrava tanto a pichação como o grafite como crimes. Em 2011, porém, a lei 12408/11, descriminalizou o grafite e ficou proibido apenas “Pichar ou por outro meio conspurcar edificação ou monumento urbano“, com detenção e multa ampliados caso se trate de patrimônio histórico tombado.
                 </p>
@@ -63,7 +60,7 @@
                 </p>
             </section>
             <section class="mt-5">
-                <h3> Como tratar propriedades particular e pública?</h3>
+                <h3 role="heading"> Como tratar propriedades particular e pública?</h3>
                 <p>
                     Propriedade particular e pública exigem tratamento diferente. A legitimação da pintura nos muros públicos é simples: basta que haja concordância do proprietário. Se eu sou dono de uma casa e acordo um dia com a vontade de ter a parede pintada com uma paisagem renascentista ou um marciano, posso pintar eu mesmo ou chamar um pintor da minha preferência e depois provar ao poder público que isso não representa um atentado à paisagem.
                 </p>
@@ -88,9 +85,7 @@
                 <div class=" row justify-content-center mt-5">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/museuderua.jpg" 
-                                alt="Muro de escola pintado por vários grafiteiros. Museu de Rua reúne 30 artistas para revitalizar muro de escola." 
-                                title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/museuderua.jpg" alt="Muro de escola pintado por vários grafiteiros. Museu de Rua reúne 30 artistas para revitalizar muro de escola." title="Museu de Rua reúne 30 artistas para revitalizar muro de escola." />
                             <figcaption>
                                 Museu de Rua reúne 30 artistas para revitalizar muro de escola.
                             </figcaption>
@@ -98,9 +93,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-12">
                         <figure>
-                            <img class="img-fluid" src="./_images/mitos-e-verdades/beco-do-batman.jpg" 
-                                alt="Muro de uma casa totalmente grafitado. Grafites localizados no Beco do Batman na Vila Madalena, São Paulo."
-                                title="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
+                            <img class="img-fluid" src="./_images/mitos-e-verdades/beco-do-batman.jpg" alt="Muro de uma casa totalmente grafitado. Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." title="Grafites localizados no Beco do Batman na Vila Madalena, São Paulo." />
                             <figcaption>
                                 Grafites localizados no Beco do Batman na Vila Madalena, São Paulo.
                             </figcaption>

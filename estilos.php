@@ -3,10 +3,10 @@
     //Incluindo o menu de navegação
 ?>
 
-<main class="mt-4 mb-4">
+<main class="mt-4 mb-4" role="main">
     <div class="container">
-        <article>
-            <h1 class="text-center mt-4 mb-4"> Estilos de Grafite </h1>
+        <article role="article">
+            <h1 class="text-center mt-4 mb-4" role="heading"> Estilos de Grafite </h1>
             <p>A criatividade e arte tem andado juntos a muitos anos, com novas tendências e inovações tem acrescentado um alto nivel a Arte Urbana. Diversos artistas tem criado obras de extrema grandeza a céu aberto, com técnicas aprimoradas e equipamentos de 1º linha o Graffiti tem tomado seu espaço em meia a sociedade.</p>
             <p> Vejamos agora algumas técnicas e estilos usados por esses artistas:</p>
             <div class="card-deck">
