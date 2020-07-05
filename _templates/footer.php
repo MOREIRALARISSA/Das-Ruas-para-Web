@@ -28,7 +28,7 @@
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/index.php">Throwup</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php">Stencil</a></div>
+            <div class="nav-link disabled"><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php">Stencil</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/index.php">Mural</a></div>
 

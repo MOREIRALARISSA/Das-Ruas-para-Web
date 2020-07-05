@@ -2,12 +2,12 @@
     include ('_templates/header.php');
     //Incluido o menu de navegação
 ?>
-<main class="mt-3 mb-4">
+<main class="mt-3 mb-4" role="main">
     <div class="mx-5">
-        <div class="row">
-            <article>
+        <article role="article">
+            <div class="row">
                 <div class="col-12 text-center mt-3">
-                    <h1 class="mb-4">Grafite no mundo</h1>
+                    <h1 class="mb-4" role="heading">Grafite no mundo</h1>
                     <p class="text-left">
                         O grafite é uma verdadeira obra de arte, capaz de modificar lugares – sem falar que são formas de manifestações artísticas em espaços públicos. Aqui no Brasil, existem grandes nomes que espalham cores e desenhos pelas paredes e calçadas do país, sendo a cidade de São Paulo um dos lugares preferidos para se observar esse tipo de arte.
                     </p>
@@ -15,13 +15,13 @@
                         Ao redor do mundo é possível observar grandes artistas que levam a sério a arte de rua e transformam “lugares normais” em verdadeiras telas. Confira:
                     </p>
                 </div>
-            </article>
-        </div>
+            </div>
+        </article>
         <aside>
             <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3 col-3 d-xl-block d-lg-block d-md-block d-sm-none d-none">
-                    <nav id="navbarVertical" class="navbar navbar-light bg-light mt-4">
-                        <nav class="nav nav-pills flex-column">
+                    <nav id="navbarVertical" class="navbar navbar-light bg-light mt-4" aria-label="Menu navegação grafite no mundo">
+                        <nav class="nav nav-pills flex-column" role="navigation">
                             <a class="nav-link active" href="#item1"> BRASIL </a>
                             <a class="nav-link" href="#item2"> INGLATERRA</a>
                             <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
@@ -33,16 +33,15 @@
                 <div class="col-lg-9 col-md-9 col-sm-12 col-12">
                     <div data-spy="scroll" data-target="#navbarVertical" data-offset="0" class="scrollspySite mt-4">
                         <h3 id="item1" class="text-center mt-5 mb-3">BRASIL</h3>
-                        <h4 class="mt-3 mb-3">Kobra</h4>
+                        <h4 class="mt-3 mb-3" role="heading">Kobra</h4>
                         <p>
                             Um dos artistas brasileiros mais conhecidos quando o assunto é arte de rua é o Eduardo Kobra. Espalhados por arranha-céus e pontos bem inusitados, os murais super coloridos do artista chamam a atenção de qualquer um.
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h5>O Beijo</h5>
+                                <h5 role="heading">O Beijo</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/kobra.jpg" 
-                                        alt="Beijo do marinheiro George Mendonsa e da enfermeira Greta Friedman com várias cores ao redor." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/kobra.jpg" alt="Beijo do marinheiro George Mendonsa e da enfermeira Greta Friedman com várias cores ao redor." />
                                     <figcaption class="text-justify">
                                         Foto Cristina Mueller
                                     </figcaption>
@@ -59,10 +58,9 @@
                                 </p>
                             </div>
                             <div class="col-lg-12">
-                                <h5>Tupac E Notorius B.I.G.</h5>
+                                <h5 role="heading">Tupac E Notorius B.I.G.</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/KobraMiami.jpg" 
-                                        alt="Painel desenhado com a mistura dos rappers TuPac Shakur e Notorious B.I.G. num mesmo rosto. " />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/KobraMiami.jpg" alt="Painel desenhado com a mistura dos rappers TuPac Shakur e Notorious B.I.G. num mesmo rosto. " />
                                     <figcaption class="text-justify">
                                         Foto Rom Levy
                                     </figcaption>
@@ -75,20 +73,17 @@
                                 </p>
                             </div>
                         </div>
-                        <h3 id="item2" class="text-center mt-5 mb-3">INGLATERRA</h3>
-                        <h4 class="mt-3 mb-3">Banksy</h4>
+                        <h3 id="item2" class="text-center mt-5 mb-3" role="heading">INGLATERRA</h3>
+                        <h4 class="mt-3 mb-3" role="heading">Banksy</h4>
                         <p>
                             Ao contrário dos demais artistas, pouco se sabe sobre quem é Bansky. Sempre misterioso, o artista inglês deixa suas marcas espalhadas pelo mundo afora. Seus trabalhos possuem características marcantes como ironia, tom crítico e sarcasmo.
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h5> Love is in the Air </h5>
+                                <h5 role="heading"> Love is in the Air </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/soldierbanksy.jpg" 
-                                        alt="Manifestante com rosto coberto por uma máscara branca fazendo movimento como se fosse atirar um coquetel explosivo, entretanto, o que ele carrega é um ramo de flores. 
-                                    <figcaption class="text-justify">
-                                        Foto Divulgação
-                                    </figcaption>
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/soldierbanksy.jpg" alt="Manifestante com rosto coberto por uma máscara branca fazendo movimento como se fosse atirar um coquetel explosivo, entretanto, o que ele carrega é um ramo de flores." />
+                                    <figcaption class=" text-justify">Foto Divulgação</figcaption>
                                 </figure>
                                 <p>
                                     Essa é uma pintura mural feita em 2005 em Londres. Na época, a cidade britânica passava por uma onda de protestos.
@@ -106,10 +101,9 @@
                         </div>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h5>Girl with ballon</h5>
+                                <h5 role="heading">Girl with ballon</h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/girlbanksy.jpg" 
-                                        alt="Uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/girlbanksy.jpg" alt="Uma menina que estende a mão para pegar seu balão, que é levado pelo vento. O balão é em formato de coração e pintado em vermelho, enquanto o restante da obra é preta." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
@@ -132,8 +126,8 @@
                                 </div>
                             </div>
                         </div>
-                        <h3 id="item3" class="text-center mt-5 mb-3">ESTADOS UNIDOS</h3>
-                        <h4 class="mt-3 mb-3">Eric Grohe</h4>
+                        <h3 id="item3" class="text-center mt-5 mb-3" role="heading">ESTADOS UNIDOS</h3>
+                        <h4 class="mt-3 mb-3" role="heading">Eric Grohe</h4>
                         <p>
                             Eric Grohe é um pintor que usa uma técnica chamada trompe l’oeil para criar murais em três dimensões incríveis, que, provavelmente, devem confundir muita gente distraída.
                         </p>
@@ -142,10 +136,9 @@
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h5> Liberty Remembers </h5>
+                                <h5 role="heading"> Liberty Remembers </h5>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericantes.jpg" 
-                                        alt="Parede antiga com coloração alaranjada." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericantes.jpg" alt="Parede antiga com coloração alaranjada." />
                                     <figcaption class="text-justify">
                                         ANTES
                                     </figcaption>
@@ -155,8 +148,7 @@
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericdepois.jpg" 
-                                        alt="O mural apresenta a prede alaranjada pintada com a Lady Liberty segurando um soldado moribundo nos braços." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/ericdepois.jpg" alt="O mural apresenta a prede alaranjada pintada com a Lady Liberty segurando um soldado moribundo nos braços." />
                                     <figcaption class="text-justify">
                                         DEPOIS
                                     </figcaption>
@@ -166,8 +158,7 @@
                                 </p>
                                 <div class="col-lg-12">
                                     <figure>
-                                        <img class="img-fluid" src="./_images/grafite-no-mundo/ericsoldados.jpg" 
-                                            alt="veteranos retratados em Liberty Remembers abrangem o serviço militar americano da Revolução Americana em 1775 a 2001." />
+                                        <img class="img-fluid" src="./_images/grafite-no-mundo/ericsoldados.jpg" alt="veteranos retratados em Liberty Remembers abrangem o serviço militar americano da Revolução Americana em 1775 a 2001." />
                                         <figcaption class="text-justify">
                                             Soldados
                                         </figcaption>
@@ -179,8 +170,8 @@
                                 </div>
                             </div>
                         </div>
-                        <h3 id="item4" class="text-center mt-5 mb-3">ÁFRICA DO SUL </h3>
-                        <h4 class="mt-3 mb-3">Jack Fox</h4>
+                        <h3 id="item4" class="text-center mt-5 mb-3" role="heading">ÁFRICA DO SUL </h3>
+                        <h4 class="mt-3 mb-3" role="heading">Jack Fox</h4>
                         <p>
                             JackFox nasceu em 1998, o artista de rua baseado na Cidade do Cabo, África do Sul. Ele já produziu murais e participou de projetos de galerias em Paris, Berlim, Madagascar, Nova York, Suíça e Cidade do Cabo.
                         </p>
@@ -189,25 +180,23 @@
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h4 class="mt-3 mb-3">The Ultimate Woodstock Street Art Experience</h4>
+                                <h4 class="mt-3 mb-3" role="heading">The Ultimate Woodstock Street Art Experience</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox.jpg" 
-                                        alt="Homem desenhado com traços distorcidos como se estivesse segurando um instrumento musical de sopro." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox.jpg" alt="Homem desenhado com traços distorcidos como se estivesse segurando um instrumento musical de sopro." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
                                 </figure>
-                                <h4 class="mt-3 mb-3">Bushwick, Nova Iorque, Estados Unidos</h4>
+                                <h4 class="mt-3 mb-3" role="heading">Bushwick, Nova Iorque, Estados Unidos</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox2.jpg" 
-                                        alt="Dois homens com traços distorcidos um ao lado do outro." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/jackfox2.jpg" alt="Dois homens com traços distorcidos um ao lado do outro." />
                                     <figcaption class="text-justify">
                                         Foto Divulgação
                                     </figcaption>
                                 </figure>
                             </div>
                         </div>
-                        <h3 id="item5" class="text-center mt-5 mb-3"> AUSTRÁLIA</h3>
+                        <h3 id="item5" class="text-center mt-5 mb-3" role="heading"> AUSTRÁLIA</h3>
                         <h4 class="mt-3 mb-3">Smug</h4>
                         <p>
                             Nascido em uma pequena cidade australiana a cerca de três horas de Sydney, Smug sempre se interessou por arte. O interessante é que, apesar de desenhar por anos, não foi até ele se formar no colegial que ele realmente pegou uma lata de spray e começou a mirar nas paredes em vez de nas páginas dos livros. Quando era mais novo, o artista patinava e passeava pelas ruas com seus amigos, escrevendo seus nomes nas paredes e ouvindo hip-hop. O grafite era uma grande parte dessa cultura, então tudo veio ao lugar certo. Questionado sobre seu nome artístico, Smug afirma que ele nem se lembra de como recebeu o seu. Na época, ele etiquetou usando vários nomes, mas Smug de alguma forma permaneceu. Ele ainda se inspira no amigo que vê regularmente, escritores com quem trabalha regularmente. As pessoas que fazem parte de sua vida cotidiana são as pessoas que o pressionam a se tornar uma pessoa melhor e um artista melhor.
@@ -217,10 +206,9 @@
                         </p>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h4 class="mt-3 mb-3"> Otters, Melbourn, Australia</h4>
+                                <h4 class="mt-3 mb-3" role="heading"> Otters, Melbourn, Australia</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" 
-                                        alt="Mural em 3D com uma mulher deitada com dois gatos." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug1.jpg" alt="Mural em 3D com uma mulher deitada com dois gatos." />
                                     <figcaption class="text-justify">
                                         Foto Dean Sunshine
                                     </figcaption>
@@ -229,10 +217,9 @@
                         </div>
                         <div class="row justify-content-center mx-auto">
                             <div class="col-lg-12">
-                                <h4 class="mt-3 mb-3"> Nuart Festival, Noruega</h4>
+                                <h4 class="mt-3 mb-3" role="heading"> Nuart Festival, Noruega</h4>
                                 <figure>
-                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" 
-                                        alt="Parede externa de uma casa com grafite 3D de um trabalhador." />
+                                    <img class="img-fluid" src="./_images/grafite-no-mundo/smug.jpg" alt="Parede externa de uma casa com grafite 3D de um trabalhador." />
                                     <figcaption class="text-justify">
                                         Foto Brian Tallman
                                     </figcaption>

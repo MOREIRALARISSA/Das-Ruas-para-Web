@@ -3,11 +3,11 @@
     //Incluido o menu de navegação
 ?>
 
-<main class="mt-4 mb-4">
+<main class="mt-4 mb-4" role="main">
     <div class="container">
-        <article>
+        <article role="article">
             <div class="row justify-content-center">
-                <h1>Grafite x Sociedade</h1>
+                <h1 role="heading">Grafite x Sociedade</h1>
             </div>
             <div class="row mt-5">
                 <div class="col-lg-6 align-self-center">
@@ -20,9 +20,7 @@
                 </div>
                 <div class="col-lg-5">
                     <figure>
-                        <img class="img-fluid" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" 
-                            alt=" Mural feito no Hell's Kitchen Playground nos anos 1970, pessoas caminhando lado a lado." 
-                            title="Mural Hell's Kitchen 1970" />
+                        <img class="img-fluid" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" alt=" Mural feito no Hell's Kitchen Playground nos anos 1970, pessoas caminhando lado a lado." title="Mural Hell's Kitchen 1970" />
                         <figcaption>
                             Mural no Hell's Kitchen Playground nos anos 1970.
                         </figcaption>
@@ -30,7 +28,7 @@
                 </div>
             </div>
             <section class="mt-5">
-                <h2>O que é o Grafite ?</h2>
+                <h2 role="heading">O que é o Grafite ?</h2>
                 <p>
                     O grafite é uma forma de expressão artística que utiliza locais públicos — muros, paredes de grandes edifícios e até o chão — como tela.
                 </p>
@@ -38,16 +36,14 @@
                     Tal como o conhecemos, a história do grafite remonta ao final dos anos 1960 e início dos anos 1970 em cidades como Paris e Nova York, locais que começaram a mostrar em suas paredes as primeiras obras de artistas anônimos que buscavam se expressar.
                 </p>
                 <figure class="mt-5">
-                    <img class="img-fluid" src="./_images/grafite-x-sociedade/1sTrainGrafite.jpg" 
-                        alt="Trem abandonado pintado com grafite na porta de entrada. O primeiro trem a ser coberto por grafite | New York anos 1970." 
-                        title="O primeiro trem a ser coberto por grafite" />
+                    <img class="img-fluid" src="./_images/grafite-x-sociedade/1sTrainGrafite.jpg" alt="Trem abandonado pintado com grafite na porta de entrada. O primeiro trem a ser coberto por grafite | New York anos 1970." title="O primeiro trem a ser coberto por grafite" />
                     <figcaption>
                         O primeiro trem a ser coberto por grafite | New York anos 1970.
                     </figcaption>
                 </figure>
             </section>
             <section class="mt-5 mb-5">
-                <h2>Grafite no Brasil</h2>
+                <h2 role="heading">Grafite no Brasil</h2>
                 <p>
                     No Brasil, a arte de rua surge na década de 70, mais precisamente com as obras de grafite nas paredes da cidade de São Paulo. Curiosamente surgiu numa época conturbada da história do país, com o advento da Ditadura Militar.
                 </p>

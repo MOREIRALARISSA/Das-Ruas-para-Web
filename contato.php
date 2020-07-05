@@ -3,7 +3,7 @@
     //Incluido o menu de navegação
 ?>
 
-<main class="mb-5">
+<main class="mb-5" role="main">
     <div class="container">
         <article>
             <h2 class="d-none">Contato</h2>

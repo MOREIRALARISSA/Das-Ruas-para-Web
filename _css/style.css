@@ -98,9 +98,12 @@ figcaption {
 }
 
 .colorh {
-    background-color: #301F56 !important;
+    background-color: #ffffff !important;
+    color: #301F56 !important;
     font-size: 1.4rem;
+    
 }
+
 
 .colorh img {
     margin: 0 auto;
@@ -112,13 +115,12 @@ figcaption {
 }
 
 .colorf {
-    background-color: #301F56 !important;
+    background-color: #ffffff !important;
 }
 
 .colorf a {
-/*   color: #1c61a7 !important;*/
-    color: rgba(255, 255, 255, 0.5);
-}
+    color: #301F56 !important;
+};
 
 .colorf a:hover {
     color: rgba(255, 255, 255, 0.75);
@@ -126,7 +128,7 @@ figcaption {
 
 .copy {
     text-align: center;
-    color: rgba(255, 255, 255, 0.5);
+    color: #301F56 !important;
 }
 
 @media (max-width: 991px) {
@@ -138,24 +140,23 @@ figcaption {
     }
 }
 
-/* **************** MAIN ************* */
 
-main {
-    color: #081424 !important;
-}
 
-/*  ********************** NEWS ***********************/
+/*  ********************** nav ***********************/
 
 .colorb {
-    background-color: #1c61a7 !important;
+    background-color: #081424 !important;
 }
 
 .btn-secondary {
     color: #081424 !important;
-    background-color: #FFF !important;
-    border-color: #FFF !important;
+   /* background-color: rgba(0, 0, 0, 0.5) !important;*/
+    border-color: #081424 !important;
 }
 
+.botao-drop {
+    background-color: #ffffff;
+}
 .btn-sm {
     font-size: 1.3rem;
     font-weight: 600;
@@ -164,6 +165,10 @@ main {
 .menu-estilos {
     max-width: fit-content;
     max-width: -moz-fit-content;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:  #081424 !important;
 }
 
 .nav-pills .nav-link.active {
@@ -175,4 +180,10 @@ main {
 
 .txtimg {
     font-size: medium;
+}
+
+/* **************** MAIN ************* */
+
+main {
+    color: #081424 !important;
 }
