@@ -8,7 +8,7 @@
 
     <div class="row text-center mt-0 mr-0" role="menu">
         <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php" role="menuitem">Home</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php" role="menuitem">Início</a></div>
 
             <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>historia-do-grafite.php" role="menuitem">História do Grafite</a></div>
 

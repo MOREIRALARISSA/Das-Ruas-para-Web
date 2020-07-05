@@ -44,7 +44,8 @@
                 <ul class="navbar-nav  mx-auto menu-estilos">
                     <li role="menuitem" class="nav-item">
                         <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>index.php">
-                            Home<span class="sr-only">(current)</span>
+                            Início
+                            <!-- <span class="sr-only">(current)</span> -->
                         </a>
                     </li>
                     <li role="menuitem" class="nav-item">
