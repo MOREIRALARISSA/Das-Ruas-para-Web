@@ -4,52 +4,52 @@
 ?>
 
 
-<footer class="colorf">
+<footer class="colorf" role="navigation">
 
-    <div class="row text-center mt-0 mr-0">
+    <div class="row text-center mt-0 mr-0" role="menu">
         <div class="col-lg-4  mt-4 mb-4 centraliza d-none d-lg-block">
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php">Home</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>index.php" role="menuitem">Início</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>historia-do-grafite.php">História do Grafite</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>historia-do-grafite.php" role="menuitem">História do Grafite</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>grafite-no-mundo.php">Grafite no Mundo</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>grafite-no-mundo.php" role="menuitem">Grafite no Mundo</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>mitos-e-verdades.php">Mitos e Verdades</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>mitos-e-verdades.php" role="menuitem">Mitos e Verdades</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>grafite-x-sociedade.php">Grafite x Sociedade</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>grafite-x-sociedade.php" role="menuitem">Grafite x Sociedade</a></div>
         </div>
 
 
         <div class="col-lg-4 mt-4 mb-4 centraliza d-sm-none d-none d-lg-block">
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php">Estilos</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>estilos.php" role="menuitem">Estilos</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/index.php">Freestyle</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/igor/index.php" role="menuitem">Freestyle</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/index.php">Throwup</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/anderson/index.php" role="menuitem">Throwup</a></div>
 
-            <div class="nav-link disabled"><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php">Stencil</a></div>
+            <div class="nav-link disabled"><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/matheus/index.php" role="menuitem">Stencil</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/index.php">Mural</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/larissa/index.php" role="menuitem">Mural</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/index.php">3D</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>_authors/adelina/index.php" role="menuitem">3D</a></div>
         </div>
 
 
         <div class="col-lg-4 mt-4 mb-4 centraliza d-none d-lg-block">
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>news.php">News</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>news.php" role="menuitem">News</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>contato.php">Contato</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>contato.php" role="menuitem">Contato</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>quem-somos.php">Quem Somos</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>quem-somos.php" role="menuitem">Quem Somos</a></div>
 
-            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>normas-de-utilizacao.php">Normas de utilização</a></div>
+            <div class=""><a href="<?php echo !$resultado ? "" : "../../" ;?>normas-de-utilizacao.php" role="menuitem">Normas de utilização</a></div>
         </div>
 
     </div>
 
-    <div class="copy">
+    <div class="copy" role="contentinfo">
         <small>Copyright 2019 | ᴅᴀs ʀᴜᴀs ᴘᴀʀᴀ ᴡᴇʙ </small>
     </div>
 </footer>

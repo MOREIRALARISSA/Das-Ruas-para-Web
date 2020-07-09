@@ -170,19 +170,19 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite artista Aryz">
+                                                <img src="./../../_images/larissa/aryz.jpg" alt="Grafite artista Aryz - Dois muros grafitados, no primeiro muro desenhos abstratos e no segundo muro imagens de dois homens brigando e da cabeça de dua mulher">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/mr_aryz/" target="_blank">@mr_aryz</a></strong> no Fórum Cultural, Carballo, Galiza, 2015.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite artista Kobra">
+                                                <img src="./../../_images/larissa/kobra.jpg" alt="Grafite artista Kobra - Muro grafitado com o personagem Mestre Yoda de Star Wars com uma placa escrita Stop Wars">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/kobrastreetart/" target="_blank">@kobrastreetart</a></strong> no distrito de Wynwood, Miami, Estados Unidos, 2016.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite artista Kueia">
+                                                <img src="./../../_images/larissa/kueia.jpg" alt="Grafite artista Kueia - Muro grafitado com o desenho de um enorme coelho azul segurando uma lata de spray grafitando o próprio muro">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/karenfidelis.art/?hl=pt-br" target="_blank">@karenfidelis.art</a></strong> na Avenida Paulista, em São Paulo, 2018.</figcaption>
                                             </figure>
                                         </div>
@@ -190,19 +190,19 @@
                                     <div class="row p-3">
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite artista Crica">
+                                                <img src="./../../_images/larissa/crica.jpg" alt="Grafite artista Crica - Muro grafitado com o de uma mulher de cabelos coloridos desenhando seu próprio cabelo">
                                                 <figcaption class="mt-3 mb-3">Mural feito por <strong><a href="https://www.instagram.com/crica.monteiro/?igshid=16q7jmvny9b51" target="_blank">@crica.monteiro</a></strong> em São Paulo, 2016.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria">
+                                                <img src="./../../_images/larissa/siria.jpeg" alt="Maior mural da Síria - Muro grafitado ao fundo com um flamingo cor de rosa e uma arara vermelha e rosa nas margem de um lago e a frente os dois artistas escorados no muro">
                                                 <figcaption class="mt-3 mb-3">Mural feito pelos artistas<strong><a href="https://www.instagram.com/rimonguimaraes/?hl=pt-br" target="_blank">@rimonguimaraes</a></strong> e <strong><a href="https://www.instagram.com/zehpalito/?hl=pt-br" target="_blank">@zehpalito</a></strong> na cidade Damasco em meio a guerra da Síria, 2017.</figcaption>
                                             </figure>
                                         </div>
                                         <div class="col-lg-4">
                                             <figure class="mt-3 mb-3">
-                                                <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha">
+                                                <img src="./../../_images/larissa/kobramurcia.jpg" alt="Grafite Kobra em Murcia na Espanha - Muro grafitado com o desenho do artista Salvador Dalí em uma releitura da imagem dele abstrata e colorida">
                                                 <figcaption class="mt-3 mb-3">Mural feito por<strong><a href="https://www.instagram.com/kobrastreetart/" target="_blank">@kobrastreetart</a></strong> no Centro Cultural Puertas de Castilla, em Murcia, na Espanha, 2017.</figcaption>
                                             </figure>
                                         </div>

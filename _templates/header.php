@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 
-<head>
+<head role="banner">
     <meta charset="UTF-8">
     <meta name="viewport" content="width = device-width, initial-scale = 1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -36,7 +36,7 @@
                 </div>
             </a>
 
-            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Menu navegação principal">
+            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Menu navegação principal">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
@@ -44,7 +44,8 @@
                 <ul class="navbar-nav  mx-auto menu-estilos">
                     <li role="menuitem" class="nav-item">
                         <a class="nav-link" href="<?php echo !$resultado ? "" : "../../" ;?>index.php">
-                            Home<span class="sr-only">(current)</span>
+                            Início
+                            <!-- <span class="sr-only">(current)</span> -->
                         </a>
                     </li>
                     <li role="menuitem" class="nav-item">

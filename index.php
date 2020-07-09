@@ -167,7 +167,7 @@
                     <div class="row mt-4">
                         <div class="col-lg-3 offset-lg-1 col-md-3 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">
                             <div class="card">
-                                <a href="_authors/matheus/index.php">
+                                <a class="nav-link disabled" href="_authors/matheus/index.php">
                                     <img class="card-img-top rounded" src="_images/estilos/stencil.png" alt="Imagem capa Grafite Stencil">
                                     <div class="card-body">
                                         <p class="card-text text-right">
