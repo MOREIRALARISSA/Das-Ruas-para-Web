@@ -6,7 +6,7 @@
     <article role="article">
         <div class="container">
             <div class="row">
-                <aside role="complementary">
+                <aside class="index-principal" role="complementary">
                     <div class="col-lg-4 col-md-4 col-md-4 mt-5">
                         <section>
                             <h1 class="text-center mt-5" role="heading">
@@ -27,7 +27,6 @@
                     </div>
 
                     <div class="col-lg-4 col-md-4 mt-5">
-
                         <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
                             <a href="grafite-x-sociedade.php">
                                 <img class="img-fluid rounded col-12" src="./_images/grafite-x-sociedade/hellsKit1970s.jpg" alt="Grafite feito em Hells Kit em 1970">
@@ -42,25 +41,24 @@
                             </a>
                         </div>
                     </div>
+
+                    <div class="col-lg-4 col-md-4 mt-5">
+                        <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
+                            <a href="mitos-e-verdades.php">
+                                <img class="img-fluid rounded col-12" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichação no centro da cidade de Belo Horizonte">
+                                <h2 class="text-center txtimg" role="heading"> Pichação é crime! </h2>
+                            </a>
+                        </div>
+
+                        <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
+                            <a href="grafite-no-mundo.php">
+                                <img class="img-fluid rounded col-12" src="./_images/grafite-no-mundo/kobra.jpg" alt="Grafite feito pelo artista Eduardo Kobra">
+                                <h2 class="text-center txtimg" role="heading"> Grafite no Mundo </h2>
+                            </a>
+                        </div>
+
+                    </div>
                 </aside>
-            </div>
-
-            <div class="col-lg-4 col-md-4 mt-5">
-
-                <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                    <a href="mitos-e-verdades.php">
-                        <img class="img-fluid rounded col-12" src="./_images/mitos-e-verdades/pichacao-centro-bh.jpg" alt="Pichação no centro da cidade de Belo Horizonte">
-                        <h2 class="text-center txtimg" role="heading"> Pichação é crime! </h2>
-                    </a>
-                </div>
-
-                <div class="col-lg-9 offset-lg-2 col-md-12 mt-md-5">
-                    <a href="grafite-no-mundo.php">
-                        <img class="img-fluid rounded col-12" src="./_images/grafite-no-mundo/kobra.jpg" alt="Grafite feito pelo artista Eduardo Kobra">
-                        <h2 class="text-center txtimg" role="heading"> Grafite no Mundo </h2>
-                    </a>
-                </div>
-
             </div>
 
             <div>
