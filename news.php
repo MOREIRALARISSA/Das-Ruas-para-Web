@@ -175,7 +175,7 @@
 
 </main>
 
-<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog" aria-labelledby="modalnews1" aria-hidden="true">
+<div class="modal fade" id="modalnews1" tabindex="-1" role="dialog" aria-labelledby="Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -188,7 +188,7 @@
             <div class="modal-body text-center">
                 <h1 role="heading">Museu de Rua inaugura intervenções em BH ao grafitar muro de 70 metros na Serra </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/museuderua.jpg" alt="Artista com camisa do Museu de Rua assinando uma tela vermelha" />
                     <figcaption>
                         Foto Fauno Cultural/Divulgação.
                     </figcaption>
@@ -225,7 +225,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog" aria-labelledby="modalnews2" aria-hidden="true">
+<div class="modal fade" id="modalnews2" tabindex="-1" role="dialog" aria-labelledby="Grafite e plantio de árvores marcam ação integrada no São Camilo" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -238,7 +238,7 @@
             <div class="modal-body text-center-justify">
                 <h1 role="heading">Grafite e plantio de árvores marcam ação integrada no São Camilo </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/plantio.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/plantio.jpg" alt="Artista grafitando muro com folhas de arvore grandes" />
                     <figcaption>
                         Cinco grafiteiros do Coletivo The King´s participaram da ação.
                     </figcaption>
@@ -296,7 +296,7 @@
             <div class="modal-body text-center">
                 <h1 role="heading"> Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia </h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/Maedagua.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/Maedagua.jpg" alt="Imagem da indígena Margot grafitada em reservatório de agua de 27 metros de altura" />
                     <figcaption>
                         Foto: Adan Garantizado/Águas de Manaus.
                     </figcaption>
@@ -366,7 +366,7 @@
             <div class="modal-body text-center">
                 <h1 role="heading">Os Gêmeos em exposição na Pinacoteca</h1>
                 <figure>
-                    <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/osgemeos.jpg" alt="Imagem dos artistas OSgemeos em frente a um grafite de uma mulher deles na exposição das obras deles na Pinacoteca em São Paulo" />
                     <figcaption>
                         Foto Divulgação.
                     </figcaption>
