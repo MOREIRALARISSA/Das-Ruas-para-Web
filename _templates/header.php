@@ -36,7 +36,7 @@
                 </div>
             </a>
 
-            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="true" aria-label="Menu navegação principal">
+            <button class="navbar-toggler bg-light tam-hamburguer" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Menu navegação principal">
                 <span class="navbar-toggler-icon"></span>
             </button>
 
