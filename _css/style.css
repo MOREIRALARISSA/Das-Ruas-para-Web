@@ -182,4 +182,5 @@ main {
 
 .index-principal {
   display: flex;
+  flex-wrap: wrap;
 }
