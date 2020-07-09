@@ -8,7 +8,7 @@
     <div class="jumbotron junbotrom-fluid mt-4">
         <div class="container">
             <div class="row">
-                <div class="col-12 text-center">
+                <div class="col-12">
                     <h1 class="display-4 font-weight-bold">Freestyle</h1>
                 </div>
             </div>
@@ -33,7 +33,7 @@
                             <h1> SOBRE </h1>
                             <div class="row">
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/igor/Sobregrafite.jpg" alt="">
+                                    <img src="./../../_images/igor/Sobregrafite.jpg" alt="Um grafiteiro segurando um porco com uma mão e com a outra um spray">
                                 </div>
 
                                 <div class="col-lg-4">
@@ -46,7 +46,7 @@
 
                                     </div>
                                 <div class="col-lg-4">
-                                    <img src="./../../_images/igor/Sobregrafite.jpg" alt="">
+                                    <img src="./../../_images/igor/Sobregrafite.jpg" alt="Um grafiteiro segurando um porco com uma mão e com a outra um spray">
                                 </div>
                             </div>
                                  </article>
@@ -61,7 +61,7 @@
                                             <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/igor/ArtistaBolinho.jpg" alt="Bolinho" class="img-fluid">
+                                                <img src="../../_images/igor/ArtistaBolinho.jpg" alt="Foto da Maria Raquel Bolinho, " class="img-fluid">
                                             </div>
                                             <div class="card-body">
                                                 <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
@@ -93,7 +93,7 @@
                                             <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/igor/ArtistaChivitz.jpg" alt="Chivitz" class="img-fluid">
+                                                <img src="../../_images/igor/ArtistaChivitz.jpg" alt="Foto do Chivitz em preto e branco" class="img-fluid">
                                             </div>
                                             <div class="card-body">
                                                 <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
@@ -125,7 +125,7 @@
                                             <!-- <img class="card-img-top" src="" alt=""/>-->
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                            <img src="../../_images/igor/ArtistaMinhau.jpg" alt="Minhau" class="img-fluid">
+                                            <img src="../../_images/igor/ArtistaMinhau.jpg" alt="Foto de um desenho de um gato colorido feita pela artista conhecida como Minhau" class="img-fluid">
                                             </div>
                                             <div class="card-body">
                                                 <!-- <h4 class="card-title font-weight-bold">Caio César Assumpção Rosseto</h4>-->
@@ -148,7 +148,7 @@
                                         <div class="card">
                                             <div class="card-fundo"></div>
                                             <div class="avatar mx-auto">
-                                                <img src="../../_images/igor/ArtistaRamar.jpg" alt="Ramar" class="img-fluid">
+                                                <img src="../../_images/igor/ArtistaRamar.jpg" alt="Homem conhecido como Ramar com barba no queixo sentado em um sofá laranja" class="img-fluid">
                                             </div>
 
                                             <div class="card-body">
@@ -183,14 +183,14 @@
 
                                 <div class="col-lg-4">
                                     <figure class="mt-3 mb-3">
-                                        <img src="./../../_images/igor/ChivitzGrafite.jpg" alt="Grafite Chivitz">
+                                        <img src="./../../_images/igor/ChivitzGrafite.jpg" alt="Grafiteiro abrindo uma bandeja,saindo várias cores dela e na frente um cachorrinho">
                                         <figcaption class="mt-3 mb-3">Grafite feito por <strong><a href="https://www.instagram.com/chivitz/">@Chivitz</a></strong> </figcaption>
                                     </figure>
                                 </div>
 
                                 <div class="col-lg-4">
                                 <figure class="mt-3 mb-3">
-                                    <img src="./../../_images/igor/MinhauArtista.JPG" alt="Grafite Minhau">
+                                    <img src="./../../_images/igor/MinhauArtista.JPG" alt="Desenho de vários gatos de diversos tamanhos">
                                     <figcaption class="mt-3 mb-3">Grafite feito por <strong><a href="https://www.instagram.com/minhau_sp/">@minhau_sp</a></strong> </figcaption>
                                     </figure>
                                 </div>
@@ -199,19 +199,19 @@
                             <div class="row p-3">
                                 <div class="col-lg-4">
                                     <figure class="mt-3 mb-3"> 
-                                        <img src="./../../_images/igor/minhaugrafite.JPG" alt="Grafite Minhau">
+                                        <img src="./../../_images/igor/minhaugrafite.JPG" alt="Desenho de uma pessoa montada em um gato gigante">
                                         <figcaption class="mt-3 mb-3">Grafite feito por <strong><a href="https://www.instagram.com/minhau_sp/">@minhau_sp</a></strong> </figcaption>
                                     </figure>
                                 </div>
                                 <div class="col-lg-4">
                                     <figure class="mt-3 mb-3">
-                                        <img src="./../../_images/igor/querobolinhosobre.jpg" alt="grafite Bolinho">
+                                        <img src="./../../_images/igor/querobolinhosobre.jpg" alt="Desenho de um cabo de guerra de bolinhos">
                                         <figcaption class="mt-3 mb-3">Grafite feito por <strong><a href="https://www.instagram.com/raquelbolinho/">@querobolinho</a></strong></figcaption>
                                     </figure>    
                                 </div>
                                 <div class="col-lg-4">
                                     <figure class="mt-3 mb-3"> 
-                                        <img src="./../../_images/igor/RamarGrafite.jpg" alt="Grafite Ramar">
+                                        <img src="./../../_images/igor/RamarGrafite.jpg" alt="Desenho do Ramar e uma criatura desconhecida">
                                         <figcaption class="mt-3 mb-3">Grafite feito por<strong><a href="https://www.instagram.com/ramargama/?hl=pt-br">@ramargama</a></strong> </figcaption>
                                     </figure>                                                                 
                                 </div>
@@ -229,7 +229,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Raquel bolinho</h4>
+                <h2 class="modal-title">Raquel bolinho</h2>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -241,7 +241,7 @@
                 Aeroporto Internacional Tancredo Neves, Cidade Administrativa, Palácio da Liberdade, Universidade Estadual de Minas Gerais,
                  Escola de Saúde Pública de Minas Gerais e Rodoviária de BH.
                 </p>
-                <p>A artista, formada em Letras pela UFMG, estudou Artes Visuais na Escola de Design da UEMG e vem espalhando suas intervenções de Graffiti desde 2009.
+                <p>A artista formada em Letras pela UFMG, estudou Artes Visuais na Escola de Design da UEMG e vem espalhando suas intervenções de Graffiti desde 2009.
                 </p>
                 <p> Atualmente, paralelo aos trabalhos como grafiteira, administra a Loja Virtual Quero Bolinho e organiza o Bazar do Bolinho, 
                 evento semestral que em cada edição reúne mais de 2.000 fãs do personagem.
@@ -259,7 +259,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Chivitz</h4>
+                <h2 class="modal-title">Chivitz</h2>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -291,7 +291,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Minhau</h4>
+                <h2 class="modal-title">Minhau</h2>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
@@ -324,7 +324,7 @@
     <div class="modal-dialog" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h4 class="modal-title">Ramar</h4>
+                <h2 class="modal-title">Ramar</h2>
                 <button type="button" class="close" data-dismiss="modal">
                     <span>&times;</span>
                 </button>
