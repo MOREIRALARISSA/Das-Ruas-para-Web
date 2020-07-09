@@ -53,7 +53,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/museuderua.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/museuderua.jpg" alt="Artista com camisa do Museu de Rua assinando uma tela vermelha" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -69,7 +69,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/plantio.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/plantio.jpg" alt="Artista grafitando muro com folhas de arvore grandes" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -87,7 +87,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/Maedagua.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/Maedagua.jpg" alt="Imagem da indígena Margot grafitada em reservatório de agua de 27 metros de altura" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -103,7 +103,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/osgemeos.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/osgemeos.jpg" alt="Imagem dos artistas OSgemeos em frente a um grafite de uma mulher deles na exposição das obras deles na Pinacoteca em São Paulo" />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -121,7 +121,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/itapecerica.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/itapecerica.jpg" alt="Imagem de um mmuro grafitado com a imagem de uma índia com um vestido roxo floral " />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -137,7 +137,7 @@
                 <div class="card mb-3 mx-auto cardb" style="max-width: 540px;">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                            <img class="card-img" src="./_images/news/santos.jpg" alt="" />
+                            <img class="card-img" src="./_images/news/santos.jpg" alt="Imagem de um muro grafitado com desenhos de crianças ao lado do planeta terra." />
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -283,7 +283,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog" aria-labelledby="modalnews3" aria-hidden="true">
+<div class="modal fade" id="modalnews3" tabindex="-1" role="dialog" aria-labelledby="Grafite em reservatório na Ponta Negra destaca cores e cultura da Amazônia" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -353,7 +353,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog" aria-labelledby="modalnews4" aria-hidden="true">
+<div class="modal fade" id="modalnews4" tabindex="-1" role="dialog" aria-labelledby="Os Gêmeos em exposição na Pinacoteca" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -397,7 +397,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog" aria-labelledby="modalnews5" aria-hidden="true">
+<div class="modal fade" id="modalnews5" tabindex="-1" role="dialog" aria-labelledby="Itapecerica: grafite transforma Jd. Branca Flor em galeria de arte a céu aberto" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -447,7 +447,7 @@
     </div>
 </div>
 
-<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog" aria-labelledby="modalnews6" aria-hidden="true">
+<div class="modal fade" id="modalnews6" tabindex="-1" role="dialog" aria-labelledby="Oficinas gratuitas de grafite têm inscrições abertas em Santos" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
@@ -462,7 +462,7 @@
                 <h5> Aulas serão ministradas na Vila Criativa da Vila Nova no próximo sábado (23). </h5>
 
                 <figure>
-                    <img class="img-fluid" src="./_images/news/santos.jpg" alt="" />
+                    <img class="img-fluid" src="./_images/news/santos.jpg" alt="Imagem de um muro grafitado com desenhos de crianças ao lado do planeta terra." />
                     <figcaption>
                         Foto: Divulgação/Prefeitura de Santos
                     </figcaption>
