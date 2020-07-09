@@ -23,10 +23,10 @@
                     <nav id="navbarVertical" class="navbar navbar-light bg-light mt-4" aria-label="Menu navegação grafite no mundo">
                         <nav class="nav nav-pills flex-column" role="navigation">
                             <a class="nav-link active" href="#item1"> BRASIL </a>
-                            <a class="nav-link" href="#item2"> INGLATERRA</a>
-                            <a class="nav-link" href="#item3">ESTADOS UNIDOS</a>
-                            <a class="nav-link" href="#item4">ÁFRICA DO SUL</a>
-                            <a class="nav-link" href="#item5">AUSTRÁLIA</a>
+                            <a class="nav-link" href="#item2" role="nav-item"> INGLATERRA</a>
+                            <a class="nav-link" href="#item3" role="nav-item">ESTADOS UNIDOS</a>
+                            <a class="nav-link" href="#item4" role="nav-item">ÁFRICA DO SUL</a>
+                            <a class="nav-link" href="#item5" role="nav-item">AUSTRÁLIA</a>
                         </nav>
                     </nav>
                 </div>
